@@ -1,44 +1,33 @@
-#include "Enemy.h"
-#include "Log.cpp"
+#include <iostream>
+#include <SFML/Graphics.hpp>
 
-sf::Sprite Enemy::sprite;
+class Enemy {
+protected:
+    int hp;
+    int speed;
+    int attackPower;
+    std::string name;
+    static sf::Sprite sprite;
 
-Enemy::Enemy() : speed(600.f), gravity(980.f), velocity(sf::Vector2f(0.f, 0.f))
-{
-    sprite.setPosition(100.f, 400.f);
-}
+public:
+    Enemy(int h, int s, int a) : hp(h), speed(s), attackPower(a) {}
 
-void Enemy::setTexture(const sf::Texture& texture) {
-    sprite.setTexture(texture);
-}
-
-void Enemy::update(sf::Time deltaTime) {
-    sprite.move(velocity * (deltaTime.asSeconds() * 0.5f));
-
-    if (sprite.getPosition().y > 400.f) {
-        sprite.setPosition(sprite.getPosition().x, 400.f);
-
-        velocity.y = 0.f;
-        velocity.x = 0.f;
+    void setTexture(const sf::Texture& texture) {
+        sprite.setTexture(texture);
     }
 
-    // Borders for enemy to not leave window
-    if (sprite.getPosition().x >= 800.f) {
-        sprite.setPosition(720.f, sprite.getPosition().y);
+    virtual void attack() {
+        // Attack logic...
     }
-    if (sprite.getPosition().x <= 0.f) {
-        sprite.setPosition(1.f, sprite.getPosition().y);
+
+    virtual void die() {
+        // Dying logic...
     }
-    if (sprite.getPosition().y <= 0.f) {
-        sprite.setPosition(sprite.getPosition().x, 1.f);
+
+    void takeDamage(int damage) {
+        hp -= damage;
+        if (hp <= 0) {
+            die();
+        }
     }
-}
-
-void Enemy::render(sf::RenderWindow& window) {
-    // Draw the Enemy
-    window.draw(sprite);
-}
-
-void Enemy::seePlayer() {
-
-}
+};

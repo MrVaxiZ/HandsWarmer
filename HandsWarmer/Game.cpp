@@ -2,13 +2,13 @@
 #include "Log.cpp"
 
 
-Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), enemy(), mousePositionDisplay(window){
+Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mousePositionDisplay(window){
     window.setFramerateLimit(360);
     Log log;
 
     std::vector<std::pair<std::string, std::string>> texturesToLoad = {
-        {"playerTexture", "C:\\Users\\Wiktor\\source\\repos\\HandsWarmer\\HandsWarmer\\Textures\\character.png"},
-        {"mechTrooper", "C:\\Users\\Wiktor\\source\\repos\\HandsWarmer\\HandsWarmer\\Textures\\mechTrooper.png"},
+        {"playerTexture", "C:\\Users\\vaxiz\\source\\repos\\HandsWarmer\\HandsWarmer\\Textures\\character.png"},
+        {"mechTrooper", "C:\\Users\\vaxiz\\source\\repos\\HandsWarmer\\HandsWarmer\\Textures\\mechTrooper.png"},
     };
 
     for (const auto& textureInfo : texturesToLoad) {
@@ -20,13 +20,10 @@ Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), enemy(
             if (textureInfo.first == "playerTexture") {
                 player.setTexture(textureManager.getTexture(textureInfo.first));
             }
-            if (textureInfo.first == "mechTrooper") {
-                enemy.setTexture(textureManager.getTexture(textureInfo.first));
-            }
         }
     }
 
-    if (!level.load("C:\\Users\\Wiktor\\source\\repos\\HandsWarmer\\HandsWarmer\\Textures\\background.jpg")) {
+    if (!level.load("C:\\Users\\vaxiz\\source\\repos\\HandsWarmer\\HandsWarmer\\Textures\\background.jpg")) {
         log.errorLog("Could not load level background!");
     }
     else {
@@ -63,7 +60,6 @@ void Game::processEvents() {
 
 void Game::update(sf::Time deltaTime) {
     player.update(deltaTime);
-    enemy.update(deltaTime);
     mousePositionDisplay.update();
 }
 
@@ -71,7 +67,6 @@ void Game::render() {
     window.clear();
     level.render(window);
     player.render(window);
-    enemy.render(window);
     mousePositionDisplay.render(window);
     window.display();
 }

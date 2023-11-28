@@ -25,11 +25,11 @@
     <ClCompile Include="TextureManager.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Enemy.h">
-      <Filter>Headers</Filter>
-    </ClInclude>
     <ClInclude Include="Level.h">
       <Filter>Headers</Filter>
     </ClInclude>

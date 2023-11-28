@@ -3,9 +3,9 @@
 
 #include <SFML/Graphics.hpp>
 #include "TextureManager.h"
+#include "MousePositionDisplay.h"
 #include "Player.h"
 #include "Level.h"
-#include "MousePositionDisplay.h"
 #include "Enemy.h"
 
 class Game {
@@ -18,7 +18,6 @@ private:
     TextureManager textureManager;
     Level level;
     Player player;
-    Enemy enemy;
     MousePositionDisplay mousePositionDisplay;
 
     void processEvents();

@@ -23,6 +23,7 @@ private:
     bool isOnGround; // Flag to check if the player is on the ground
     bool leftJump; // Flag to determine whether player is jumping left
     bool rightJump; // Flag to determine whether player is jumping right
+    int hp;
 };
 
 #endif // PLAYER_H
