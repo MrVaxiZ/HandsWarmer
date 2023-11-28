@@ -1,0 +1,4 @@
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK

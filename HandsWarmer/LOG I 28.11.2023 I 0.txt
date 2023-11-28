@@ -1,0 +1,1468 @@
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+\/ ======= START ======= \: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+
+INFO: playerTexture texture loaded! OK
+ERROR: Could not load texture: mechTrooper
+INFO: Background texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: playerTexture texture loaded! OK
+ERROR: Could not load texture: mechTrooper
+INFO: Background texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
