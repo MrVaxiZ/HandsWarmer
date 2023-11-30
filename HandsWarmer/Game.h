@@ -6,7 +6,6 @@
 #include "MousePositionDisplay.h"
 #include "Player.h"
 #include "Level.h"
-#include "Enemy.h"
 
 class Game {
 public:

@@ -1,0 +1,3 @@
+ERROR: Could not load texture: playerTexture
+ERROR: Could not load texture: mechTrooper
+ERROR: Could not load level background!

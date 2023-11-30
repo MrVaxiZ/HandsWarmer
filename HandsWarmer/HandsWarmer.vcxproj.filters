@@ -28,6 +28,9 @@
     <ClCompile Include="Weapon.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
+    <ClCompile Include="MechTrooper.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Level.h">
@@ -43,6 +46,12 @@
       <Filter>Headers</Filter>
     </ClInclude>
     <ClInclude Include="Game.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MechTrooper.h">
       <Filter>Headers</Filter>
     </ClInclude>
   </ItemGroup>

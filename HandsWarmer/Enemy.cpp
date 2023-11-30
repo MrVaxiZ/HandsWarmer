@@ -1,19 +1,28 @@
 #include <iostream>
+
+#include "Player.cpp"
+
+#include "Enemy.h"
+
 #include <SFML/Graphics.hpp>
 
 class Enemy {
 protected:
     int hp;
     int speed;
-    int attackPower;
+    int damage;
     std::string name;
     static sf::Sprite sprite;
 
 public:
-    Enemy(int h, int s, int a) : hp(h), speed(s), attackPower(a) {}
+    Enemy(int h, int s, int a) : hp(h), speed(s), damage(a) {}
 
     void setTexture(const sf::Texture& texture) {
         sprite.setTexture(texture);
+    }
+
+    virtual void detectPlayer(const Player& player) {
+        // Player detection logic ...
     }
 
     virtual void attack() {

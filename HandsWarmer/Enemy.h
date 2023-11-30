@@ -1,21 +1,28 @@
+// Enemy.h
 #ifndef ENEMY_H
 #define ENEMY_H
 
+#include <iostream>
 #include <SFML/Graphics.hpp>
+#include "Player.h"
 
 class Enemy {
-public:
-    Enemy(); // Default constructor
-    void setTexture(const sf::Texture& texture); // Method to set the texture
-    void update(sf::Time deltaTime);
-    void render(sf::RenderWindow& window);
-    void seePlayer();
+protected:
+    int hp;
+    int speed;
+    int damage;
+    std::string name;
     static sf::Sprite sprite;
 
-private:
-    sf::Vector2f velocity;
-    float speed; // How fast the player moves
-    float gravity; // Gravity value
+public:
+    Enemy(int h, int s, int d);
+    virtual ~Enemy() {}
+
+    void setTexture(const sf::Texture& texture);
+    virtual void detectPlayer(const Player& player);
+    virtual void attack();
+    virtual void die();
+    void takeDamage(int damage);
 };
 
-#endif // ENEMY.H
+#endif  // ENEMY_H

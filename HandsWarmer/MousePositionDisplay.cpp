@@ -6,7 +6,7 @@
 #include "Log.cpp"
 
 MousePositionDisplay::MousePositionDisplay(sf::RenderWindow& window) : windowRef(window) {
-    if (!font.loadFromFile("C:\\Users\\vaxiz\\source\\repos\\HandsWarmer\\HandsWarmer\\Textures\\arial.TTF")) {
+    if (!font.loadFromFile("Textures\\arial.TTF")) {
     }
 
     text.setFont(font);

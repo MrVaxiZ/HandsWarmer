@@ -3,7 +3,7 @@
 
 sf::Sprite Player::sprite;
 
-Player::Player() : speed(1000.f), gravity(980.f), isOnGround(true), leftJump(false), rightJump(false),
+Player::Player() : speed(1000.f), gravity(980.f), isOnGround(true), leftJump(false), rightJump(false), hp(100),
 velocity(sf::Vector2f(0.f, 0.f)), jumpVelocity(sf::Vector2f(0.f, -2500.f)) 
 {
     sprite.setPosition(400.f, 400.f);

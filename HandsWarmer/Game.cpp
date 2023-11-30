@@ -7,8 +7,8 @@ Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mouseP
     Log log;
 
     std::vector<std::pair<std::string, std::string>> texturesToLoad = {
-        {"playerTexture", "C:\\Users\\vaxiz\\source\\repos\\HandsWarmer\\HandsWarmer\\Textures\\character.png"},
-        {"mechTrooper", "C:\\Users\\vaxiz\\source\\repos\\HandsWarmer\\HandsWarmer\\Textures\\mechTrooper.png"},
+        {"playerTexture", "Textures\\character.png"},
+        //{"mechTrooper", "Textures\\mechTrooper.png"},
     };
 
     for (const auto& textureInfo : texturesToLoad) {
@@ -23,7 +23,7 @@ Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mouseP
         }
     }
 
-    if (!level.load("C:\\Users\\vaxiz\\source\\repos\\HandsWarmer\\HandsWarmer\\Textures\\background.jpg")) {
+    if (!level.load("Textures\\background.jpg")) {
         log.errorLog("Could not load level background!");
     }
     else {
