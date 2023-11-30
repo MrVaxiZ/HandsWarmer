@@ -17,7 +17,7 @@ protected:
 public:
     Enemy(int h, int s, int a) : hp(h), speed(s), damage(a) {}
 
-    void setTexture(const sf::Texture& texture) {
+    virtual void setTexture(const sf::Texture& texture) {
         sprite.setTexture(texture);
     }
 

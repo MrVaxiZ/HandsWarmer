@@ -7,7 +7,11 @@
 class MechTrooper : public Enemy {
 public:
     MechTrooper(int hp, int speed, int damage);
-    
+    void takeDamage(int damage);
+    void setTexture(const sf::Texture& texture);
+    void detectPlayer(const Player& player);
+    void attack();
+    void die();
 };
 
 #endif  // MECHTROOPER_H

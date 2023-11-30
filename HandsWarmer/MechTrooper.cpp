@@ -1,12 +1,34 @@
+#include <iostream>
+
 #include "MechTrooper.h"
 
+#include "Log.cpp"
+
 // Constructor
-MechTrooper::MechTrooper(int hp, int speed, int damage) : Enemy(hp, speed, damage) {
-    // Initialization specific to MechTrooper, if any
+MechTrooper::MechTrooper(int hp, int speed, int damage)
+    : Enemy(hp, speed, damage) {
+    
+    sprite.setPosition(700, 400);
 }
 
-// Override virtual functions, if necessary
-void MechTrooper::attack() {
-    // Specific attack logic for MechTrooper
+void MechTrooper::setTexture(const sf::Texture& texture)
+{
+    sprite.setTexture(texture);
+}
+
+void MechTrooper::attack() 
+{
+}
+
+void MechTrooper::die()
+{
+}
+
+void MechTrooper::takeDamage(int damage)
+{
+}
+
+void MechTrooper::detectPlayer(const Player& player)
+{
 }
 
