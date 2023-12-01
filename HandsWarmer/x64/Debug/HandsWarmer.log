@@ -1,7 +1,3 @@
-﻿  Enemy.cpp
-C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Enemy.cpp(9,13): error C2011: 'Enemy': 'class' type redefinition
-C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Enemy.h(11,7): message : see declaration of 'Enemy'
-  Game.cpp
-  HandsWarmer.cpp
-  MechTrooper.cpp
-  Generating Code...
+﻿  MechTrooper.cpp
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(4,12): warning C4356: 'Enemy::sprite': static data member cannot be initialized via derived class
+  HandsWarmer.vcxproj -> C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\x64\Debug\HandsWarmer.exe

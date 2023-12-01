@@ -2,8 +2,6 @@
 #ifndef ENEMY_H
 #define ENEMY_H
 
-#include <iostream>
-
 #include <SFML/Graphics.hpp>
 
 #include "Player.h"
@@ -26,6 +24,8 @@ public:
     virtual void detectPlayer(const Player& player);
     virtual void attack();
     virtual void die();
+    virtual void update(sf::Time deltaTime);
+    virtual void render(sf::RenderWindow& window);
 };
 
 #endif  // ENEMY_H

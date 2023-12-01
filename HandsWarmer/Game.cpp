@@ -1,8 +1,8 @@
 #include "Game.h"
-#include "Log.cpp"
 
+#include "Log.h"
 
-Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mechTrooper(),
+Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mechTrooper(100, 1000, 0),
 mousePositionDisplay(window){
     window.setFramerateLimit(360);
     Log log;

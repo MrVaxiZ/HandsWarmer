@@ -145,10 +145,14 @@
     <ClInclude Include="Enemy.h" />
     <ClInclude Include="Game.h" />
     <ClInclude Include="Level.h" />
+    <ClInclude Include="Log.h" />
     <ClInclude Include="MechTrooper.h" />
     <ClInclude Include="MousePositionDisplay.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="TextureManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Log.inl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

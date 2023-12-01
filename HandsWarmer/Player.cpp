@@ -1,5 +1,5 @@
 ﻿#include "Player.h"
-#include "Log.cpp"
+#include "Log.h"
 
 sf::Sprite Player::sprite;
 

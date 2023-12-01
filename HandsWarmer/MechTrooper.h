@@ -12,6 +12,8 @@ public:
     void detectPlayer(const Player& player);
     void attack();
     void die();
+    void update(sf::Time deltaTime);
+    void render(sf::RenderWindow& window);
 };
 
 #endif  // MECHTROOPER_H

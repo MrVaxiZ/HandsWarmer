@@ -1,8 +1,6 @@
-#include <iostream>
-
 #include "MechTrooper.h"
 
-#include "Log.cpp"
+sf::Sprite MechTrooper::sprite;
 
 // Constructor
 MechTrooper::MechTrooper(int hp, int speed, int damage)
@@ -14,6 +12,14 @@ MechTrooper::MechTrooper(int hp, int speed, int damage)
 void MechTrooper::setTexture(const sf::Texture& texture)
 {
     sprite.setTexture(texture);
+}
+
+void MechTrooper::render(sf::RenderWindow& window) {
+    window.draw(sprite);
+}
+
+void MechTrooper::update(sf::Time deltaTime) {
+
 }
 
 void MechTrooper::attack() 

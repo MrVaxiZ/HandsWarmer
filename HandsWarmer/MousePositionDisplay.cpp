@@ -3,7 +3,7 @@
 #include "Player.h"
 #include <sstream>
 #include <SFML/Graphics.hpp>
-#include "Log.cpp"
+#include "Log.h"
 
 MousePositionDisplay::MousePositionDisplay(sf::RenderWindow& window) : windowRef(window) {
     if (!font.loadFromFile("Textures\\arial.TTF")) {
