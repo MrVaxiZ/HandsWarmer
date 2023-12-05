@@ -65,6 +65,7 @@ void Game::processEvents() {
 
 void Game::update(sf::Time deltaTime) {
     player.update(deltaTime);
+    mechTrooper.update(deltaTime);
     mousePositionDisplay.update();
 }
 
@@ -72,6 +73,7 @@ void Game::render() {
     window.clear();
     level.render(window);
     player.render(window);
+    mechTrooper.render(window);
     mousePositionDisplay.render(window);
     window.display();
 }

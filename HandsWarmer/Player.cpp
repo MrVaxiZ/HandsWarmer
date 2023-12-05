@@ -45,8 +45,8 @@ void Player::handleInput() {
 }
 
 void Player::update(sf::Time deltaTime) {
-    // Apply gravity if the player is not on the ground
 
+    // Apply gravity if the player is not on the ground
     if (leftJump && !isOnGround) {
         velocity.y += (gravity * 0.2f) * (deltaTime.asSeconds() * 30);
         velocity.x -= (speed) * (deltaTime.asSeconds() * 30);

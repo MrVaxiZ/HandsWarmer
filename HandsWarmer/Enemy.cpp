@@ -13,7 +13,6 @@ void Enemy::render(sf::RenderWindow& window) {
 }
 
 void Enemy::update(sf::Time deltaTime) {
-
 }
 
 // Detect the player

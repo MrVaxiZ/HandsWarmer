@@ -18,14 +18,16 @@ public:
     Enemy(int h, int s, int d);
     virtual ~Enemy() {}
 
+    // voids (if needed make them also virtual)
+    void update(sf::Time deltaTime);
+    void render(sf::RenderWindow& window);
+    void setTexture(const sf::Texture& texture);
+
     // virtual voids
     virtual void takeDamage(int damage);
-    virtual void setTexture(const sf::Texture& texture);
     virtual void detectPlayer(const Player& player);
     virtual void attack();
     virtual void die();
-    virtual void update(sf::Time deltaTime);
-    virtual void render(sf::RenderWindow& window);
 };
 
 #endif  // ENEMY_H
