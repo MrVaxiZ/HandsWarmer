@@ -1,0 +1,4483 @@
+INFO: playerTexture texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: playerTexture texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: playerTexture texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: I see you now!
+INFO: playerTexture texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: Player X: 400
+INFO: Mechtrooper X: 100
+INFO: I see you now!
+INFO: playerTexture texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: 1000
+
+INFO: Speed: : 1000
+
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Velocity.y: -2500
+
+INFO: JumpVelocity.y: -2500
+
+INFO: Velocity.x: -1000
+
+INFO: Speed: : 1000
+

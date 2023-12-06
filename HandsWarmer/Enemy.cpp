@@ -4,27 +4,33 @@
 Enemy::Enemy(int h, int s, int d) : hp(h), speed(s), damage(d) {}
 
 // Set the texture for the sprite
-void Enemy::setTexture(const sf::Texture& texture) {
+void Enemy::setTexture(const sf::Texture& texture) 
+{
     sprite.setTexture(texture);
 }
 
-void Enemy::render(sf::RenderWindow& window) {
+void Enemy::render(sf::RenderWindow& window) 
+{
     window.draw(sprite);
 }
 
-void Enemy::update(sf::Time deltaTime) {
+void Enemy::update(sf::Time deltaTime) 
+{
 }
 
 // Detect the player
-void Enemy::detectPlayer(const Player& player) {
+void Enemy::detectPlayer(const Player& player) 
+{
 }
 
 // Attack logic
-void Enemy::attack() {
+void Enemy::attack() 
+{
 }
 
 // Dying logic
-void Enemy::die() {
+void Enemy::die() 
+{
 }
 
 // Take damage and check for death

@@ -1,5 +1,4 @@
 #include "Game.h"
-
 #include "Log.h"
 
 Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mechTrooper(100, 1000, 0),
