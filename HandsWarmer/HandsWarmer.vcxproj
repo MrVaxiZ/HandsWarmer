@@ -138,6 +138,7 @@
     <ClCompile Include="MechTrooper.cpp" />
     <ClCompile Include="MousePositionDisplay.cpp" />
     <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Shooting.cpp" />
     <ClCompile Include="TextureManager.cpp" />
     <ClCompile Include="Weapon.cpp" />
   </ItemGroup>
@@ -149,6 +150,7 @@
     <ClInclude Include="MechTrooper.h" />
     <ClInclude Include="MousePositionDisplay.h" />
     <ClInclude Include="Player.h" />
+    <ClInclude Include="Shooting.h" />
     <ClInclude Include="TextureManager.h" />
   </ItemGroup>
   <ItemGroup>

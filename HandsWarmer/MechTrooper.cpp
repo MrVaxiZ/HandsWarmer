@@ -40,11 +40,9 @@ void MechTrooper::update(sf::Time deltaTime)
 void MechTrooper::detectPlayer(const Player& player)
 {
     float distance = 200.0f;
-    if (player.posX > sprite.getPosition().x + distance)
+    if (player.sprite.getPosition().x < sprite.getPosition().x + distance)
     {
-        log.infoLog("Player X: ", player.posX);
-        log.infoLog("Mechtrooper X: ", sprite.getPosition().x);
-        log.infoLog("I see you now!");
+        log.infoLog("\nI see you now!");
     }
 }
 

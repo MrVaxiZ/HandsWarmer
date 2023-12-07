@@ -61,10 +61,6 @@ void Player::update(sf::Time deltaTime) {
 
     sprite.move(velocity * (deltaTime.asSeconds() * 0.5f));
 
-    // Update player position across every class
-    posX = GetPosX();
-    posY = GetPosY();
-
     if (sprite.getPosition().y > 400.f) {
         sprite.setPosition(sprite.getPosition().x, 400.f);
         isOnGround = true;
@@ -93,8 +89,6 @@ void Player::StraightJump() {
     isOnGround = false;
 
     log.startLog(":: STRAIGHT JUMP ::");
-    log.infoLog("Velocity.y: ", velocity.y, '\n');
-    log.infoLog("JumpVelocity.y: ", jumpVelocity.y, '\n');
 }
 void Player::LeftJump() {
     // Apply jump velocity
@@ -104,10 +98,6 @@ void Player::LeftJump() {
     leftJump = true;
 
     log.startLog(":: LEFT JUMP ::");
-    log.infoLog("Velocity.y: ", velocity.y, '\n');
-    log.infoLog("JumpVelocity.y: ", jumpVelocity.y, '\n');
-    log.infoLog("Velocity.x: ", velocity.x, '\n');
-    log.infoLog("Speed: : ", speed, '\n');
 }
 void Player::RightJump() {
     // Apply jump velocity
@@ -117,20 +107,6 @@ void Player::RightJump() {
     rightJump = true;
 
     log.startLog(":: RIGHT JUMP ::");
-    log.infoLog("Velocity.y: ", velocity.y, '\n');
-    log.infoLog("JumpVelocity.y: ", jumpVelocity.y, '\n');
-    log.infoLog("Velocity.x: ", velocity.x, '\n');
-    log.infoLog("Speed: : ", speed, '\n');
-}
-
-float Player::GetPosX()
-{
-    return sprite.getPosition().x;
-}
-
-float Player::GetPosY()
-{
-    return sprite.getPosition().y;
 }
 
 void Player::render(sf::RenderWindow& window) {

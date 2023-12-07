@@ -31,6 +31,9 @@
     <ClCompile Include="Log.cpp">
       <Filter>Log</Filter>
     </ClCompile>
+    <ClCompile Include="Shooting.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Level.h">
@@ -56,6 +59,9 @@
     </ClInclude>
     <ClInclude Include="Log.h">
       <Filter>Log</Filter>
+    </ClInclude>
+    <ClInclude Include="Shooting.h">
+      <Filter>Headers</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

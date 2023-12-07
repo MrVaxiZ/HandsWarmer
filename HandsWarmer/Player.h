@@ -2,6 +2,7 @@
 #define PLAYER_H
 
 #include "Log.h"
+#include "Shooting.h"
 
 #include <SFML/Graphics.hpp>
 
@@ -15,18 +16,14 @@ public:
     void StraightJump();
     void LeftJump();
     void RightJump();
+    void shooting();
 
     static sf::Sprite sprite;
-
-    float GetPosX(); // Gets current possition of player on x
-    float GetPosY(); // Gets current possition of player on y
-    float posX; 
-    float posY;
-
+    
 private:
     Log log;
 
-    sf::Vector2f velocity;
+    sf::Vector2f velocity; // Base velocity of a player
     sf::Vector2f jumpVelocity; // Velocity applied when jumping
 
     float speed; // How fast the player moves
