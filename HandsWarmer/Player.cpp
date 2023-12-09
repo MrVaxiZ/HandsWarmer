@@ -1,5 +1,4 @@
 ﻿#include "Player.h"
-#include "Log.cpp"
 
 sf::Sprite Player::sprite;
 
@@ -45,8 +44,8 @@ void Player::handleInput() {
 }
 
 void Player::update(sf::Time deltaTime) {
-    // Apply gravity if the player is not on the ground
 
+    // Apply gravity if the player is not on the ground
     if (leftJump && !isOnGround) {
         velocity.y += (gravity * 0.2f) * (deltaTime.asSeconds() * 30);
         velocity.x -= (speed) * (deltaTime.asSeconds() * 30);
@@ -88,11 +87,8 @@ void Player::StraightJump() {
     // Apply jump velocity
     velocity.y += jumpVelocity.y;
     isOnGround = false;
-    Log log;
 
     log.startLog(":: STRAIGHT JUMP ::");
-    log.infoLog("Velocity.y: ", velocity.y, '\n');
-    log.infoLog("JumpVelocity.y: ", jumpVelocity.y, '\n');
 }
 void Player::LeftJump() {
     // Apply jump velocity
@@ -100,13 +96,8 @@ void Player::LeftJump() {
     velocity.x -= speed;
     isOnGround = false;
     leftJump = true;
-    Log log;
 
     log.startLog(":: LEFT JUMP ::");
-    log.infoLog("Velocity.y: ", velocity.y, '\n');
-    log.infoLog("JumpVelocity.y: ", jumpVelocity.y, '\n');
-    log.infoLog("Velocity.x: ", velocity.x, '\n');
-    log.infoLog("Speed: : ", speed, '\n');
 }
 void Player::RightJump() {
     // Apply jump velocity
@@ -114,13 +105,8 @@ void Player::RightJump() {
     velocity.x += speed;
     isOnGround = false;
     rightJump = true;
-    Log log;
 
     log.startLog(":: RIGHT JUMP ::");
-    log.infoLog("Velocity.y: ", velocity.y, '\n');
-    log.infoLog("JumpVelocity.y: ", jumpVelocity.y, '\n');
-    log.infoLog("Velocity.x: ", velocity.x, '\n');
-    log.infoLog("Speed: : ", speed, '\n');
 }
 
 void Player::render(sf::RenderWindow& window) {

@@ -1,42 +1,42 @@
-#include <iostream>
-
-#include "Player.cpp"
-
 #include "Enemy.h"
 
-#include <SFML/Graphics.hpp>
+// Constructor implementation
+Enemy::Enemy(int h, int s, int d) : hp(h), speed(s), damage(d) {}
 
-class Enemy {
-protected:
-    int hp;
-    int speed;
-    int damage;
-    std::string name;
-    static sf::Sprite sprite;
+// Set the texture for the sprite
+void Enemy::setTexture(const sf::Texture& texture) 
+{
+    sprite.setTexture(texture);
+}
 
-public:
-    Enemy(int h, int s, int a) : hp(h), speed(s), damage(a) {}
+void Enemy::render(sf::RenderWindow& window) 
+{
+    window.draw(sprite);
+}
 
-    void setTexture(const sf::Texture& texture) {
-        sprite.setTexture(texture);
+void Enemy::update(sf::Time deltaTime) 
+{
+}
+
+// Detect the player
+void Enemy::detectPlayer(const Player& player) 
+{
+}
+
+// Attack logic
+void Enemy::attack() 
+{
+}
+
+// Dying logic
+void Enemy::die() 
+{
+}
+
+// Take damage and check for death
+void Enemy::takeDamage(int damage) {
+    hp -= damage;
+    if (hp <= 0) {
+        die();
     }
-
-    virtual void detectPlayer(const Player& player) {
-        // Player detection logic ...
-    }
-
-    virtual void attack() {
-        // Attack logic...
-    }
-
-    virtual void die() {
-        // Dying logic...
-    }
-
-    void takeDamage(int damage) {
-        hp -= damage;
-        if (hp <= 0) {
-            die();
-        }
-    }
-};
+}

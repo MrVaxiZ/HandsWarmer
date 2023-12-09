@@ -1,14 +1,14 @@
 #include "Game.h"
-#include "Log.cpp"
+#include "Log.h"
 
-
-Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mousePositionDisplay(window){
+Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mechTrooper(100, 1000, 0),
+mousePositionDisplay(window){
     window.setFramerateLimit(360);
     Log log;
 
     std::vector<std::pair<std::string, std::string>> texturesToLoad = {
         {"playerTexture", "Textures\\character.png"},
-        //{"mechTrooper", "Textures\\mechTrooper.png"},
+        {"mechTrooper", "Textures\\mechTrooper-PointLeft_ProperSize.png"},
     };
 
     for (const auto& textureInfo : texturesToLoad) {
@@ -19,6 +19,10 @@ Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mouseP
             log.infoLog(textureInfo.first + " texture loaded! OK");
             if (textureInfo.first == "playerTexture") {
                 player.setTexture(textureManager.getTexture(textureInfo.first));
+            }
+            log.infoLog(textureInfo.first + " texture loaded! OK");
+            if (textureInfo.first == "mechTrooper") {
+                mechTrooper.setTexture(textureManager.getTexture(textureInfo.first));
             }
         }
     }
@@ -60,6 +64,7 @@ void Game::processEvents() {
 
 void Game::update(sf::Time deltaTime) {
     player.update(deltaTime);
+    mechTrooper.update(deltaTime);
     mousePositionDisplay.update();
 }
 
@@ -67,6 +72,7 @@ void Game::render() {
     window.clear();
     level.render(window);
     player.render(window);
+    mechTrooper.render(window);
     mousePositionDisplay.render(window);
     window.display();
 }

@@ -2,10 +2,12 @@
 #define GAME_H
 
 #include <SFML/Graphics.hpp>
+
 #include "TextureManager.h"
 #include "MousePositionDisplay.h"
 #include "Player.h"
 #include "Level.h"
+#include "MechTrooper.h"
 
 class Game {
 public:
@@ -17,6 +19,7 @@ private:
     TextureManager textureManager;
     Level level;
     Player player;
+    MechTrooper mechTrooper;
     MousePositionDisplay mousePositionDisplay;
 
     void processEvents();

@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="Enemy.cpp">
-      <Filter>Classes</Filter>
-    </ClCompile>
     <ClCompile Include="Game.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
@@ -11,9 +8,6 @@
       <Filter>Classes</Filter>
     </ClCompile>
     <ClCompile Include="Level.cpp">
-      <Filter>Classes</Filter>
-    </ClCompile>
-    <ClCompile Include="Log.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
     <ClCompile Include="MousePositionDisplay.cpp">
@@ -29,6 +23,15 @@
       <Filter>Classes</Filter>
     </ClCompile>
     <ClCompile Include="MechTrooper.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Log</Filter>
+    </ClCompile>
+    <ClCompile Include="Shooting.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
   </ItemGroup>
@@ -49,9 +52,15 @@
       <Filter>Headers</Filter>
     </ClInclude>
     <ClInclude Include="Enemy.h">
-      <Filter>Headers</Filter>
+      <Filter>Enemies</Filter>
     </ClInclude>
     <ClInclude Include="MechTrooper.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Log</Filter>
+    </ClInclude>
+    <ClInclude Include="Shooting.h">
       <Filter>Headers</Filter>
     </ClInclude>
   </ItemGroup>
@@ -62,5 +71,16 @@
     <Filter Include="Headers">
       <UniqueIdentifier>{f60d4b69-bb38-4e8b-931b-ae2eacf22d33}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Enemies">
+      <UniqueIdentifier>{46799001-db88-44ee-933d-b52b941dab1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Log">
+      <UniqueIdentifier>{9c08beaf-092b-4992-a096-b2be398dbde7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Log.inl">
+      <Filter>Log</Filter>
+    </None>
   </ItemGroup>
 </Project>
