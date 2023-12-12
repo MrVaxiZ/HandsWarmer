@@ -1,16 +1,4 @@
-﻿  Enemy.cpp
-  Game.cpp
+﻿  Game.cpp
   HandsWarmer.cpp
-  Level.cpp
-  Log.cpp
-  MechTrooper.cpp
-E:\GitHub Repos\HandsWarmer\HandsWarmer\MechTrooper.cpp(3,12): warning C4356: 'Enemy::sprite': static data member cannot be initialized via derived class
-  MousePositionDisplay.cpp
-  Player.cpp
-  Shooting.cpp
-  TextureManager.cpp
-  Weapon.cpp
   Generating Code...
-  HandsWarmer.vcxproj -> E:\GitHub Repos\HandsWarmer\x64\Debug\HandsWarmer.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
+  HandsWarmer.vcxproj -> C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\x64\Debug\HandsWarmer.exe

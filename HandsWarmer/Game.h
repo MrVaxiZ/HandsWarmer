@@ -3,6 +3,10 @@
 
 #include <SFML/Graphics.hpp>
 
+#include <thread>
+#include <vector>
+#include <future>
+
 #include "TextureManager.h"
 #include "MousePositionDisplay.h"
 #include "Player.h"
