@@ -9,17 +9,21 @@ void Enemy::setTexture(const sf::Texture& texture)
     sprite.setTexture(texture);
 }
 
+void Enemy::setShootTexture(const sf::Texture& texture) 
+{
+    shootingTexture = texture;
+}
+
 void Enemy::render(sf::RenderWindow& window) 
 {
     window.draw(sprite);
 }
 
 void Enemy::update(sf::Time deltaTime) 
-{
-}
+{}
 
 // Detect the player
-void Enemy::detectPlayer(const Player& player) 
+bool Enemy::detectPlayer(const Player& player) 
 {
 }
 

@@ -8,6 +8,7 @@ Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mechTr
     std::vector<std::pair<std::string, std::string>> texturesToLoad = {
         {"playerTexture", "Textures\\character.png"},
         {"mechTrooper", "Textures\\mechTrooper-PointLeft_ProperSize.png"},
+        {"bulletTexture_OrangeBlue", "Textures\\buller_txt_OB_r.png"}
     };
 
     std::vector<std::future<bool>> futures;
@@ -19,7 +20,7 @@ Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mechTr
             }
         log.infoLog(textureInfo.first + " texture loaded! OK");
         return true;
-            }));
+        }));
     }
 
     // Wait for all textures to load

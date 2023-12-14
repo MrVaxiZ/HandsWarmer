@@ -3,6 +3,7 @@
 #define MECHTROOPER_H
 
 #include "Enemy.h"
+#include "Shooting.h"
 
 class MechTrooper : public Enemy {
 private:
@@ -17,10 +18,11 @@ public:
     void die() override;
 
     // Other
-    void detectPlayer(const Player& player);
+    bool detectPlayer(const Player& player);
     void update(sf::Time deltaTime);
     void render(sf::RenderWindow& window);
     void setTexture(const sf::Texture& texture);
+    void setShootTexture(const sf::Texture& texture);
 };
 
 #endif  // MECHTROOPER_H

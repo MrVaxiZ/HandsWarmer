@@ -1,4 +1,24 @@
-﻿  Game.cpp
+﻿  Enemy.cpp
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.h(13,12): error C3646: 'player': unknown override specifier
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.h(13,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Game.cpp
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.h(13,12): error C3646: 'player': unknown override specifier
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.h(13,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
   HandsWarmer.cpp
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.h(13,12): error C3646: 'player': unknown override specifier
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.h(13,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  MechTrooper.cpp
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.h(13,12): error C3646: 'player': unknown override specifier
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.h(13,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(3,12): warning C4356: 'Enemy::sprite': static data member cannot be initialized via derived class
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(19,19): error C2661: 'Shooting::Shooting': no overloaded function takes 3 arguments
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(19,19): message : while trying to match the argument list '(float, sf::Texture, sf::Sprite)'
+  MousePositionDisplay.cpp
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.h(13,12): error C3646: 'player': unknown override specifier
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.h(13,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Player.cpp
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.h(13,12): error C3646: 'player': unknown override specifier
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.h(13,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Shooting.cpp
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\Shooting.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   Generating Code...
-  HandsWarmer.vcxproj -> C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\x64\Debug\HandsWarmer.exe
