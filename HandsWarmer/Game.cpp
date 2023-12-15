@@ -1,16 +1,23 @@
 #include "Game.h"
 #include "Log.h"
 
-Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mechTrooper(100, 1000, 0), mousePositionDisplay(window) {
+Game::Game() : 
+    window(sf::VideoMode(800, 600), "Hands Warmer"),
+    player(),
+    mechTrooper(0, 0, 0),
+    mousePositionDisplay(window) 
+    {
+
     window.setFramerateLimit(360);
     Log log;
 
     std::vector<std::pair<std::string, std::string>> texturesToLoad = {
         {"playerTexture", "Textures\\character.png"},
         {"mechTrooper", "Textures\\mechTrooper-PointLeft_ProperSize.png"},
-        {"bulletTexture_OrangeBlue", "Textures\\buller_txt_OB_r.png"}
+        {"shootMechTrooper", "Textures\\buller_txt_OB_r.png"},
     };
 
+    // Load textures asynchronously
     std::vector<std::future<bool>> futures;
     for (const auto& textureInfo : texturesToLoad) {
         futures.push_back(std::async(std::launch::async, [this, &log, &textureInfo]() {
@@ -20,7 +27,7 @@ Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mechTr
             }
         log.infoLog(textureInfo.first + " texture loaded! OK");
         return true;
-        }));
+            }));
     }
 
     // Wait for all textures to load
@@ -29,8 +36,17 @@ Game::Game() : window(sf::VideoMode(800, 600), "Hands Warmer"), player(), mechTr
     }
 
     // Now that all textures are loaded, set them to the objects
-    player.setTexture(textureManager.getTexture("playerTexture"));
-    mechTrooper.setTexture(textureManager.getTexture("mechTrooper"));
+    try
+    {
+        player.setTexture(textureManager.getTexture("playerTexture"));
+        mechTrooper.setTexture(textureManager.getTexture("mechTrooper"));
+        mechTrooper.provideTexture(textureManager.getTexture("shootMechTrooper"));
+    }
+    catch (const std::exception& e)
+    {
+        log.errorLog("Error during assigning texture to object (Probably key has not been found)",
+            "\nError: ", e.what());
+    }
 
     if (!level.load("Textures\\background.jpg")) {
         log.errorLog("Could not load level background!");

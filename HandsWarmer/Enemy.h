@@ -12,7 +12,8 @@ protected:
     int speed;
     int damage;
     std::string name;
-    sf::Texture shootingTexture;
+    sf::Texture bulletTexture;
+
     static sf::Sprite sprite;
 
 public:
@@ -20,7 +21,7 @@ public:
     virtual ~Enemy() {}
 
     // virtual others
-    virtual bool detectPlayer(const Player& player);
+    virtual bool detectPlayer(const Player& player, float distance);
 
     // virtual voids
     virtual void takeDamage(int damage);
@@ -29,7 +30,7 @@ public:
     virtual void update(sf::Time deltaTime);
     virtual void render(sf::RenderWindow& window);
     virtual void setTexture(const sf::Texture& texture);
-    virtual void setShootTexture(const sf::Texture& texture);
+    virtual void provideTexture(sf::Texture texture);
 };
 
 #endif  // ENEMY_H
