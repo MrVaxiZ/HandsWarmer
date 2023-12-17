@@ -1,3 +1,2 @@
-﻿  MechTrooper.cpp
-C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(3,12): warning C4356: 'Enemy::sprite': static data member cannot be initialized via derived class
+﻿  Game.cpp
   HandsWarmer.vcxproj -> C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\x64\Debug\HandsWarmer.exe

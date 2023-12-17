@@ -1,15 +1,15 @@
 ﻿#include "Player.h"
 
-sf::Sprite Player::sprite;
+sf::Sprite Player::player_sprite;
 
 Player::Player() : speed(1000.f), gravity(980.f), isOnGround(true), leftJump(false), rightJump(false), hp(100),
 velocity(sf::Vector2f(0.f, 0.f)), jumpVelocity(sf::Vector2f(0.f, -2500.f)) 
 {
-    sprite.setPosition(400.f, 400.f);
+    player_sprite.setPosition(400.f, 400.f);
 }
 
 void Player::setTexture(const sf::Texture& texture) {
-    sprite.setTexture(texture);
+    player_sprite.setTexture(texture);
 }
 
 void Player::handleInput() {
@@ -59,10 +59,10 @@ void Player::update(sf::Time deltaTime) {
         velocity.y += (gravity*0.2f) * (deltaTime.asSeconds() * 30);
     }
 
-    sprite.move(velocity * (deltaTime.asSeconds() * 0.5f));
+    player_sprite.move(velocity * (deltaTime.asSeconds() * 0.5f));
 
-    if (sprite.getPosition().y > 400.f) {
-        sprite.setPosition(sprite.getPosition().x, 400.f);
+    if (player_sprite.getPosition().y > 400.f) {
+        player_sprite.setPosition(player_sprite.getPosition().x, 400.f);
         isOnGround = true;
         rightJump = false;
         leftJump = false;
@@ -72,14 +72,14 @@ void Player::update(sf::Time deltaTime) {
     }
 
     // Borders for player to not leave window
-    if (sprite.getPosition().x >= 800.f) {
-        sprite.setPosition(720.f, sprite.getPosition().y);
+    if (player_sprite.getPosition().x >= 800.f) {
+        player_sprite.setPosition(720.f, player_sprite.getPosition().y);
     }
-    if (sprite.getPosition().x <= 0.f) {
-        sprite.setPosition(1.f, sprite.getPosition().y);
+    if (player_sprite.getPosition().x <= 0.f) {
+        player_sprite.setPosition(1.f, player_sprite.getPosition().y);
     }
-    if (sprite.getPosition().y <= 0.f) {
-        sprite.setPosition(sprite.getPosition().x, 1.f);
+    if (player_sprite.getPosition().y <= 0.f) {
+        player_sprite.setPosition(player_sprite.getPosition().x, 1.f);
     }
 }
 
@@ -111,5 +111,5 @@ void Player::RightJump() {
 
 void Player::render(sf::RenderWindow& window) {
     // Draw the player's sprite
-    window.draw(sprite);
+    window.draw(player_sprite);
 }

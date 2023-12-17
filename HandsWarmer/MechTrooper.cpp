@@ -4,7 +4,7 @@ sf::Sprite MechTrooper::sprite;
 
 // Constructor
 MechTrooper::MechTrooper(int hp, int speed, int damage)
-    : Enemy(hp, speed, damage), shooter(2000.0f, 200.0f) {
+    : Enemy(hp, speed, damage), shooter(1.0f, 200.0f) {
     
     shooter.setBulletTexture(bulletTexture);
     name = "MechTrooper";
@@ -13,7 +13,7 @@ MechTrooper::MechTrooper(int hp, int speed, int damage)
 
 bool MechTrooper::detectPlayer(const Player& player, float distance_p)
 {
-    float playerPosition = player.sprite.getPosition().x;
+    float playerPosition = player.player_sprite.getPosition().x;
     float mechPosition = sprite.getPosition().x;
 
     if (abs(playerPosition - mechPosition) <= distance_p) {
@@ -33,7 +33,7 @@ void MechTrooper::provideTexture(sf::Texture texture) {
 void MechTrooper::attack()
 {
     if (detectPlayer(player, distance_p)) {
-        sf::Vector2f direction = player.sprite.getPosition() - sprite.getPosition();
+        sf::Vector2f direction = player.player_sprite.getPosition() - sprite.getPosition();
         shooter.shoot(sprite.getPosition(), direction);
     }
 }

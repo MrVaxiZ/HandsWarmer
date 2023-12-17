@@ -24,7 +24,7 @@ void Enemy::update(sf::Time deltaTime)
 // Detect the player
 bool Enemy::detectPlayer(const Player& player, float distance) 
 {
-    float playerPosition = player.sprite.getPosition().x;
+    float playerPosition = player.player_sprite.getPosition().x;
     float mechPosition = sprite.getPosition().x;
 
     if (abs(playerPosition - mechPosition) <= distance) {

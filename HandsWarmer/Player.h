@@ -18,7 +18,7 @@ public:
     void RightJump();
     void shooting();
 
-    static sf::Sprite sprite;
+    static sf::Sprite player_sprite;
     
 private:
     Log log;
