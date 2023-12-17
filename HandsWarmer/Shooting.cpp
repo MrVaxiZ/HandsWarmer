@@ -24,7 +24,7 @@ void Shooting::debugPrint() {
     }
 }
 
-void Shooting::setBulletTexture(sf::Texture texture) {
+void Shooting::setBulletTexture(const sf::Texture& texture) {
     sprite_s.setTexture(texture);
 }
 
@@ -50,7 +50,7 @@ void Shooting::shoot(sf::Vector2f position, sf::Vector2f direction) {
 
 void Shooting::update(sf::Time deltaTime) {
     timeSinceLastShot += deltaTime;
-
+    infinityAmmo();
     // Update all projectiles
     for (auto& projectile : projectiles) {
         projectile.first += projectile.second * projectileSpeed * (deltaTime.asSeconds()*0.002f);
@@ -63,5 +63,10 @@ void Shooting::draw(sf::RenderWindow& window) {
         sprite_s.setPosition(projectile.first);
         window.draw(sprite_s);
     }
+}
+
+void Shooting::infinityAmmo()
+{
+    currentAmmo = INT16_MAX;
 }
 

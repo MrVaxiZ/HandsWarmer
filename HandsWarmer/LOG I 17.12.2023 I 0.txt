@@ -1,814 +1,540 @@
+INFO: shootMechTrooper texture loaded! OK
 INFO: mechTrooper texture loaded! OK
 INFO: playerTexture texture loaded! OK
-INFO: shootMechTrooper texture loaded! OK
 INFO: Background texture loaded! OK
-\/ ======= START ======= \ 
-: :: LEFT JUMP ::
 INFO: Shooting! Bullet: 1
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 2
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 3
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 4
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 5
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 6
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 7
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 8
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 9
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 10
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 11
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 12
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 13
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 14
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 15
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 16
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 17
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 18
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 19
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 20
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 21
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 22
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 23
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 24
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 25
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 26
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 27
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 28
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 29
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 30
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 31
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 32
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 33
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 34
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 35
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 36
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 37
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 38
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 39
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 40
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 41
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 42
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 43
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 44
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 45
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 46
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 47
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 48
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 49
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 50
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 51
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 52
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 53
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 54
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 55
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 56
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 57
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 58
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 59
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 60
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 61
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 62
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 63
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 64
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 65
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 66
 INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 67
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
 INFO: Shooting! Bullet: 68
 INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 69
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 70
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 71
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 72
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 73
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 74
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 75
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 76
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 77
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 78
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 79
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 80
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 81
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 82
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 83
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 84
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 85
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 86
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 87
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 88
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 89
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 90
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 91
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 92
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 93
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 94
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 95
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 96
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 97
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 98
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 99
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 100
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 101
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 102
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 103
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 104
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 105
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 106
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 107
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 108
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 109
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 110
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 111
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 112
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 113
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 114
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 115
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 116
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 117
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 118
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 119
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 120
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 121
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 122
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 123
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 124
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 125
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 126
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 127
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 128
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 129
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 130
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 131
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 132
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 133
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 134
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 135
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 136
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 137
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 138
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 139
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 140
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 141
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 142
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 143
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 144
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 145
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 146
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 147
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 148
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 149
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 150
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 151
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 152
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 153
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 154
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 155
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 156
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 157
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 158
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 159
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 160
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 161
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 162
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 163
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 164
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 165
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 166
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 167
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 168
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 169
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 170
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 171
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 172
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 173
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 174
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 175
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 176
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 177
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 178
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 179
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 180
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 181
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 182
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 183
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 184
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 185
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 186
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 187
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 188
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 189
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 190
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 191
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 192
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 193
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 194
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 195
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 196
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 197
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 198
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 199
-INFO: Bullet texture is set!
-Size x: 306068473
-Size y: 32762
-INFO: Shooting! Bullet: 200
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 201
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
-INFO: Shooting! Bullet: 202
-INFO: Bullet texture is set!
-Size x: 2940129750
-Size y: 32759
+Size x: 16
+Size y: 22
+INFO: shootMechTrooper texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Shooting! Bullet: 1
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 2
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 3
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 4
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 5
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 6
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 7
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 8
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 9
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 10
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 11
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 12
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 13
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 14
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 15
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 16
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 17
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 18
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 19
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 20
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 21
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 22
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 23
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 24
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 25
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 26
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 27
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 28
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 29
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 30
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 31
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 32
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 33
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 34
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 35
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 36
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 37
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 38
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 39
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 40
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 41
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 42
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 43
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 44
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 45
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 46
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 47
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 48
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 49
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 50
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 51
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 52
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 53
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 54
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 55
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 56
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 57
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 58
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 59
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 60
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 61
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 62
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 63
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 64
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22
+INFO: Shooting! Bullet: 65
+INFO: Bullet texture is set!
+Size x: 16
+Size y: 22

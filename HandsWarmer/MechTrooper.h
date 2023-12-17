@@ -25,11 +25,15 @@ public:
     void die() override;
 
     // Other
+    sf::Vector2f normalize(const sf::Vector2f& source); // To set direction for 1,0 or -1
+
     bool detectPlayer(const Player& player, float distance);
+
     void update(sf::Time deltaTime);
     void render(sf::RenderWindow& window);
     void setTexture(const sf::Texture& texture);
     void provideTexture(sf::Texture texture);
+
 };
 
 #endif  // MECHTROOPER_H

@@ -30,11 +30,21 @@ void MechTrooper::provideTexture(sf::Texture texture) {
     bulletTexture = texture;
 }
 
+sf::Vector2f MechTrooper::normalize(const sf::Vector2f& source)
+{
+    float length = std::sqrt((source.x * source.x) + (source.y * source.y));
+    if (length != 0)
+        return sf::Vector2f(source.x / length, source.y / length);
+    else
+        return source;
+}
+
+
 void MechTrooper::attack()
 {
     if (detectPlayer(player, distance_p)) {
         sf::Vector2f direction = player.player_sprite.getPosition() - sprite.getPosition();
-        shooter.shoot(sprite.getPosition(), direction);
+        shooter.shoot(sprite.getPosition(), normalize(direction));
     }
 }
 
@@ -54,12 +64,12 @@ void MechTrooper::setTexture(const sf::Texture& texture)
 
 void MechTrooper::render(sf::RenderWindow& window) {
     Enemy::render(window);
-    attack();
     shooter.draw(window);
+    attack();
 }
 
 void MechTrooper::update(sf::Time deltaTime) {
-    Enemy::update(deltaTime);
-    attack();
     shooter.update(deltaTime);
+    attack();
+    Enemy::update(deltaTime);
 }
