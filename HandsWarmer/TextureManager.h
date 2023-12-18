@@ -1,9 +1,11 @@
 #ifndef TEXTUREMANAGER_H
 #define TEXTUREMANAGER_H
 
-#include <SFML/Graphics.hpp>
 #include <unordered_map>
 #include <string>
+#include <mutex>
+
+#include <SFML/Graphics.hpp>
 
 class TextureManager {
 public:
@@ -12,6 +14,7 @@ public:
 
 private:
     std::unordered_map<std::string, sf::Texture> textures;
+    std::mutex mutex; // Mutex for thread-safe access
 };
 
 #endif // TEXTUREMANAGER_H

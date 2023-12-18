@@ -8,8 +8,8 @@
 
 class Player {
 public:
-    Player(); // Default constructor
-    void setTexture(const sf::Texture& texture); // Method to set the texture
+    Player(); 
+    void setTexture(const sf::Texture& texture);
     void handleInput();
     void update(sf::Time deltaTime);
     void render(sf::RenderWindow& window);
@@ -18,7 +18,7 @@ public:
     void RightJump();
     void shooting();
 
-    static sf::Sprite sprite;
+    static sf::Sprite player_sprite;
     
 private:
     Log log;

@@ -9,18 +9,30 @@ void Enemy::setTexture(const sf::Texture& texture)
     sprite.setTexture(texture);
 }
 
+void Enemy::provideTexture(sf::Texture texture) {
+    bulletTexture = texture;
+};
+
 void Enemy::render(sf::RenderWindow& window) 
 {
     window.draw(sprite);
 }
 
 void Enemy::update(sf::Time deltaTime) 
-{
-}
+{}
 
 // Detect the player
-void Enemy::detectPlayer(const Player& player) 
+bool Enemy::detectPlayer(const Player& player, float distance) 
 {
+    float playerPosition = player.player_sprite.getPosition().x;
+    float mechPosition = sprite.getPosition().x;
+
+    if (abs(playerPosition - mechPosition) <= distance) {
+        return true;
+    }
+    else {
+        return false;
+    }
 }
 
 // Attack logic

@@ -1,17 +1,19 @@
 #include "TextureManager.h"
 
 bool TextureManager::loadTexture(const std::string& name, const std::string& filename) {
-    // Create and load texture
     sf::Texture texture;
     if (!texture.loadFromFile(filename)) {
-        return false; // loading failed
+        return false; // Loading failed
     }
 
-    // Add texture to the map
-    textures[name] = texture;
+    {
+        std::lock_guard<std::mutex> lock(mutex); // Lock for thread safety
+        textures[name] = std::move(texture);
+    }
     return true;
 }
 
 sf::Texture& TextureManager::getTexture(const std::string& name) {
+    std::lock_guard<std::mutex> lock(mutex); // Lock for thread safety
     return textures.at(name); // Will throw std::out_of_range if not found
 }

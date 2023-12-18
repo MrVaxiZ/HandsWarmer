@@ -15,7 +15,7 @@ MousePositionDisplay::MousePositionDisplay(sf::RenderWindow& window) : windowRef
 }
 
 void MousePositionDisplay::update() {
-    sf::Vector2f pixelPos = Player::sprite.getPosition() ; //sf::Mouse::getPosition(windowRef);
+    sf::Vector2f pixelPos = Player::player_sprite.getPosition() ; //sf::Mouse::getPosition(windowRef);
     sf::Vector2f worldPos = pixelPos;
 
     std::stringstream ss;

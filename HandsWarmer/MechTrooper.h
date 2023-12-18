@@ -3,11 +3,19 @@
 #define MECHTROOPER_H
 
 #include "Enemy.h"
+#include "Shooting.h"
 
 class MechTrooper : public Enemy {
 private:
     Log log;
     Player player;
+    Shooting shooter;
+
+    //Temp to be deleted later
+    int64_t bigValue = 0;
+
+    float distance_p = 200.0f;
+
 public:
     MechTrooper(int hp, int speed, int damage);
 
@@ -17,10 +25,15 @@ public:
     void die() override;
 
     // Other
-    void detectPlayer(const Player& player);
+    sf::Vector2f normalize(const sf::Vector2f& source); // To set direction for 1,0 or -1
+
+    bool detectPlayer(const Player& player, float distance);
+
     void update(sf::Time deltaTime);
     void render(sf::RenderWindow& window);
     void setTexture(const sf::Texture& texture);
+    void provideTexture(sf::Texture texture);
+
 };
 
 #endif  // MECHTROOPER_H
