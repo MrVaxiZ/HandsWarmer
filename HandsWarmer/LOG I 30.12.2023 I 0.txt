@@ -1,0 +1,34 @@
+INFO: mechTrooper texture loaded! OK
+INFO: shootMechTrooper texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: Background texture loaded! OK
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+INFO: Shooting! Bullet: 1
+INFO: Shooting! Bullet: 2
+INFO: Shooting! Bullet: 3
+INFO: Shooting! Bullet: 4
+INFO: Shooting! Bullet: 5
+INFO: Shooting! Bullet: 6
+INFO: Shooting! Bullet: 7
+INFO: Shooting! Bullet: 8
+INFO: Shooting! Bullet: 9
+INFO: Shooting! Bullet: 10
+INFO: Shooting! Bullet: 11
+INFO: Shooting! Bullet: 12
+INFO: Shooting! Bullet: 13
+INFO: Shooting! Bullet: 14
+INFO: Shooting! Bullet: 15
+INFO: Shooting! Bullet: 16
+INFO: Shooting! Bullet: 17
+INFO: Shooting! Bullet: 18
+INFO: Shooting! Bullet: 19
+INFO: Shooting! Bullet: 20
+INFO: Shooting! Bullet: 21
+INFO: Shooting! Bullet: 22
+INFO: Shooting! Bullet: 23
+INFO: Shooting! Bullet: 24
+INFO: Shooting! Bullet: 25
+INFO: Shooting! Bullet: 26
+INFO: Shooting! Bullet: 27
+INFO: Shooting! Bullet: 28

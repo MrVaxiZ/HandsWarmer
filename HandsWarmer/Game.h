@@ -15,17 +15,18 @@
 
 class Game {
 public:
-    Game();
-    void run();
-
-private:
     sf::RenderWindow window;
+    sf::Vector2f mousePosWindow;
     TextureManager textureManager;
     Level level;
     Player player;
     MechTrooper mechTrooper;
     MousePositionDisplay mousePositionDisplay;
 
+    Game();
+    void run();
+
+private:
     void processEvents();
     void update(sf::Time deltaTime);
     void render();

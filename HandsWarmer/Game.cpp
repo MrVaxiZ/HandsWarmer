@@ -16,7 +16,6 @@ Game::Game() :
         {"mechTrooper", "Textures\\mechTrooper-PointLeft_ProperSize.png"},
         {"shootMechTrooper", "Textures\\buller_txt_OB_r.png"},
     };
-
     // Load textures asynchronously
     std::vector<std::future<bool>> futures;
     for (const auto& textureInfo : texturesToLoad) {
@@ -35,12 +34,12 @@ Game::Game() :
         future.wait();
     }
 
-    // Now that all textures are loaded, set them to the objects
+    // Now that all textures are loaded, apply them to the objects
     try
     {
         player.setTexture(textureManager.getTexture("playerTexture"));
         mechTrooper.setTexture(textureManager.getTexture("mechTrooper"));
-        mechTrooper.provideTexture(textureManager.getTexture("shootMechTrooper"));
+        //mechTrooper.provideTexture(textureManager.getTexture("shootMechTrooper"));
     }
     catch (const std::exception& e)
     {
@@ -84,8 +83,11 @@ void Game::processEvents() {
 }
 
 void Game::update(sf::Time deltaTime) {
+    mousePosWindow = sf::Vector2f(sf::Mouse::getPosition(window));
+
+    player.setMousePos(mousePosWindow);
     player.update(deltaTime);
-    mechTrooper.update(deltaTime);
+    mechTrooper.update(deltaTime, player.player_sprite);
     mousePositionDisplay.update();
 }
 

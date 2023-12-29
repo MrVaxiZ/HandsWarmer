@@ -9,17 +9,10 @@ void Enemy::setTexture(const sf::Texture& texture)
     sprite.setTexture(texture);
 }
 
-void Enemy::provideTexture(sf::Texture texture) {
+void Enemy::provideTexture(sf::Texture texture) 
+{
     bulletTexture = texture;
 };
-
-void Enemy::render(sf::RenderWindow& window) 
-{
-    window.draw(sprite);
-}
-
-void Enemy::update(sf::Time deltaTime) 
-{}
 
 // Detect the player
 bool Enemy::detectPlayer(const Player& player, float distance) 
@@ -36,7 +29,7 @@ bool Enemy::detectPlayer(const Player& player, float distance)
 }
 
 // Attack logic
-void Enemy::attack() 
+void Enemy::attack(const sf::Sprite& player)
 {
 }
 
@@ -51,4 +44,13 @@ void Enemy::takeDamage(int damage) {
     if (hp <= 0) {
         die();
     }
+}
+
+void Enemy::render(sf::RenderWindow& window)
+{
+    window.draw(sprite);
+}
+
+void Enemy::update(sf::Time deltaTime)
+{
 }

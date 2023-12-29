@@ -3,37 +3,36 @@
 #define MECHTROOPER_H
 
 #include "Enemy.h"
-#include "Shooting.h"
+#include "Player.h"
+#include "Log.h"
 
 class MechTrooper : public Enemy {
 private:
     Log log;
-    Player player;
-    Shooting shooter;
+    sf::Sprite sprite;
 
-    //Temp to be deleted later
+    //Debug
     int64_t bigValue = 0;
+    //END Debug
 
     float distance_p = 200.0f;
 
 public:
     MechTrooper(int hp, int speed, int damage);
 
-    // Override methodes
-    void takeDamage(int damage) override;
-    void attack() override;
-    void die() override;
+    // Override methods
+    //void takeDamage(int damage) override;
+    void attack(const sf::Sprite& player) override;
+    //void die() override;
 
     // Other
-    sf::Vector2f normalize(const sf::Vector2f& source); // To set direction for 1,0 or -1
+    sf::Vector2f normalize(const sf::Vector2f& source) const;
+    bool detectPlayer(const sf::Sprite& player, float distance);
 
-    bool detectPlayer(const Player& player, float distance);
-
-    void update(sf::Time deltaTime);
+    void update(sf::Time deltaTime, const sf::Sprite& player);
     void render(sf::RenderWindow& window);
     void setTexture(const sf::Texture& texture);
-    void provideTexture(sf::Texture texture);
-
+    //void provideTexture(const sf::Texture& texture);
 };
 
 #endif  // MECHTROOPER_H

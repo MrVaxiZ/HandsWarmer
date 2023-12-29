@@ -13,8 +13,7 @@ protected:
     int damage;
     std::string name;
     sf::Texture bulletTexture;
-
-    static sf::Sprite sprite;
+    sf::Sprite sprite;
 
 public:
     Enemy(int h, int s, int d);
@@ -25,7 +24,7 @@ public:
 
     // virtual voids
     virtual void takeDamage(int damage);
-    virtual void attack();
+    virtual void attack(const sf::Sprite& player);
     virtual void die();
     virtual void update(sf::Time deltaTime);
     virtual void render(sf::RenderWindow& window);

@@ -1,2 +1,3 @@
 C:\Users\vaxiz\source\repos\HandsWarmer\HandsWarmer\x64\Debug\HandsWarmer.vcxproj.CopyComplete
 E:\GitHub Repos\HandsWarmer\HandsWarmer\x64\Debug\HandsWarmer.vcxproj.CopyComplete
+C:\Users\vaxiz\Desktop\CodeBase\git\HandsWarmer\HandsWarmer\x64\Debug\HandsWarmer.vcxproj.CopyComplete
