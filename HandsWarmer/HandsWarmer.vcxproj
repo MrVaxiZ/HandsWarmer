@@ -133,10 +133,12 @@
   <ItemGroup>
     <ClCompile Include="Bullet.cpp" />
     <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="EnemyShooting.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="HandsWarmer.cpp" />
     <ClCompile Include="Level.cpp" />
     <ClCompile Include="Log.cpp" />
+    <ClCompile Include="Magazine.cpp" />
     <ClCompile Include="MechTrooper.cpp" />
     <ClCompile Include="MousePositionDisplay.cpp" />
     <ClCompile Include="Player.cpp" />
@@ -146,10 +148,12 @@
   <ItemGroup>
     <ClInclude Include="Bullet.h" />
     <ClInclude Include="Enemy.h" />
+    <ClInclude Include="EnemyShooting.h" />
     <ClInclude Include="Game.h" />
     <ClInclude Include="IEnemy.h" />
     <ClInclude Include="Level.h" />
     <ClInclude Include="Log.h" />
+    <ClInclude Include="Magazine.h" />
     <ClInclude Include="MechTrooper.h" />
     <ClInclude Include="MousePositionDisplay.h" />
     <ClInclude Include="Player.h" />

@@ -1,8 +1,5 @@
-﻿  Enemy.cpp
-  Game.cpp
-  HandsWarmer.cpp
-  MechTrooper.cpp
-  Generating Code...
+﻿  Player.cpp
+C:\Users\vaxiz\Desktop\CodeBase\git\HandsWarmer\HandsWarmer\Player.cpp(184,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   HandsWarmer.vcxproj -> C:\Users\vaxiz\Desktop\CodeBase\git\HandsWarmer\x64\Debug\HandsWarmer.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.

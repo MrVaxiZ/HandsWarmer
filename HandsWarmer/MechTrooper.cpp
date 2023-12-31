@@ -19,24 +19,9 @@ sf::Vector2f MechTrooper::normalize(const sf::Vector2f& source) const
 
 void MechTrooper::attack(const sf::Sprite& player)
 {
-    if (detectPlayer(player, distance_p)) {
-        sf::Vector2f direction = player.getPosition() - sprite.getPosition();
-    }
-}
-
-bool MechTrooper::detectPlayer(const sf::Sprite& player, float distance)
-{
-    float playerPosition = player.getPosition().x;
-    float mechPosition = sprite.getPosition().x;
-
-    if (abs(playerPosition - mechPosition) <= distance) {
-        bigValue++;
-        log.infoLog("Shooting! Bullet: ", bigValue);
-        return true;
-    }
-    else {
-        return false;
-    }
+    //if (detectPlayer(player, distance_p)) {
+    //    sf::Vector2f direction = player.getPosition() - sprite.getPosition();
+    //}
 }
 
 void MechTrooper::update(sf::Time deltaTime, const sf::Sprite& player) {

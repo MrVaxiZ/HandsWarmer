@@ -7,8 +7,9 @@
 class Bullet {
 public:
     sf::CircleShape shape_b;
+    //sf::Texture txt;
     sf::Vector2f currVel_b;
-    float maxSpeed_b = 15.f;
+    float maxSpeed_b;
 };
 
 #endif // BULLET_H

@@ -32,3 +32,117 @@ INFO: Shooting! Bullet: 25
 INFO: Shooting! Bullet: 26
 INFO: Shooting! Bullet: 27
 INFO: Shooting! Bullet: 28
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: shootMechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: playerTexture texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: shootMechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+INFO: Shooting! Bullet: 1
+INFO: Shooting! Bullet: 2
+INFO: Shooting! Bullet: 3
+INFO: Shooting! Bullet: 4
+INFO: Shooting! Bullet: 5
+INFO: Shooting! Bullet: 6
+INFO: Shooting! Bullet: 7
+INFO: Shooting! Bullet: 8
+INFO: Shooting! Bullet: 9
+INFO: Shooting! Bullet: 10
+INFO: Shooting! Bullet: 11
+INFO: Shooting! Bullet: 12
+INFO: Shooting! Bullet: 13
+INFO: Shooting! Bullet: 14
+INFO: Shooting! Bullet: 15
+INFO: Shooting! Bullet: 16
+INFO: Shooting! Bullet: 17
+INFO: Shooting! Bullet: 18
+INFO: Shooting! Bullet: 19
+INFO: Shooting! Bullet: 20
+INFO: Shooting! Bullet: 21
+INFO: Shooting! Bullet: 22
+INFO: Shooting! Bullet: 23
+INFO: Shooting! Bullet: 24
+INFO: Shooting! Bullet: 25
+INFO: Shooting! Bullet: 26
+INFO: Shooting! Bullet: 27
+INFO: Shooting! Bullet: 28
+INFO: Shooting! Bullet: 29
+INFO: Shooting! Bullet: 30
+INFO: Shooting! Bullet: 31
+INFO: Shooting! Bullet: 32
+INFO: Shooting! Bullet: 33
+INFO: Shooting! Bullet: 34
+INFO: Shooting! Bullet: 35
+INFO: Shooting! Bullet: 36
+INFO: Shooting! Bullet: 37
+INFO: Shooting! Bullet: 38
+INFO: Shooting! Bullet: 39
+INFO: Shooting! Bullet: 40
+INFO: Shooting! Bullet: 41
+INFO: Shooting! Bullet: 42
+INFO: Shooting! Bullet: 43
+INFO: Shooting! Bullet: 44
+INFO: Shooting! Bullet: 45
+INFO: Shooting! Bullet: 46
+INFO: Shooting! Bullet: 47
+INFO: Shooting! Bullet: 48
+INFO: Shooting! Bullet: 49
+INFO: Shooting! Bullet: 50
+INFO: Shooting! Bullet: 51
+INFO: Shooting! Bullet: 52
+INFO: Shooting! Bullet: 53
+INFO: Shooting! Bullet: 54
+INFO: Shooting! Bullet: 55
+INFO: Shooting! Bullet: 56
+INFO: Shooting! Bullet: 57
+INFO: Shooting! Bullet: 58
+INFO: Shooting! Bullet: 59
+INFO: Shooting! Bullet: 60
+INFO: Shooting! Bullet: 61
+INFO: Shooting! Bullet: 62
+INFO: Shooting! Bullet: 63
+INFO: Shooting! Bullet: 64
+INFO: Shooting! Bullet: 65
+INFO: Shooting! Bullet: 66
+INFO: Shooting! Bullet: 67
+INFO: Shooting! Bullet: 68
+INFO: Shooting! Bullet: 69
+INFO: Shooting! Bullet: 70
+INFO: Shooting! Bullet: 71
+INFO: Shooting! Bullet: 72
+INFO: Shooting! Bullet: 73
+INFO: Shooting! Bullet: 74
+INFO: Shooting! Bullet: 75
+INFO: Shooting! Bullet: 76
+INFO: Shooting! Bullet: 77
+INFO: Shooting! Bullet: 78
+INFO: Shooting! Bullet: 79
+INFO: Shooting! Bullet: 80
+INFO: Shooting! Bullet: 81
+INFO: Shooting! Bullet: 82
+INFO: Shooting! Bullet: 83
+INFO: Shooting! Bullet: 84
+INFO: Shooting! Bullet: 85
+INFO: Shooting! Bullet: 86
+INFO: Shooting! Bullet: 87
+INFO: Shooting! Bullet: 88
+INFO: Shooting! Bullet: 89
+INFO: Shooting! Bullet: 90
+INFO: Shooting! Bullet: 91
+INFO: Shooting! Bullet: 92
+INFO: Shooting! Bullet: 93
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+INFO: Shooting! Bullet: 94
+INFO: Shooting! Bullet: 95
+INFO: Shooting! Bullet: 96
+INFO: Shooting! Bullet: 97
+INFO: Shooting! Bullet: 98
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
