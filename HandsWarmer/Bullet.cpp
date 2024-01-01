@@ -1,3 +1,6 @@
 #include "Bullet.h"
 
-//Currently no used
+void Bullet::setBulletTexture(const sf::Texture& txt)
+{
+	sprite_b.setTexture(txt);
+}

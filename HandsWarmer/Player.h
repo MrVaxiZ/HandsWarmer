@@ -22,8 +22,9 @@ private:
     float dmg;
     int hp;
 
-
+public:
     // Shooting mechanics
+    sf::Texture bulletTexture;
     Bullet b1;
     Magazine mag;
     std::vector<Bullet> bullets;
@@ -33,18 +34,16 @@ private:
     sf::Vector2f playerCenter;
     sf::Vector2f aimDir;
     sf::Vector2f aimDirNorm;
-    sf::CircleShape shape;
     float delayBetweenShots; // Amout of time that has to pass in order to add next bullet (seconds)
     float maxSpeed;
     float length;
 
     // HitBox TODO::Make it more advance to reflect actual shape of texture and to make head
     //               as separete hitbox in order to multiply dmg once it's been hit.
-    int height;
-    int width;
+    sf::Vector2f HitBox;
 
     //END Shooting mechanics
-public:
+
     Player(); 
     void setTexture(const sf::Texture& texture);
     void handleInput();
@@ -60,7 +59,7 @@ public:
     void setMousePos(const sf::Vector2f& window);
     void countShootingTrijectory();
     void infinityAmmo(); // Consider deleting that
-
+    void setBulletTexture(const sf::Texture& texture);
     void bulletCollision(); // not in use currently
     // END Shooting mechanics
 

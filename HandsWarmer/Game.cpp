@@ -38,8 +38,8 @@ Game::Game() :
     try
     {
         player.setTexture(textureManager.getTexture("playerTexture"));
+        player.setBulletTexture(textureManager.getTexture("shootMechTrooper"));
         mechTrooper.setTexture(textureManager.getTexture("mechTrooper"));
-        //mechTrooper.provideTexture(textureManager.getTexture("shootMechTrooper"));
     }
     catch (const std::exception& e)
     {

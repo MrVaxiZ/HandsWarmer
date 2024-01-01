@@ -6,10 +6,15 @@
 
 class Bullet {
 public:
-    sf::CircleShape shape_b;
-    //sf::Texture txt;
+    sf::Sprite sprite_b;
     sf::Vector2f currVel_b;
-    float maxSpeed_b;
+    float maxSpeed_b = 14.f;
+
+    ///////////////
+    // FUNCTIONS //
+    ///////////////
+
+    void setBulletTexture(const sf::Texture& txt);
 };
 
 #endif // BULLET_H

@@ -41,11 +41,11 @@ public:
 
     bool detectPlayer(const sf::Sprite& player, const sf::Sprite& enemy, float distance);
 
-    void textureProvideCtor(const sf::Texture& texture);
-    void texturesSwap(float time);
-    void countShootingTrijectory();
-    void infinityAmmo();
+    void attack(const sf::Sprite& player, const sf::Sprite& enemy, float distance, bool reload, bool infinityAmmo);
+    void countShootingTrijectory(const sf::Sprite& player);
     void bulletCollision();
+    void bulletsUpdate(sf::Time deltaTime, const sf::Sprite& player);
+    void bulletsRender(sf::RenderWindow& window);
 };
 
 #endif // EnemyShooting.h

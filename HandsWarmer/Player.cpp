@@ -5,10 +5,10 @@ sf::Sprite Player::player_sprite;
 Player::Player() : speed(1000.f), gravity(980.f), isOnGround(true), leftJump(false), rightJump(false), hp(100),
 velocity(sf::Vector2f(0.f, 0.f)), jumpVelocity(sf::Vector2f(0.f, -2500.f)) 
 {
-    this->shape.setRadius(5.f);
-    this->shape.setFillColor(sf::Color::Red);
-
     player_sprite.setPosition(400.f, 400.f);
+
+    // Set texture for bullet
+    b1.setBulletTexture(bulletTexture);
 
     dmg = 15.f;
     maxSpeed = 15.f;
@@ -23,8 +23,8 @@ velocity(sf::Vector2f(0.f, 0.f)), jumpVelocity(sf::Vector2f(0.f, -2500.f))
 void Player::setTexture(const sf::Texture& texture) {
     player_sprite.setTexture(texture);
 
-    width = texture.getSize().x;
-    height = texture.getSize().y;
+    HitBox.x = texture.getSize().x;
+    HitBox.y = texture.getSize().y;
 }
 
 void Player::handleInput() {
@@ -36,8 +36,9 @@ void Player::handleInput() {
             mag.reload();
         }
         else if ((timeSinceLastShot.asSeconds() >= delayBetweenShots) && (mag.currentAmountOfBullentsInMagazine > 0)) {
-            b1.shape_b = shape;
-            b1.shape_b.setPosition(playerCenter);
+            b1.sprite_b.setPosition(playerCenter);
+            b1.sprite_b.setTextureRect(sf::IntRect(0, 0, 16, 22));
+
             b1.currVel_b = aimDirNorm * maxSpeed;
 
             bullets.push_back(Bullet(b1));
@@ -68,12 +69,7 @@ void Player::handleInput() {
         RightJump();
     }
     if (isOnGround && (sf::Keyboard::isKeyPressed(sf::Keyboard::W) ||
-        sf::Keyboard::isKeyPressed(sf::Keyboard::Up))) 
-    {
-        StraightJump();
-    }
-    if (isOnGround && (sf::Keyboard::isKeyPressed(sf::Keyboard::Space) ||
-        sf::Keyboard::isKeyPressed(sf::Keyboard::Up)))
+        sf::Keyboard::isKeyPressed(sf::Keyboard::Space))) 
     {
         StraightJump();
     }
@@ -131,10 +127,10 @@ void Player::update(sf::Time deltaTime) {
     countShootingTrijectory();
 
     for (size_t i = 0; i < bullets.size(); i++) {
-        bullets[i].shape_b.move(bullets[i].currVel_b);
+        bullets[i].sprite_b.move(bullets[i].currVel_b);
 
-        if (bullets[i].shape_b.getPosition().x < -20 || bullets[i].shape_b.getPosition().x > 820 ||
-            bullets[i].shape_b.getPosition().y < -20 || bullets[i].shape_b.getPosition().y > 620)
+        if (bullets[i].sprite_b.getPosition().x < -20 || bullets[i].sprite_b.getPosition().x > 820 ||
+            bullets[i].sprite_b.getPosition().y < -20 || bullets[i].sprite_b.getPosition().y > 620)
         {
             bullets.erase(bullets.begin() + i);
         }
@@ -145,11 +141,12 @@ void Player::update(sf::Time deltaTime) {
 }
 
 void Player::render(sf::RenderWindow& window) {
-    for (size_t i = 0; i < bullets.size(); i++) {
-        window.draw(bullets[i].shape_b);
-    }
-
     window.draw(player_sprite);
+    for (size_t i = 0; i < bullets.size(); i++) {
+        window.draw(bullets[i].sprite_b);
+        std::cout << "Txt size x: " << bullets[i].sprite_b.getTexture()->getSize().x << std::endl;
+        std::cout << "Txt size y: " << bullets[i].sprite_b.getTexture()->getSize().y << std::endl;
+    }
 }
 
 void Player::StraightJump() {
@@ -188,6 +185,10 @@ void Player::countShootingTrijectory()
 void Player::infinityAmmo()
 {
     mag.wholeAmmunitionForThatWeapon = INT16_MAX;
+}
+void Player::setBulletTexture(const sf::Texture& texture)
+{
+    bulletTexture = texture;
 }
 void Player::setMousePos(const sf::Vector2f& mousePos)
 {
