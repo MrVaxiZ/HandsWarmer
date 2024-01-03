@@ -132,6 +132,7 @@ void Player::update(sf::Time deltaTime) {
         if (bullets[i].sprite_b.getPosition().x < -20 || bullets[i].sprite_b.getPosition().x > 820 ||
             bullets[i].sprite_b.getPosition().y < -20 || bullets[i].sprite_b.getPosition().y > 620)
         {
+            log.infoLog("Deleting bullet as it weint outside of the border...");
             bullets.erase(bullets.begin() + i);
         }
     }
@@ -144,8 +145,6 @@ void Player::render(sf::RenderWindow& window) {
     window.draw(player_sprite);
     for (size_t i = 0; i < bullets.size(); i++) {
         window.draw(bullets[i].sprite_b);
-        std::cout << "Txt size x: " << bullets[i].sprite_b.getTexture()->getSize().x << std::endl;
-        std::cout << "Txt size y: " << bullets[i].sprite_b.getTexture()->getSize().y << std::endl;
     }
 }
 

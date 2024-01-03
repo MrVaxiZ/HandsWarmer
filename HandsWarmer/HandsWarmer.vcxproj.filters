@@ -13,9 +13,6 @@
     <ClCompile Include="MousePositionDisplay.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
-    <ClCompile Include="Player.cpp">
-      <Filter>Classes</Filter>
-    </ClCompile>
     <ClCompile Include="TextureManager.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
@@ -23,10 +20,10 @@
       <Filter>Classes</Filter>
     </ClCompile>
     <ClCompile Include="MechTrooper.cpp">
-      <Filter>Enemies</Filter>
+      <Filter>GameObjects\Enemies</Filter>
     </ClCompile>
     <ClCompile Include="Enemy.cpp">
-      <Filter>Enemies</Filter>
+      <Filter>GameObjects\Enemies</Filter>
     </ClCompile>
     <ClCompile Include="Log.cpp">
       <Filter>Log</Filter>
@@ -40,15 +37,15 @@
     <ClCompile Include="EnemyShooting.cpp">
       <Filter>Shooting</Filter>
     </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>GameObjects\Player</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Level.h">
       <Filter>Headers</Filter>
     </ClInclude>
     <ClInclude Include="MousePositionDisplay.h">
-      <Filter>Headers</Filter>
-    </ClInclude>
-    <ClInclude Include="Player.h">
       <Filter>Headers</Filter>
     </ClInclude>
     <ClInclude Include="TextureManager.h">
@@ -58,10 +55,10 @@
       <Filter>Headers</Filter>
     </ClInclude>
     <ClInclude Include="Enemy.h">
-      <Filter>Enemies</Filter>
+      <Filter>GameObjects\Enemies</Filter>
     </ClInclude>
     <ClInclude Include="MechTrooper.h">
-      <Filter>Enemies</Filter>
+      <Filter>GameObjects\Enemies</Filter>
     </ClInclude>
     <ClInclude Include="Log.h">
       <Filter>Log</Filter>
@@ -78,6 +75,9 @@
     <ClInclude Include="EnemyShooting.h">
       <Filter>Shooting</Filter>
     </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>GameObjects\Player</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Classes">
@@ -86,17 +86,23 @@
     <Filter Include="Headers">
       <UniqueIdentifier>{f60d4b69-bb38-4e8b-931b-ae2eacf22d33}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Enemies">
-      <UniqueIdentifier>{46799001-db88-44ee-933d-b52b941dab1d}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Log">
       <UniqueIdentifier>{9c08beaf-092b-4992-a096-b2be398dbde7}</UniqueIdentifier>
     </Filter>
     <Filter Include="Interfaces">
       <UniqueIdentifier>{05bd67f0-3152-49cf-bb7a-7ee21fa014f4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="GameObjects">
+      <UniqueIdentifier>{e7e995ee-b3b7-475a-9ed4-b0e2b9063111}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObjects\Player">
+      <UniqueIdentifier>{c5a83ba7-c4f2-4927-861a-753cbe7618f5}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Shooting">
       <UniqueIdentifier>{462ada36-d935-474f-9d5f-4e0dfd42374d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObjects\Enemies">
+      <UniqueIdentifier>{46799001-db88-44ee-933d-b52b941dab1d}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

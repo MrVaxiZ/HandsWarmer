@@ -1,0 +1,44 @@
+INFO: playerTexture texture loaded! OK
+INFO: shootMechTrooper texture loaded! OK
+INFO: mechTrooper texture loaded! OK
+INFO: Background texture loaded! OK
+\/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+\/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+\/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[08:35:25] INFO: shootMechTrooper texture loaded! OK
+[08:35:25] INFO: mechTrooper texture loaded! OK
+[08:35:25] INFO: playerTexture texture loaded! OK
+[08:35:25] INFO: Background texture loaded! OK
+[08:35:39] INFO: Deleting bullet as it weint outside of the border...
+[08:35:48] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[08:35:53] INFO: Deleting bullet as it weint outside of the border...
+[08:36:02] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[08:39:18] INFO: shootMechTrooper texture loaded! OK
+[08:39:18] INFO: playerTexture texture loaded! OK
+[08:39:18] INFO: mechTrooper texture loaded! OK
+[08:39:18] INFO: Background texture loaded! OK
+[08:39:22] INFO: Deleting bullet as it weint outside of the border...
+[08:39:23] INFO: Deleting bullet as it weint outside of the border...
+[08:39:25] INFO: Deleting bullet as it weint outside of the border...
+[08:39:26] INFO: Deleting bullet as it weint outside of the border...
+[08:39:29] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[08:39:32] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[08:39:33] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::

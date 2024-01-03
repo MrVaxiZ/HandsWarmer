@@ -9,8 +9,9 @@
 
 class Log {
 private:
-    std::ofstream logFile;
+    std::string getCurrentTime();
     std::string getCurrentDate();
+    std::ofstream logFile;
 
     template<typename T>
     void process(std::stringstream& ss, T&& t);
