@@ -1,2 +1,4 @@
-﻿  MechTrooper.cpp
+﻿  EnemyShooting.cpp
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\EnemyShooting.cpp(27,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\EnemyShooting.cpp(83,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   HandsWarmer.vcxproj -> C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\x64\Debug\HandsWarmer.exe

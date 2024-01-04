@@ -89,6 +89,7 @@ void Game::update(sf::Time deltaTime) {
     player.setMousePos(mousePosWindow);
     player.update(deltaTime);
     mechTrooper.update(deltaTime, player.player_sprite);
+    mechTrooper.getPlayerHitBox(player.HitBox);
     mousePositionDisplay.update();
 }
 

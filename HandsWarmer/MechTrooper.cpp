@@ -3,14 +3,15 @@
 // Constructor
 MechTrooper::MechTrooper(int hp, int speed, int damage)
     : Enemy(hp, speed, damage),
-    enemyShooting(magazine, bullet, 1.0f, 10.0f, 100.0f, hp, damage)
+    enemyShooting(magazine, bullet, 0.15f, 10.0f, hp, damage)
 {
     name = "MechTrooper";
+    distance_p = 200.f;
     sprite.setPosition(100.f, 400.f);
 
     bullet.setBulletTexture(bulletTexture);
 
-    magazine.currentAmountOfBullentsInMagazine = 10;
+    magazine.currentAmountOfBullentsInMagazine = INT16_MAX;
     magazine.amountOfBulletsMagazineCanHold = 10;
     magazine.wholeAmmunitionForThatWeapon = 30;
 }
@@ -21,10 +22,9 @@ void MechTrooper::attack(const sf::Sprite& player) {
 
 void MechTrooper::update(sf::Time deltaTime, const sf::Sprite& player) {
     Enemy::update(deltaTime);
-    enemyShooting.bulletsUpdate(deltaTime, player);
     attack(player);
-
-    //enemyShooting.bulletCollision(playerBullets, enemyShooting.bullets, playerHitBox, enemyShooting.enemyHitbox);
+    enemyShooting.bulletsUpdate(deltaTime, player, sprite);
+    enemyShooting.bulletCollision(playerHitbox, enemyHitbox);
 }
 
 void MechTrooper::render(sf::RenderWindow& window) {
@@ -33,7 +33,13 @@ void MechTrooper::render(sf::RenderWindow& window) {
 }
 
 void MechTrooper::setTexture(const sf::Texture& texture) {
-
-
     sprite.setTexture(texture);
+
+    enemyHitbox.x = texture.getSize().x;
+    enemyHitbox.y = texture.getSize().y;
+}
+
+void MechTrooper::getPlayerHitBox(const sf::Vector2f Player_HitBox)
+{
+    playerHitbox = Player_HitBox;
 }

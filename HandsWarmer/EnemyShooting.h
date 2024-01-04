@@ -25,30 +25,26 @@ public:
     sf::Vector2f aimDirNorm;
     sf::CircleShape shape;
     float delayBetweenShots; // Amout of time that has to pass in order to add next bullet (seconds)
-    float maxSpeed;
+    float bulletSpeed;
     float length;
     int dmg;
     int hp;
-
-    // HitBox TODO::Make it more advance to reflect actual shape of texture and to make head
-    //               as separete hitbox in order to multiply dmg once it's been hit.
-    sf::Vector2f enemyHitbox;
 
     ///////////////
     // FUNCTIONS //
     ///////////////
 
     // Shooting mechanics
-    EnemyShooting(Magazine& mag_c, Bullet& bullet_c, float delayBetweenShots_c, float maxSpeed_c, float length_c, int hp_c, int dmg_c);
+    EnemyShooting(Magazine& mag_c, Bullet& bullet_c, float delayBetweenShots_c, float maxSpeed_c, int hp_c, int dmg_c);
 
     bool detectPlayer(const sf::Sprite& player, const sf::Sprite& enemy, float distance);
 
     void decraseHp(const int& dmg, int& hp);
     void die();
     void attack(const sf::Sprite& player, const sf::Sprite& enemy, float distance, bool reload, bool infinityAmmo);
-    void countShootingTrijectory(const sf::Sprite& player);
+    void countShootingTrijectory(const sf::Sprite& player, const sf::Sprite& enemy);
     void bulletCollision(sf::Vector2f hitBoxPlayer, sf::Vector2f hitBoxEnemy);
-    void bulletsUpdate(sf::Time deltaTime, const sf::Sprite& player);
+    void bulletsUpdate(sf::Time deltaTime, const sf::Sprite& player, const sf::Sprite& enemy);
     void bulletsRender(sf::RenderWindow& window);
 };
 
