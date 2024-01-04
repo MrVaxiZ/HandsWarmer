@@ -4,7 +4,7 @@
 Game::Game() : 
     window(sf::VideoMode(800, 600), "Hands Warmer"),
     player(),
-    mechTrooper(0, 0, 0),
+    mechTrooper(100, 0, 5),
     mousePositionDisplay(window) 
     {
 
@@ -40,6 +40,7 @@ Game::Game() :
         player.setTexture(textureManager.getTexture("playerTexture"));
         player.setBulletTexture(textureManager.getTexture("shootMechTrooper"));
         mechTrooper.setTexture(textureManager.getTexture("mechTrooper"));
+        mechTrooper.bulletTexture = textureManager.getTexture("shootMechTrooper");
     }
     catch (const std::exception& e)
     {
