@@ -1,9 +1,9 @@
 #include "MechTrooper.h"
 
 // Constructor
-MechTrooper::MechTrooper(int hp, int speed, int damage)
-    : Enemy(hp, speed, damage),
-    enemyShooting(magazine, bullet, 0.15f, 10.0f, hp, damage)
+MechTrooper::MechTrooper(float speed_c, int dmg_c, int hp_c)
+    :  speed(speed_c), dmg(dmg_c), hp(hp_c), Enemy(100,0,5),
+    enemyShooting(magazine, bullet, 0.15f, 10.0f, hp, damage) // bug with hp Shooting says it's 0 isntead of 50
 {
     name = "MechTrooper";
     distance_p = 200.f;
@@ -21,7 +21,6 @@ void MechTrooper::attack(const sf::Sprite& player) {
 }
 
 void MechTrooper::update(sf::Time deltaTime, const sf::Sprite& player) {
-    Enemy::update(deltaTime);
     attack(player);
     enemyShooting.bulletsUpdate(deltaTime, player, sprite);
     enemyShooting.bulletCollision(playerHitbox, enemyHitbox);

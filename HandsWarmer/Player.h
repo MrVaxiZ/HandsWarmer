@@ -17,8 +17,10 @@ private:
     bool isOnGround; // Flag to check if the player is on the ground
     bool leftJump; // Flag to determine whether player is jumping left
     bool rightJump; // Flag to determine whether player is jumping right
-    float speed; // How fast the player moves
     float gravity; // Gravity value
+
+    // Ctor values
+    float speed;
     float dmg;
     int hp;
 
@@ -44,7 +46,7 @@ public:
 
     //END Shooting mechanics
 
-    Player(); 
+    Player(float speed_c, float dmg_c, int hp_c); 
     void setTexture(const sf::Texture& texture);
     void handleInput();
     void update(sf::Time deltaTime);

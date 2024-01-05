@@ -3,9 +3,10 @@
 
 Game::Game() : 
     window(sf::VideoMode(800, 600), "Hands Warmer"),
-    player(),
-    mechTrooper(100, 0, 5),
-    mousePositionDisplay(window) 
+    mousePositionDisplay(window),
+    // Inicialize all game objects
+    player(1000.f, 15.f, 100),
+    mechTrooper(1000.f, 15, 50)
     {
 
     window.setFramerateLimit(360);

@@ -91,7 +91,6 @@ void EnemyShooting::bulletCollision(sf::Vector2f hitBoxPlayer, sf::Vector2f hitB
     }
 }
 
-
 void EnemyShooting::bulletsUpdate(sf::Time deltaTime, const sf::Sprite& player, const sf::Sprite& enemy) {
     timeSinceLastShot += deltaTime;
     player_sprite = player;

@@ -2,15 +2,22 @@
 
 sf::Sprite Player::player_sprite;
 
-Player::Player() : speed(1000.f), gravity(980.f), isOnGround(true), leftJump(false), rightJump(false), hp(100),
-velocity(sf::Vector2f(0.f, 0.f)), jumpVelocity(sf::Vector2f(0.f, -2500.f)) 
+Player::Player(float speed_c, float dmg_c, int hp_c) : 
+    speed(speed_c),
+    dmg(dmg_c),
+    hp(hp_c),
+    gravity(980.f),
+    isOnGround(true),
+    leftJump(false),
+    rightJump(false),
+    velocity(sf::Vector2f(0.f, 0.f)),
+    jumpVelocity(sf::Vector2f(0.f, -2500.f))
 {
     player_sprite.setPosition(400.f, 400.f);
 
     // Set texture for bullet
     b1.setBulletTexture(bulletTexture);
 
-    dmg = 15.f;
     maxSpeed = 15.f;
     delayBetweenShots = 0.25f;
 

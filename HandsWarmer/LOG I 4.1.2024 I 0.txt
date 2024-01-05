@@ -1865,3 +1865,8 @@ HP: -5
 [19:21:27] INFO: HP: -15
 [19:21:27] INFO: Something died :<
 [19:21:27] INFO: Enemy died!
+[20:57:03] INFO: playerTexture texture loaded! OK
+[20:57:03] INFO: shootMechTrooper texture loaded! OK
+[20:57:03] INFO: mechTrooper texture loaded! OK
+[20:57:03] INFO: Background texture loaded! OK
+[20:57:09] INFO: Deleting bullet as it weint outside of the border...

@@ -15,6 +15,10 @@ private:
     sf::Vector2f hitBox;
     float distance_p;
 
+    float speed;
+    int dmg;
+    int hp;
+
     // HitBox TODO::Make it more advance to reflect actual shape of texture and to make head
     //               as separete hitbox in order to multiply dmg once it's been hit.
     sf::Vector2f enemyHitbox;
@@ -23,7 +27,7 @@ private:
 public:
     sf::Texture bulletTexture;
 
-    MechTrooper(int hp, int speed, int damage);
+    MechTrooper(float speed_c, int dmg_c, int hp_c);
 
     // Override methods
     void attack(const sf::Sprite& player) override;
