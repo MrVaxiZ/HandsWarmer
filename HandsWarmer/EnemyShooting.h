@@ -37,15 +37,16 @@ public:
     // Shooting mechanics
     EnemyShooting(Magazine& mag_c, Bullet& bullet_c, float delayBetweenShots_c, float maxSpeed_c, int hp_c, int dmg_c);
 
-    bool detectPlayer(const sf::Sprite& player, const sf::Sprite& enemy, float distance);
+    bool playerDetect(const sf::Sprite& player, const sf::Sprite& enemy, float distance);
 
-    void decraseHp(const int& dmg, int& hp);
-    void die();
     void attack(const sf::Sprite& player, const sf::Sprite& enemy, float distance, bool reload, bool infinityAmmo);
     void countShootingTrijectory(const sf::Sprite& player, const sf::Sprite& enemy);
-    void bulletCollision(sf::Vector2f hitBoxPlayer, sf::Vector2f hitBoxEnemy);
+    void bulletCollision(sf::Vector2f hitBoxPlayer, sf::Vector2f hitBoxEnemy, int& playerHp);
     void bulletsUpdate(sf::Time deltaTime, const sf::Sprite& player, const sf::Sprite& enemy);
     void bulletsRender(sf::RenderWindow& window);
+    void playerDecraseHp(const int& dmg, int& hp);
+    void enemyDied();
+    void playerDied();
 };
 
 #endif // EnemyShooting.h

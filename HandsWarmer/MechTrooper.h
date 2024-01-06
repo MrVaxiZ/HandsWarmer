@@ -3,6 +3,7 @@
 
 #include "Enemy.h"
 #include "EnemyShooting.h"
+#include "Movement.h"
 #include "Log.h"
 
 class MechTrooper : public Enemy {
@@ -11,6 +12,7 @@ private:
     Bullet bullet;
     Magazine magazine;
     EnemyShooting enemyShooting;
+    Movement movement;
     sf::Sprite sprite;
     sf::Vector2f hitBox;
     float distance_p;
@@ -31,10 +33,12 @@ public:
 
     // Override methods
     void attack(const sf::Sprite& player) override;
-    void update(sf::Time deltaTime, const sf::Sprite& player);
+    void update(sf::Time deltaTime, const sf::Sprite& player, int& playerHp);
     void render(sf::RenderWindow& window);
     void setTexture(const sf::Texture& texture);
     void getPlayerHitBox(const sf::Vector2f Player_HitBox);
+    void getPropertiesOneTime();
+    void getPropertiesConstantly(const sf::Vector2f Player_HitBox);
 };
 
 #endif  // MECHTROOPER_H

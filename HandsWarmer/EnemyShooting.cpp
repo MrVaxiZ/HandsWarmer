@@ -10,7 +10,7 @@ EnemyShooting::EnemyShooting(Magazine& mag_c, Bullet& bullet_c, float delayBetwe
     // END Debug
 }
 
-bool EnemyShooting::detectPlayer(const sf::Sprite& player, const sf::Sprite& enemy, float distance) {
+bool EnemyShooting::playerDetect(const sf::Sprite& player, const sf::Sprite& enemy, float distance) {
     float playerPosition = player.getPosition().x;
     float mechPosition = enemy.getPosition().x;
 
@@ -28,25 +28,19 @@ void EnemyShooting::countShootingTrijectory(const sf::Sprite& player, const sf::
     aimDirNorm = aimDir / length;
 }
 
-void EnemyShooting::decraseHp(const int& dmg, int& hp)
+void EnemyShooting::playerDied()
 {
-    log.infoLog("Received DMG!");
-    log.infoLog("HP: ", hp);
-    hp = hp - dmg;
-    if (hp <= 0) {
-        log.infoLog("Something died :<");
-        die();
-    }
+    log.infoLog("Player died!");
 }
 
-void EnemyShooting::die()
+void EnemyShooting::enemyDied()
 {
     log.infoLog("Enemy died!");
 }
 
 void EnemyShooting::attack(const sf::Sprite& player, const sf::Sprite& enemy, float distance, bool reload, bool infinityAmmo)
 {
-    if (detectPlayer(player, enemy, distance)) {
+    if (playerDetect(player, enemy, distance)) {
         if (reload) {
             if (mag.currentAmountOfBullentsInMagazine == 0) {
                 mag.reload();
@@ -78,16 +72,30 @@ void EnemyShooting::attack(const sf::Sprite& player, const sf::Sprite& enemy, fl
     }
 }
 
-void EnemyShooting::bulletCollision(sf::Vector2f hitBoxPlayer, sf::Vector2f hitBoxEnemy) {
+void EnemyShooting::bulletCollision(sf::Vector2f hitBoxPlayer, sf::Vector2f hitBoxEnemy, int& playerHp) {
 
     for (int i = bullets.size() - 1; i >= 0; i--) {
         if (bullets[i].sprite_b.getGlobalBounds().intersects(
             sf::FloatRect(player_sprite.getPosition().x, player_sprite.getPosition().y,
                 hitBoxPlayer.x, hitBoxPlayer.y))) 
         {
-            decraseHp(dmg, hp);
+            playerDecraseHp(dmg, playerHp);
             bullets.erase(bullets.begin() + i);
         }
+    }
+}
+
+void EnemyShooting::playerDecraseHp(const int& dmg, int& hp)
+{
+    log.infoLog("Player Received DMG!");
+    log.infoLog("HP Before subtraction: ", hp);
+
+    hp = hp - dmg;
+
+    log.infoLog("HP After subtraction: ", hp);
+    if (hp <= 0) {
+        log.infoLog("Player died :<");
+        playerDied();
     }
 }
 

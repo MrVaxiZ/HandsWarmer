@@ -12,11 +12,15 @@
 #include "Player.h"
 #include "Level.h"
 #include "MechTrooper.h"
+#include "GameProperties.h"
 
 class Game {
 public:
+    const int windowHeight = 600;
+    const int windowWidth = 800;
     sf::RenderWindow window;
     sf::Vector2f mousePosWindow;
+    GameProperties gameProperties;
     TextureManager textureManager;
     Level level;
     Player player;

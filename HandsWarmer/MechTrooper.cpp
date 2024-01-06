@@ -2,8 +2,9 @@
 
 // Constructor
 MechTrooper::MechTrooper(float speed_c, int dmg_c, int hp_c)
-    :  speed(speed_c), dmg(dmg_c), hp(hp_c), Enemy(100,0,5),
-    enemyShooting(magazine, bullet, 0.15f, 10.0f, hp, damage) // bug with hp Shooting says it's 0 isntead of 50
+    : speed(speed_c), dmg(dmg_c), hp(hp_c), Enemy(100, 0, 5),
+    enemyShooting(magazine, bullet, 0.15f, 10.0f, hp_c, dmg_c),
+    movement(sprite)
 {
     name = "MechTrooper";
     distance_p = 200.f;
@@ -18,12 +19,13 @@ MechTrooper::MechTrooper(float speed_c, int dmg_c, int hp_c)
 
 void MechTrooper::attack(const sf::Sprite& player) {
     enemyShooting.attack(player, sprite, distance_p, false, true);
+    movement.debug();
 }
 
-void MechTrooper::update(sf::Time deltaTime, const sf::Sprite& player) {
+void MechTrooper::update(sf::Time deltaTime, const sf::Sprite& player, int& playerHp) {
     attack(player);
     enemyShooting.bulletsUpdate(deltaTime, player, sprite);
-    enemyShooting.bulletCollision(playerHitbox, enemyHitbox);
+    enemyShooting.bulletCollision(playerHitbox, enemyHitbox, playerHp);
 }
 
 void MechTrooper::render(sf::RenderWindow& window) {
@@ -38,7 +40,11 @@ void MechTrooper::setTexture(const sf::Texture& texture) {
     enemyHitbox.y = texture.getSize().y;
 }
 
-void MechTrooper::getPlayerHitBox(const sf::Vector2f Player_HitBox)
+void MechTrooper::getPropertiesOneTime()
+{
+}
+
+void MechTrooper::getPropertiesConstantly(const sf::Vector2f Player_HitBox) 
 {
     playerHitbox = Player_HitBox;
 }

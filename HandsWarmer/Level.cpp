@@ -1,7 +1,6 @@
 #include "Level.h"
 
 Level::Level() {
-    // Constructor implementation (if needed)
 }
 
 bool Level::load(const std::string& backgroundTexturePath) {

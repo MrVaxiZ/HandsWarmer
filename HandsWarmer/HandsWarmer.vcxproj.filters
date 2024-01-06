@@ -16,7 +16,7 @@
     <ClCompile Include="TextureManager.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
-    <ClCompile Include="Weapon.cpp">
+    <ClCompile Include="IWeapon.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
     <ClCompile Include="MechTrooper.cpp">
@@ -39,6 +39,12 @@
     </ClCompile>
     <ClCompile Include="Player.cpp">
       <Filter>GameObjects\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="GameProperties.cpp">
+      <Filter>Movement</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -78,6 +84,12 @@
     <ClInclude Include="Player.h">
       <Filter>GameObjects\Player</Filter>
     </ClInclude>
+    <ClInclude Include="Movement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="GameProperties.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Classes">
@@ -103,6 +115,9 @@
     </Filter>
     <Filter Include="GameObjects\Enemies">
       <UniqueIdentifier>{46799001-db88-44ee-933d-b52b941dab1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Movement">
+      <UniqueIdentifier>{6239a82a-48fb-48cc-b7e1-4f0951422ee2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

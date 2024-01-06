@@ -12,6 +12,7 @@
 class Player {
 private:
     Log log;
+public:
     sf::Vector2f velocity; // Base velocity of a player
     sf::Vector2f jumpVelocity; // Velocity applied when jumping
     bool isOnGround; // Flag to check if the player is on the ground
@@ -21,10 +22,9 @@ private:
 
     // Ctor values
     float speed;
-    float dmg;
+    int dmg;
     int hp;
 
-public:
     // Shooting mechanics
     sf::Texture bulletTexture;
     Bullet b1;

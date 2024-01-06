@@ -2,14 +2,16 @@
 #include "Log.h"
 
 Game::Game() : 
-    window(sf::VideoMode(800, 600), "Hands Warmer"),
+    window(sf::VideoMode(windowWidth, windowHeight), "Hands Warmer"),
     mousePositionDisplay(window),
     // Inicialize all game objects
-    player(1000.f, 15.f, 100),
+    player(1000.f, 15, 100),
     mechTrooper(1000.f, 15, 50)
     {
+    gameProperties.setFloorPos(400.f);
+    gameProperties.setWindowBorder(windowWidth, windowHeight);
 
-    window.setFramerateLimit(360);
+    window.setFramerateLimit(60);
     Log log;
 
     std::vector<std::pair<std::string, std::string>> texturesToLoad = {
@@ -89,8 +91,8 @@ void Game::update(sf::Time deltaTime) {
 
     player.setMousePos(mousePosWindow);
     player.update(deltaTime);
-    mechTrooper.update(deltaTime, player.player_sprite);
-    mechTrooper.getPlayerHitBox(player.HitBox);
+    mechTrooper.getPropertiesConstantly(player.HitBox);
+    mechTrooper.update(deltaTime, player.player_sprite, player.hp);
     mousePositionDisplay.update();
 }
 
