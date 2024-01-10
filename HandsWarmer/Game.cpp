@@ -93,6 +93,8 @@ void Game::update(sf::Time deltaTime) {
 
     player.setMousePos(mousePosWindow);
     // TEMP SOLUTION TODO::Think of a better approach to this
+    player.getEnemyHitbox(mechTrooper.enemyHitbox);
+    player.getEnemySprite(mechTrooper.sprite);
     // END TEMP SOLUTION
     player.update(deltaTime);
     mechTrooper.getPropertiesConstantly(player.HitBox);

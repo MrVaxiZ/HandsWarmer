@@ -44,7 +44,7 @@ public:
     float delayBetweenShots; // Amout of time that has to pass in order to add next bullet (seconds)
     float maxSpeed;
     float length;
-    int& enemyHp; // VTBC::P::Temporary variable to store enemy hp
+    int enemyHp; // VTBC::P::Temporary variable to store enemy hp
 
     // HitBox TODO::Make it more advance to reflect actual shape of texture and to make head
     //               as separete hitbox in order to multiply dmg once it's been hit.
@@ -69,7 +69,7 @@ public:
     void getEnemyHitbox(const sf::Vector2f& enemyHitbox);
     // END TEMP
 
-    void decreaseEnemyHp(const int& dmg, int& hp);
+    void decreaseEnemyHp(const int& dmg, int& enemyHp);
     void enemyDied();
 
     void setMousePos(const sf::Vector2f& window);

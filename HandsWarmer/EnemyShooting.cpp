@@ -102,20 +102,6 @@ void EnemyShooting::playerDecraseHp(const int& dmg, int& hp)
     }
 }
 
-void EnemyShooting::enemyDecraseHp(const int& dmg, int& hp)
-{
-    log.infoLog("Enemy Received DMG!");
-    log.infoLog("HP Before subtraction: ", hp);
-
-    hp = hp - dmg;
-
-    log.infoLog("HP After subtraction: ", hp);
-    if (hp <= 0) {
-        log.infoLog("Enemy died :<");
-        enemyDied();
-    }
-}
-
 void EnemyShooting::bulletsUpdate(sf::Time deltaTime, const sf::Sprite& player, const sf::Sprite& enemy) {
     timeSinceLastShot += deltaTime;
     player_sprite = player;

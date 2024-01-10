@@ -14,8 +14,9 @@ Player::Player(float speed_c, float dmg_c, int hp_c, int mechTrooper_Hp) :
     velocity(sf::Vector2f(0.f, 0.f)),
     jumpVelocity(sf::Vector2f(0.f, -2500.f))
 {
-    player_sprite.setPosition(400.f, 400.f);
+    log.infoLog("EnemyHp: ", enemyHp);
 
+    player_sprite.setPosition(400.f, 400.f);
     // Set texture for bullet
     b1.setBulletTexture(bulletTexture);
 
@@ -84,16 +85,13 @@ void Player::handleInput() {
 
     if (isOnGround && sf::Keyboard::isKeyPressed(sf::Keyboard::A)) {
         velocity.x -= speed;
-        log.infoLog("Going left");
     }
     if (isOnGround && sf::Keyboard::isKeyPressed(sf::Keyboard::D)) {
         velocity.x += speed;
-        log.infoLog("Going right");
     }
 }
 
 void Player::update(sf::Time deltaTime) {
-
     // Jumping
     if (leftJump && !isOnGround) {
         velocity.y += (gravity * 0.2f) * (deltaTime.asSeconds() * 30);
@@ -200,15 +198,15 @@ void Player::countShootingTrijectory()
     aimDirNorm = aimDir / length;
 }
 
-void Player::decreaseEnemyHp(const int& dmg, int& hp)
+void Player::decreaseEnemyHp(const int& dmg, int& enemyHp)
 {
     log.infoLog("Enemy Received DMG!");
-    log.infoLog("HP Before subtraction: ", hp);
+    log.infoLog("HP Before subtraction: ", enemyHp);
 
-    hp = hp - dmg;
+    enemyHp = enemyHp - dmg;
 
-    log.infoLog("HP After subtraction: ", hp);
-    if (hp <= 0) {
+    log.infoLog("HP After subtraction: ", enemyHp);
+    if (enemyHp <= 0) {
         log.infoLog("Enemy died :<");
         enemyDied();
     }

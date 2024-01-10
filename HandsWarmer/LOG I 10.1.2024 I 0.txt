@@ -708,3 +708,957 @@
 [17:38:12] INFO: Going right
 [17:38:12] INFO: Going right
 [17:38:12] INFO: Going right
+[17:53:37] INFO: 0
+[17:53:37] INFO: 0
+[17:53:37] INFO: shootMechTrooper texture loaded! OK
+[17:53:37] INFO: playerTexture texture loaded! OK
+[17:53:37] INFO: mechTrooper texture loaded! OK
+[17:53:38] INFO: Background texture loaded! OK
+[17:55:25] INFO: shootMechTrooper texture loaded! OK
+[17:55:25] INFO: mechTrooper texture loaded! OK
+[17:55:26] INFO: playerTexture texture loaded! OK
+[17:55:26] INFO: Background texture loaded! OK
+[17:55:26] INFO: Going left
+[17:55:26] INFO: Going left
+[17:55:26] INFO: Going left
+[17:55:26] INFO: Going left
+[17:55:26] INFO: Going left
+[17:55:26] INFO: Going left
+[17:55:26] INFO: Going left
+[17:55:26] INFO: Going left
+[17:55:26] INFO: Going left
+[17:55:26] INFO: Going left
+[17:55:26] INFO: Going right
+[17:55:26] INFO: Going right
+[17:55:26] INFO: Going right
+[17:55:26] INFO: Going right
+[17:55:26] INFO: Going right
+[17:55:27] INFO: Going right
+[17:55:27] INFO: Going right
+[17:55:27] INFO: Going right
+[17:55:27] INFO: Going right
+[17:55:27] INFO: Going right
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Shooting!
+[17:55:32] INFO: Bullets mag can hold: 10
+[17:55:32] INFO: Bullets mag can hold: 32766
+[17:55:32] INFO: Whole ammunition: 29
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Shooting!
+[17:55:32] INFO: Bullets mag can hold: 10
+[17:55:32] INFO: Bullets mag can hold: 32765
+[17:55:32] INFO: Whole ammunition: 28
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Going left
+[17:55:32] INFO: Player Received DMG!
+[17:55:32] INFO: HP Before subtraction: 100
+[17:55:32] INFO: HP After subtraction: 90
+[17:55:32] INFO: Shooting!
+[17:55:32] INFO: Bullets mag can hold: 10
+[17:55:32] INFO: Bullets mag can hold: 32764
+[17:55:32] INFO: Whole ammunition: 27
+[17:55:33] INFO: Player Received DMG!
+[17:55:33] INFO: HP Before subtraction: 90
+[17:55:33] INFO: HP After subtraction: 80
+[17:55:33] INFO: Shooting!
+[17:55:33] INFO: Bullets mag can hold: 10
+[17:55:33] INFO: Bullets mag can hold: 32763
+[17:55:33] INFO: Whole ammunition: 26
+[17:55:33] INFO: Player Received DMG!
+[17:55:33] INFO: HP Before subtraction: 80
+[17:55:33] INFO: HP After subtraction: 70
+[17:55:33] INFO: Shooting!
+[17:55:33] INFO: Bullets mag can hold: 10
+[17:55:33] INFO: Bullets mag can hold: 32762
+[17:55:33] INFO: Whole ammunition: 25
+[17:55:33] INFO: Player Received DMG!
+[17:55:33] INFO: HP Before subtraction: 70
+[17:55:33] INFO: HP After subtraction: 60
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Going right
+[17:55:33] INFO: Player Received DMG!
+[17:55:33] INFO: HP Before subtraction: 60
+[17:55:33] INFO: HP After subtraction: 50
+[17:55:34] INFO: Going left
+[17:55:34] INFO: Going left
+[17:55:34] INFO: Going left
+[17:55:34] INFO: Going left
+[17:55:34] INFO: Going left
+[17:55:34] INFO: Going left
+[17:55:34] INFO: Going left
+[17:55:34] INFO: Going left
+[17:55:34] INFO: Going left
+[17:55:34] INFO: Going left
+[17:55:34] INFO: Going left
+[17:55:34] INFO: Shooting!
+[17:55:34] INFO: Bullets mag can hold: 10
+[17:55:34] INFO: Bullets mag can hold: 32761
+[17:55:34] INFO: Whole ammunition: 24
+[17:55:34] INFO: Going left
+[17:55:34] INFO: Going left
+[17:55:34] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[17:55:34] INFO: Shooting!
+[17:55:34] INFO: Bullets mag can hold: 10
+[17:55:34] INFO: Bullets mag can hold: 32760
+[17:55:34] INFO: Whole ammunition: 23
+[17:55:34] INFO: Shooting!
+[17:55:34] INFO: Bullets mag can hold: 10
+[17:55:34] INFO: Bullets mag can hold: 32759
+[17:55:34] INFO: Whole ammunition: 22
+[17:55:34] INFO: Shooting!
+[17:55:34] INFO: Bullets mag can hold: 10
+[17:55:34] INFO: Bullets mag can hold: 32758
+[17:55:34] INFO: Whole ammunition: 21
+[17:55:34] INFO: Player Received DMG!
+[17:55:34] INFO: HP Before subtraction: 50
+[17:55:34] INFO: HP After subtraction: 40
+[17:55:34] INFO: Player Received DMG!
+[17:55:34] INFO: HP Before subtraction: 40
+[17:55:34] INFO: HP After subtraction: 30
+[17:55:34] INFO: Shooting!
+[17:55:34] INFO: Bullets mag can hold: 10
+[17:55:34] INFO: Bullets mag can hold: 32757
+[17:55:34] INFO: Whole ammunition: 20
+[17:55:34] INFO: Player Received DMG!
+[17:55:34] INFO: HP Before subtraction: 30
+[17:55:34] INFO: HP After subtraction: 20
+[17:55:35] INFO: Shooting!
+[17:55:35] INFO: Bullets mag can hold: 10
+[17:55:35] INFO: Bullets mag can hold: 32756
+[17:55:35] INFO: Whole ammunition: 19
+[17:55:35] INFO: Player Received DMG!
+[17:55:35] INFO: HP Before subtraction: 20
+[17:55:35] INFO: HP After subtraction: 10
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Shooting!
+[17:55:35] INFO: Bullets mag can hold: 10
+[17:55:35] INFO: Bullets mag can hold: 32755
+[17:55:35] INFO: Whole ammunition: 18
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Player Received DMG!
+[17:55:35] INFO: HP Before subtraction: 10
+[17:55:35] INFO: HP After subtraction: 0
+[17:55:35] INFO: Player died :<
+[17:55:35] INFO: Player died!
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Going left
+[17:55:35] INFO: Shooting!
+[17:55:35] INFO: Bullets mag can hold: 10
+[17:55:35] INFO: Bullets mag can hold: 32754
+[17:55:35] INFO: Whole ammunition: 17
+[17:55:35] INFO: Player Received DMG!
+[17:55:35] INFO: HP Before subtraction: 0
+[17:55:35] INFO: HP After subtraction: -10
+[17:55:35] INFO: Player died :<
+[17:55:35] INFO: Player died!
+[17:55:35] INFO: Going right
+[17:55:35] INFO: Going right
+[17:55:35] INFO: Going right
+[17:55:35] INFO: Going right
+[17:55:35] INFO: Going right
+[17:55:35] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[17:55:35] INFO: Shooting!
+[17:55:35] INFO: Bullets mag can hold: 10
+[17:55:35] INFO: Bullets mag can hold: 32753
+[17:55:35] INFO: Whole ammunition: 16
+[17:55:35] INFO: Player Received DMG!
+[17:55:35] INFO: HP Before subtraction: -10
+[17:55:35] INFO: HP After subtraction: -20
+[17:55:35] INFO: Player died :<
+[17:55:35] INFO: Player died!
+[17:55:35] INFO: Shooting!
+[17:55:35] INFO: Bullets mag can hold: 10
+[17:55:35] INFO: Bullets mag can hold: 32752
+[17:55:35] INFO: Whole ammunition: 15
+[17:55:35] INFO: Shooting!
+[17:55:35] INFO: Bullets mag can hold: 10
+[17:55:35] INFO: Bullets mag can hold: 32751
+[17:55:35] INFO: Whole ammunition: 14
+[17:55:36] INFO: Shooting!
+[17:55:36] INFO: Bullets mag can hold: 10
+[17:55:36] INFO: Bullets mag can hold: 32750
+[17:55:36] INFO: Whole ammunition: 13
+[17:55:36] INFO: Shooting!
+[17:55:36] INFO: Bullets mag can hold: 10
+[17:55:36] INFO: Bullets mag can hold: 32749
+[17:55:36] INFO: Whole ammunition: 12
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Shooting!
+[17:55:36] INFO: Bullets mag can hold: 10
+[17:55:36] INFO: Bullets mag can hold: 32748
+[17:55:36] INFO: Whole ammunition: 11
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going right
+[17:55:36] INFO: Going left
+[17:55:36] INFO: Going left
+[17:55:36] INFO: Going left
+[17:55:36] INFO: Going left
+[17:55:36] INFO: Going left
+[17:55:36] INFO: Going left
+[17:55:36] INFO: Going left
+[17:55:36] INFO: Player Received DMG!
+[17:55:36] INFO: HP Before subtraction: -20
+[17:55:36] INFO: HP After subtraction: -30
+[17:55:36] INFO: Player died :<
+[17:55:36] INFO: Player died!
+[17:55:36] INFO: Going left
+[17:55:36] INFO: Going left
+[17:55:36] INFO: Going left
+[17:55:36] INFO: Going left
+[17:55:36] INFO: Shooting!
+[17:55:36] INFO: Bullets mag can hold: 10
+[17:55:36] INFO: Bullets mag can hold: 32747
+[17:55:36] INFO: Whole ammunition: 10
+[17:55:36] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[17:55:37] INFO: Shooting!
+[17:55:37] INFO: Bullets mag can hold: 10
+[17:55:37] INFO: Bullets mag can hold: 32746
+[17:55:37] INFO: Whole ammunition: 9
+[17:55:37] INFO: Shooting!
+[17:55:37] INFO: Bullets mag can hold: 10
+[17:55:37] INFO: Bullets mag can hold: 32745
+[17:55:37] INFO: Whole ammunition: 8
+[17:55:37] INFO: Player Received DMG!
+[17:55:37] INFO: HP Before subtraction: -30
+[17:55:37] INFO: HP After subtraction: -40
+[17:55:37] INFO: Player died :<
+[17:55:37] INFO: Player died!
+[17:55:37] INFO: Shooting!
+[17:55:37] INFO: Bullets mag can hold: 10
+[17:55:37] INFO: Bullets mag can hold: 32744
+[17:55:37] INFO: Whole ammunition: 7
+[17:55:37] INFO: Player Received DMG!
+[17:55:37] INFO: HP Before subtraction: -40
+[17:55:37] INFO: HP After subtraction: -50
+[17:55:37] INFO: Player died :<
+[17:55:37] INFO: Player died!
+[17:55:37] INFO: Player Received DMG!
+[17:55:37] INFO: HP Before subtraction: -50
+[17:55:37] INFO: HP After subtraction: -60
+[17:55:37] INFO: Player died :<
+[17:55:37] INFO: Player died!
+[17:55:37] INFO: Shooting!
+[17:55:37] INFO: Bullets mag can hold: 10
+[17:55:37] INFO: Bullets mag can hold: 32743
+[17:55:37] INFO: Whole ammunition: 6
+[17:55:37] INFO: Player Received DMG!
+[17:55:37] INFO: HP Before subtraction: -60
+[17:55:37] INFO: HP After subtraction: -70
+[17:55:37] INFO: Player died :<
+[17:55:37] INFO: Player died!
+[17:55:37] INFO: Shooting!
+[17:55:37] INFO: Bullets mag can hold: 10
+[17:55:37] INFO: Bullets mag can hold: 32742
+[17:55:37] INFO: Whole ammunition: 5
+[17:55:37] INFO: Player Received DMG!
+[17:55:37] INFO: HP Before subtraction: -70
+[17:55:37] INFO: HP After subtraction: -80
+[17:55:37] INFO: Player died :<
+[17:55:37] INFO: Player died!
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Shooting!
+[17:55:37] INFO: Bullets mag can hold: 10
+[17:55:37] INFO: Bullets mag can hold: 32741
+[17:55:37] INFO: Whole ammunition: 4
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Player Received DMG!
+[17:55:37] INFO: HP Before subtraction: -80
+[17:55:37] INFO: HP After subtraction: -90
+[17:55:37] INFO: Player died :<
+[17:55:37] INFO: Player died!
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going left
+[17:55:37] INFO: Going right
+[17:55:38] INFO: Going right
+[17:55:38] INFO: Going right
+[17:55:38] INFO: Shooting!
+[17:55:38] INFO: Bullets mag can hold: 10
+[17:55:38] INFO: Bullets mag can hold: 32740
+[17:55:38] INFO: Whole ammunition: 3
+[17:55:38] INFO: Player Received DMG!
+[17:55:38] INFO: HP Before subtraction: -90
+[17:55:38] INFO: HP After subtraction: -100
+[17:55:38] INFO: Player died :<
+[17:55:38] INFO: Player died!
+[17:55:38] INFO: Going right
+[17:55:38] INFO: Going right
+[17:55:38] INFO: Going right
+[17:55:38] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[17:55:38] INFO: Shooting!
+[17:55:38] INFO: Bullets mag can hold: 10
+[17:55:38] INFO: Bullets mag can hold: 32739
+[17:55:38] INFO: Whole ammunition: 2
+[17:55:38] INFO: Player Received DMG!
+[17:55:38] INFO: HP Before subtraction: -100
+[17:55:38] INFO: HP After subtraction: -110
+[17:55:38] INFO: Player died :<
+[17:55:38] INFO: Player died!
+[17:55:38] INFO: Shooting!
+[17:55:38] INFO: Bullets mag can hold: 10
+[17:55:38] INFO: Bullets mag can hold: 32738
+[17:55:38] INFO: Whole ammunition: 1
+[17:55:38] INFO: Shooting!
+[17:55:38] INFO: Bullets mag can hold: 10
+[17:55:38] INFO: Bullets mag can hold: 32737
+[17:55:38] INFO: Whole ammunition: 0
+[17:55:38] INFO: Shooting!
+[17:55:38] INFO: Bullets mag can hold: 10
+[17:55:38] INFO: Bullets mag can hold: 32736
+[17:55:38] INFO: Whole ammunition: 0
+[17:55:38] INFO: Shooting!
+[17:55:38] INFO: Bullets mag can hold: 10
+[17:55:38] INFO: Bullets mag can hold: 32735
+[17:55:38] INFO: Whole ammunition: 0
+[17:55:38] INFO: Going right
+[17:55:38] INFO: Going right
+[17:55:38] INFO: Going right
+[17:55:38] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:55:39] INFO: Going right
+[17:57:03] INFO: shootMechTrooper texture loaded! OK
+[17:57:03] INFO: mechTrooper texture loaded! OK
+[17:57:03] INFO: playerTexture texture loaded! OK
+[17:57:03] INFO: Background texture loaded! OK
+[17:57:04] INFO: EnemyHp: -514858880
+[17:57:04] INFO: Enemy Received DMG!
+[17:57:04] INFO: HP Before subtraction: 1483722352
+[17:57:04] INFO: HP After subtraction: 1483722384
+[17:57:04] INFO: Enemy died :<
+[17:57:04] INFO: Enemy died!
+[18:02:49] INFO: enemyhp: 50
+[18:02:49] INFO: mechTrooper texture loaded! OK
+[18:02:49] INFO: shootMechTrooper texture loaded! OK
+[18:02:49] INFO: playerTexture texture loaded! OK
+[18:02:49] INFO: Background texture loaded! OK
+[18:04:09] INFO: shootMechTrooper texture loaded! OK
+[18:04:09] INFO: playerTexture texture loaded! OK
+[18:04:09] INFO: mechTrooper texture loaded! OK
+[18:04:09] INFO: Background texture loaded! OK
+[18:04:11] INFO: EnemyHp: 1297079856
+[18:04:11] INFO: Enemy Received DMG!
+[18:04:11] INFO: HP Before subtraction: 8965744
+[18:04:11] INFO: HP After subtraction: 8965776
+[18:06:17] INFO: shootMechTrooper texture loaded! OK
+[18:06:17] INFO: mechTrooper texture loaded! OK
+[18:06:17] INFO: playerTexture texture loaded! OK
+[18:06:17] INFO: Background texture loaded! OK
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:17] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:18] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:19] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:20] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:21] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:22] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:23] INFO: EnemyHp: 332390784
+[18:06:45] INFO: EnemyHp: 50
+[18:06:45] INFO: mechTrooper texture loaded! OK
+[18:06:45] INFO: shootMechTrooper texture loaded! OK
+[18:06:45] INFO: playerTexture texture loaded! OK
+[18:06:46] INFO: Background texture loaded! OK
+[18:08:59] INFO: EnemyHp: 50
+[18:08:59] INFO: shootMechTrooper texture loaded! OK
+[18:08:59] INFO: playerTexture texture loaded! OK
+[18:08:59] INFO: mechTrooper texture loaded! OK
+[18:08:59] INFO: Background texture loaded! OK
+[18:09:01] INFO: EnemyHp: -1539973120
+[18:09:01] INFO: Enemy Received DMG!
+[18:09:01] INFO: HP Before subtraction: -125972880
+[18:09:01] INFO: HP After subtraction: -125972848
+[18:09:01] INFO: Enemy died :<
+[18:09:01] INFO: Enemy died!
+[18:09:41] INFO: Deleting bullet as it weint outside of the border...
+[18:09:41] INFO: Deleting bullet as it weint outside of the border...
+[18:09:41] INFO: Deleting bullet as it weint outside of the border...
+[18:11:37] INFO: EnemyHp: 50
+[18:11:37] INFO: shootMechTrooper texture loaded! OK
+[18:11:37] INFO: playerTexture texture loaded! OK
+[18:11:37] INFO: mechTrooper texture loaded! OK
+[18:11:37] INFO: Background texture loaded! OK
+[18:11:39] INFO: EnemyHp: 1458561072
+[18:11:39] INFO: Enemy Received DMG!
+[18:11:39] INFO: HP Before subtraction: 822197424
+[18:11:39] INFO: HP After subtraction: 822197456
+[18:12:23] INFO: EnemyHp: 50
+[18:12:23] INFO: shootMechTrooper texture loaded! OK
+[18:12:23] INFO: mechTrooper texture loaded! OK
+[18:12:23] INFO: playerTexture texture loaded! OK
+[18:12:23] INFO: Background texture loaded! OK
+[18:12:25] INFO: EnemyHp: 50
+[18:12:25] INFO: Enemy Received DMG!
+[18:12:25] INFO: HP Before subtraction: 50
+[18:12:25] INFO: HP After subtraction: 35
+[18:12:31] INFO: Shooting!
+[18:12:31] INFO: Bullets mag can hold: 10
+[18:12:31] INFO: Bullets mag can hold: 32766
+[18:12:31] INFO: Whole ammunition: 29
+[18:12:31] INFO: Shooting!
+[18:12:31] INFO: Bullets mag can hold: 10
+[18:12:31] INFO: Bullets mag can hold: 32765
+[18:12:31] INFO: Whole ammunition: 28
+[18:12:31] INFO: Player Received DMG!
+[18:12:31] INFO: HP Before subtraction: 100
+[18:12:31] INFO: HP After subtraction: 90
+[18:12:31] INFO: Player Received DMG!
+[18:12:31] INFO: HP Before subtraction: 90
+[18:12:31] INFO: HP After subtraction: 80
+[18:13:43] INFO: Shooting!
+[18:13:43] INFO: Bullets mag can hold: 10
+[18:13:43] INFO: Bullets mag can hold: 32764
+[18:13:43] INFO: Whole ammunition: 27
+[18:13:43] INFO: Shooting!
+[18:13:43] INFO: Bullets mag can hold: 10
+[18:13:43] INFO: Bullets mag can hold: 32763
+[18:13:43] INFO: Whole ammunition: 26
+[18:13:43] INFO: Player Received DMG!
+[18:13:43] INFO: HP Before subtraction: 80
+[18:13:43] INFO: HP After subtraction: 70
+[18:13:44] INFO: Player Received DMG!
+[18:13:44] INFO: HP Before subtraction: 70
+[18:13:44] INFO: HP After subtraction: 60
+[18:13:45] INFO: Shooting!
+[18:13:45] INFO: Bullets mag can hold: 10
+[18:13:45] INFO: Bullets mag can hold: 32762
+[18:13:45] INFO: Whole ammunition: 25
+[18:13:45] INFO: Shooting!
+[18:13:45] INFO: Bullets mag can hold: 10
+[18:13:45] INFO: Bullets mag can hold: 32761
+[18:13:45] INFO: Whole ammunition: 24
+[18:13:45] INFO: Player Received DMG!
+[18:13:45] INFO: HP Before subtraction: 60
+[18:13:45] INFO: HP After subtraction: 50
+[18:13:45] INFO: Player Received DMG!
+[18:13:45] INFO: HP Before subtraction: 50
+[18:13:45] INFO: HP After subtraction: 40
+[18:13:48] INFO: EnemyHp: 35
+[18:13:48] INFO: Enemy Received DMG!
+[18:13:48] INFO: HP Before subtraction: 35
+[18:13:48] INFO: HP After subtraction: 20
+[18:13:49] INFO: EnemyHp: 20
+[18:13:49] INFO: Enemy Received DMG!
+[18:13:49] INFO: HP Before subtraction: 20
+[18:13:49] INFO: HP After subtraction: 5
+[18:13:50] INFO: Shooting!
+[18:13:50] INFO: Bullets mag can hold: 10
+[18:13:50] INFO: Bullets mag can hold: 32760
+[18:13:50] INFO: Whole ammunition: 23
+[18:13:51] INFO: Shooting!
+[18:13:51] INFO: Bullets mag can hold: 10
+[18:13:51] INFO: Bullets mag can hold: 32759
+[18:13:51] INFO: Whole ammunition: 22
+[18:13:51] INFO: Player Received DMG!
+[18:13:51] INFO: HP Before subtraction: 40
+[18:13:51] INFO: HP After subtraction: 30
+[18:13:51] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[18:13:55] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[18:13:56] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[18:13:58] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[18:13:59] INFO: EnemyHp: 5
+[18:13:59] INFO: Enemy Received DMG!
+[18:13:59] INFO: HP Before subtraction: 5
+[18:13:59] INFO: HP After subtraction: -10
+[18:13:59] INFO: Enemy died :<
+[18:13:59] INFO: Enemy died!
+[18:13:59] INFO: EnemyHp: -10
+[18:13:59] INFO: Enemy Received DMG!
+[18:13:59] INFO: HP Before subtraction: -10
+[18:13:59] INFO: HP After subtraction: -25
+[18:13:59] INFO: Enemy died :<
+[18:13:59] INFO: Enemy died!
+[18:14:00] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[18:14:00] INFO: EnemyHp: -25
+[18:14:00] INFO: Enemy Received DMG!
+[18:14:00] INFO: HP Before subtraction: -25
+[18:14:00] INFO: HP After subtraction: -40
+[18:14:00] INFO: Enemy died :<
+[18:14:00] INFO: Enemy died!
+[18:14:01] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[18:14:02] INFO: EnemyHp: -40
+[18:14:02] INFO: Enemy Received DMG!
+[18:14:02] INFO: HP Before subtraction: -40
+[18:14:02] INFO: HP After subtraction: -55
+[18:14:02] INFO: Enemy died :<
+[18:14:02] INFO: Enemy died!
+[18:14:02] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[18:14:03] INFO: EnemyHp: -55
+[18:14:03] INFO: Enemy Received DMG!
+[18:14:03] INFO: HP Before subtraction: -55
+[18:14:03] INFO: HP After subtraction: -70
+[18:14:03] INFO: Enemy died :<
+[18:14:03] INFO: Enemy died!
+[18:14:47] INFO: EnemyHp: 50
+[18:14:47] INFO: shootMechTrooper texture loaded! OK
+[18:14:47] INFO: mechTrooper texture loaded! OK
+[18:14:47] INFO: playerTexture texture loaded! OK
+[18:14:47] INFO: Background texture loaded! OK
+[18:14:49] INFO: Shooting!
+[18:14:49] INFO: Bullets mag can hold: 10
+[18:14:49] INFO: Bullets mag can hold: 32766
+[18:14:49] INFO: Whole ammunition: 29
+[18:14:49] INFO: Player Received DMG!
+[18:14:49] INFO: HP Before subtraction: 100
+[18:14:49] INFO: HP After subtraction: 90
+[18:14:51] INFO: EnemyHp: 50
+[18:14:51] INFO: Enemy Received DMG!
+[18:14:51] INFO: HP Before subtraction: 50
+[18:14:51] INFO: HP After subtraction: 35
