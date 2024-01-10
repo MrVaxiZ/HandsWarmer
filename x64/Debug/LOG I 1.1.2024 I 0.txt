@@ -1,0 +1,6 @@
+ERROR: Could not load texture: playerTexture
+ERROR: Could not load texture: mechTrooper
+ERROR: Could not load texture: shootMechTrooper
+ERROR: Error during assigning texture to object (Probably key has not been found)
+Error: invalid unordered_map<K, T> key
+ERROR: Could not load level background!

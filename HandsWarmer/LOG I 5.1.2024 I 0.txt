@@ -1,0 +1,474 @@
+[08:47:34] INFO: playerTexture texture loaded! OK
+[08:47:34] INFO: shootMechTrooper texture loaded! OK
+[08:47:34] INFO: mechTrooper texture loaded! OK
+[08:47:34] INFO: Background texture loaded! OK
+[08:47:42] INFO: Shooting!
+[08:47:42] INFO: Bullets mag can hold: 10
+[08:47:42] INFO: Bullets mag can hold: 32766
+[08:47:42] INFO: Whole ammunition: 29
+[08:47:42] INFO: Shooting!
+[08:47:42] INFO: Bullets mag can hold: 10
+[08:47:42] INFO: Bullets mag can hold: 32765
+[08:47:42] INFO: Whole ammunition: 28
+[08:47:42] INFO: Received DMG!
+[08:47:42] INFO: HP: 100
+[08:47:42] INFO: Shooting!
+[08:47:42] INFO: Bullets mag can hold: 10
+[08:47:42] INFO: Bullets mag can hold: 32764
+[08:47:42] INFO: Whole ammunition: 27
+[08:47:42] INFO: Received DMG!
+[08:47:42] INFO: HP: 95
+[08:47:43] INFO: Received DMG!
+[08:47:43] INFO: HP: 90
+[08:48:34] INFO: shootMechTrooper texture loaded! OK
+[08:48:34] INFO: playerTexture texture loaded! OK
+[08:48:34] INFO: mechTrooper texture loaded! OK
+[08:48:34] INFO: Background texture loaded! OK
+[08:48:38] INFO: Shooting!
+[08:48:38] INFO: Bullets mag can hold: 10
+[08:48:38] INFO: Bullets mag can hold: 32766
+[08:48:38] INFO: Whole ammunition: 29
+[08:48:38] INFO: Shooting!
+[08:48:38] INFO: Bullets mag can hold: 10
+[08:48:38] INFO: Bullets mag can hold: 32765
+[08:48:38] INFO: Whole ammunition: 28
+[08:48:38] INFO: Received DMG!
+[08:48:38] INFO: HP: 100
+[08:48:39] INFO: Received DMG!
+[08:48:39] INFO: HP: 95
+[08:48:40] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[08:48:41] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[08:50:14] INFO: mechTrooper texture loaded! OK
+[08:50:14] INFO: playerTexture texture loaded! OK
+[08:50:14] INFO: shootMechTrooper texture loaded! OK
+[08:50:14] INFO: Background texture loaded! OK
+[08:50:16] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[08:50:17] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[08:50:19] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[08:50:20] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[08:50:22] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[08:51:33] INFO: mechTrooper texture loaded! OK
+[08:51:33] INFO: playerTexture texture loaded! OK
+[08:51:33] INFO: shootMechTrooper texture loaded! OK
+[08:51:33] INFO: Background texture loaded! OK
+[08:51:35] INFO: Deleting bullet as it weint outside of the border...
+[08:51:38] INFO: Deleting bullet as it weint outside of the border...
+[08:51:39] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[08:51:40] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[08:51:42] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[08:51:43] INFO: Deleting bullet as it weint outside of the border...
+[08:51:43] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[08:51:43] INFO: Deleting bullet as it weint outside of the border...
+[08:51:44] INFO: Deleting bullet as it weint outside of the border...
+[08:51:44] INFO: Deleting bullet as it weint outside of the border...
+[08:51:44] INFO: Deleting bullet as it weint outside of the border...
+[08:51:45] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[08:51:45] INFO: Deleting bullet as it weint outside of the border...
+[08:51:46] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[08:51:46] INFO: Deleting bullet as it weint outside of the border...
+[08:51:46] INFO: Deleting bullet as it weint outside of the border...
+[08:51:47] INFO: Deleting bullet as it weint outside of the border...
+[08:51:47] INFO: Deleting bullet as it weint outside of the border...
+[08:51:47] INFO: Deleting bullet as it weint outside of the border...
+[08:51:47] INFO: Deleting bullet as it weint outside of the border...
+[08:51:47] INFO: Deleting bullet as it weint outside of the border...
+[08:51:49] INFO: Shooting!
+[08:51:49] INFO: Bullets mag can hold: 10
+[08:51:49] INFO: Bullets mag can hold: 32766
+[08:51:49] INFO: Whole ammunition: 29
+[08:51:49] INFO: Shooting!
+[08:51:49] INFO: Bullets mag can hold: 10
+[08:51:49] INFO: Bullets mag can hold: 32765
+[08:51:49] INFO: Whole ammunition: 28
+[08:51:49] INFO: Received DMG!
+[08:51:49] INFO: HP: 100
+[08:51:49] INFO: Shooting!
+[08:51:49] INFO: Bullets mag can hold: 10
+[08:51:49] INFO: Bullets mag can hold: 32764
+[08:51:49] INFO: Whole ammunition: 27
+[08:51:49] INFO: Received DMG!
+[08:51:49] INFO: HP: 95
+[08:51:49] INFO: Received DMG!
+[08:51:49] INFO: HP: 90
+[08:51:50] INFO: Shooting!
+[08:51:50] INFO: Bullets mag can hold: 10
+[08:51:50] INFO: Bullets mag can hold: 32763
+[08:51:50] INFO: Whole ammunition: 26
+[08:51:50] INFO: Shooting!
+[08:51:50] INFO: Bullets mag can hold: 10
+[08:51:50] INFO: Bullets mag can hold: 32762
+[08:51:50] INFO: Whole ammunition: 25
+[08:51:50] INFO: Received DMG!
+[08:51:50] INFO: HP: 85
+[08:51:51] INFO: Received DMG!
+[08:51:51] INFO: HP: 80
+[08:51:51] INFO: Shooting!
+[08:51:51] INFO: Bullets mag can hold: 10
+[08:51:51] INFO: Bullets mag can hold: 32761
+[08:51:51] INFO: Whole ammunition: 24
+[08:51:51] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[08:51:51] INFO: Shooting!
+[08:51:51] INFO: Bullets mag can hold: 10
+[08:51:51] INFO: Bullets mag can hold: 32760
+[08:51:51] INFO: Whole ammunition: 23
+[08:51:51] INFO: Received DMG!
+[08:51:51] INFO: HP: 75
+[08:51:51] INFO: Shooting!
+[08:51:51] INFO: Bullets mag can hold: 10
+[08:51:51] INFO: Bullets mag can hold: 32759
+[08:51:51] INFO: Whole ammunition: 22
+[08:51:52] INFO: Shooting!
+[08:51:52] INFO: Bullets mag can hold: 10
+[08:51:52] INFO: Bullets mag can hold: 32758
+[08:51:52] INFO: Whole ammunition: 21
+[08:51:52] INFO: Received DMG!
+[08:51:52] INFO: HP: 70
+[08:51:52] INFO: Received DMG!
+[08:51:52] INFO: HP: 65
+[08:51:52] INFO: Shooting!
+[08:51:52] INFO: Bullets mag can hold: 10
+[08:51:52] INFO: Bullets mag can hold: 32757
+[08:51:52] INFO: Whole ammunition: 20
+[08:51:52] INFO: Received DMG!
+[08:51:52] INFO: HP: 60
+[08:51:52] INFO: Shooting!
+[08:51:52] INFO: Bullets mag can hold: 10
+[08:51:52] INFO: Bullets mag can hold: 32756
+[08:51:52] INFO: Whole ammunition: 19
+[08:51:52] INFO: Received DMG!
+[08:51:52] INFO: HP: 55
+[08:51:52] INFO: Shooting!
+[08:51:52] INFO: Bullets mag can hold: 10
+[08:51:52] INFO: Bullets mag can hold: 32755
+[08:51:52] INFO: Whole ammunition: 18
+[08:51:52] INFO: Received DMG!
+[08:51:52] INFO: HP: 50
+[08:51:52] INFO: Shooting!
+[08:51:52] INFO: Bullets mag can hold: 10
+[08:51:52] INFO: Bullets mag can hold: 32754
+[08:51:52] INFO: Whole ammunition: 17
+[08:51:52] INFO: Received DMG!
+[08:51:52] INFO: HP: 45
+[08:51:52] INFO: Shooting!
+[08:51:52] INFO: Bullets mag can hold: 10
+[08:51:52] INFO: Bullets mag can hold: 32753
+[08:51:52] INFO: Whole ammunition: 16
+[08:51:52] INFO: Received DMG!
+[08:51:52] INFO: HP: 40
+[08:51:53] INFO: Shooting!
+[08:51:53] INFO: Bullets mag can hold: 10
+[08:51:53] INFO: Bullets mag can hold: 32752
+[08:51:53] INFO: Whole ammunition: 15
+[08:51:53] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[08:51:53] INFO: Shooting!
+[08:51:53] INFO: Bullets mag can hold: 10
+[08:51:53] INFO: Bullets mag can hold: 32751
+[08:51:53] INFO: Whole ammunition: 14
+[08:51:53] INFO: Received DMG!
+[08:51:53] INFO: HP: 35
+[08:51:55] INFO: Deleting bullet as it weint outside of the border...
+[08:53:06] INFO: shootMechTrooper texture loaded! OK
+[08:53:06] INFO: mechTrooper texture loaded! OK
+[08:53:06] INFO: playerTexture texture loaded! OK
+[08:53:07] INFO: Background texture loaded! OK
+[08:53:08] INFO: Deleting bullet as it weint outside of the border...
+[08:53:09] INFO: Deleting bullet as it weint outside of the border...
+[08:53:10] INFO: Deleting bullet as it weint outside of the border...
+[08:53:10] INFO: Deleting bullet as it weint outside of the border...
+[08:53:11] INFO: Deleting bullet as it weint outside of the border...
+[08:53:14] INFO: Shooting!
+[08:53:14] INFO: Bullets mag can hold: 10
+[08:53:14] INFO: Bullets mag can hold: 32766
+[08:53:14] INFO: Whole ammunition: 29
+[08:53:14] INFO: Shooting!
+[08:53:14] INFO: Bullets mag can hold: 10
+[08:53:14] INFO: Bullets mag can hold: 32765
+[08:53:14] INFO: Whole ammunition: 28
+[08:53:14] INFO: Received DMG!
+[08:53:14] INFO: HP: 100
+[08:53:14] INFO: Received DMG!
+[08:53:14] INFO: HP: 95
+[09:07:05] INFO: shootMechTrooper texture loaded! OK
+[09:07:05] INFO: playerTexture texture loaded! OK
+[09:07:05] INFO: mechTrooper texture loaded! OK
+[09:07:05] INFO: Background texture loaded! OK
+[09:07:06] INFO: Deleting bullet as it weint outside of the border...
+[09:07:08] INFO: Deleting bullet as it weint outside of the border...
+[09:07:08] INFO: Deleting bullet as it weint outside of the border...
+[09:07:09] INFO: Deleting bullet as it weint outside of the border...
+[09:07:10] INFO: Shooting!
+[09:07:10] INFO: Bullets mag can hold: 10
+[09:07:10] INFO: Bullets mag can hold: 32766
+[09:07:10] INFO: Whole ammunition: 29
+[09:07:10] INFO: Deleting bullet as it weint outside of the border...
+[09:07:11] INFO: Shooting!
+[09:07:11] INFO: Bullets mag can hold: 10
+[09:07:11] INFO: Bullets mag can hold: 32765
+[09:07:11] INFO: Whole ammunition: 28
+[09:07:11] INFO: Received DMG!
+[09:07:11] INFO: HP: 100
+[09:07:11] INFO: Shooting!
+[09:07:11] INFO: Bullets mag can hold: 10
+[09:07:11] INFO: Bullets mag can hold: 32764
+[09:07:11] INFO: Whole ammunition: 27
+[09:07:11] INFO: Received DMG!
+[09:07:11] INFO: HP: 95
+[09:07:11] INFO: Received DMG!
+[09:07:11] INFO: HP: 90
+[09:13:14] INFO: playerTexture texture loaded! OK
+[09:13:14] INFO: shootMechTrooper texture loaded! OK
+[09:13:14] INFO: mechTrooper texture loaded! OK
+[09:13:14] INFO: Background texture loaded! OK
+[09:13:16] INFO: Deleting bullet as it weint outside of the border...
+[09:13:16] INFO: Deleting bullet as it weint outside of the border...
+[09:13:18] INFO: Shooting!
+[09:13:18] INFO: Bullets mag can hold: 10
+[09:13:18] INFO: Bullets mag can hold: 32766
+[09:13:18] INFO: Whole ammunition: 29
+[09:13:18] INFO: Shooting!
+[09:13:18] INFO: Bullets mag can hold: 10
+[09:13:18] INFO: Bullets mag can hold: 32765
+[09:13:18] INFO: Whole ammunition: 28
+[09:13:18] INFO: Received DMG!
+[09:13:18] INFO: HP: 0
+[09:13:18] INFO: Something died :<
+[09:13:18] INFO: Enemy died!
+[09:13:19] INFO: Received DMG!
+[09:13:19] INFO: HP: 0
+[09:13:19] INFO: Something died :<
+[09:13:19] INFO: Enemy died!
+[09:13:19] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[09:13:21] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[09:13:21] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[09:13:23] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[09:13:23] INFO: Shooting!
+[09:13:23] INFO: Bullets mag can hold: 10
+[09:13:23] INFO: Bullets mag can hold: 32764
+[09:13:23] INFO: Whole ammunition: 27
+[09:13:23] INFO: Shooting!
+[09:13:23] INFO: Bullets mag can hold: 10
+[09:13:23] INFO: Bullets mag can hold: 32763
+[09:13:23] INFO: Whole ammunition: 26
+[09:13:23] INFO: Received DMG!
+[09:13:23] INFO: HP: 0
+[09:13:23] INFO: Something died :<
+[09:13:23] INFO: Enemy died!
+[09:13:23] INFO: Shooting!
+[09:13:23] INFO: Bullets mag can hold: 10
+[09:13:23] INFO: Bullets mag can hold: 32762
+[09:13:23] INFO: Whole ammunition: 25
+[09:13:23] INFO: Received DMG!
+[09:13:23] INFO: HP: 0
+[09:13:23] INFO: Something died :<
+[09:13:23] INFO: Enemy died!
+[09:13:23] INFO: Shooting!
+[09:13:23] INFO: Bullets mag can hold: 10
+[09:13:23] INFO: Bullets mag can hold: 32761
+[09:13:23] INFO: Whole ammunition: 24
+[09:13:23] INFO: Shooting!
+[09:13:23] INFO: Bullets mag can hold: 10
+[09:13:23] INFO: Bullets mag can hold: 32760
+[09:13:23] INFO: Whole ammunition: 23
+[09:13:24] INFO: Shooting!
+[09:13:24] INFO: Bullets mag can hold: 10
+[09:13:24] INFO: Bullets mag can hold: 32759
+[09:13:24] INFO: Whole ammunition: 22
+[09:13:24] INFO: Received DMG!
+[09:13:24] INFO: HP: 0
+[09:13:24] INFO: Something died :<
+[09:13:24] INFO: Enemy died!
+[09:13:24] INFO: Received DMG!
+[09:13:24] INFO: HP: 0
+[09:13:24] INFO: Something died :<
+[09:13:24] INFO: Enemy died!
+[09:13:33] INFO: shootMechTrooper texture loaded! OK
+[09:13:33] INFO: mechTrooper texture loaded! OK
+[09:13:33] INFO: playerTexture texture loaded! OK
+[09:13:34] INFO: Background texture loaded! OK
+[09:13:34] INFO: Shooting!
+[09:13:34] INFO: Bullets mag can hold: 10
+[09:13:34] INFO: Bullets mag can hold: 32766
+[09:13:34] INFO: Whole ammunition: 29
+[09:13:35] INFO: Received DMG!
+[09:13:35] INFO: HP: 0
+[09:13:35] INFO: Something died :<
+[09:13:35] INFO: Enemy died!
+[09:14:26] INFO: shootMechTrooper texture loaded! OK
+[09:14:26] INFO: mechTrooper texture loaded! OK
+[09:14:26] INFO: playerTexture texture loaded! OK
+[09:14:26] INFO: Background texture loaded! OK
+[09:14:27] INFO: Shooting!
+[09:14:27] INFO: Bullets mag can hold: 10
+[09:14:27] INFO: Bullets mag can hold: 32766
+[09:14:27] INFO: Whole ammunition: 29
+[09:14:27] INFO: Received DMG!
+[09:14:27] INFO: HP: 0
+[09:14:27] INFO: Something died :<
+[09:14:27] INFO: Enemy died!
+[09:16:32] INFO: shootMechTrooper texture loaded! OK
+[09:16:32] INFO: mechTrooper texture loaded! OK
+[09:16:32] INFO: playerTexture texture loaded! OK
+[09:16:32] INFO: Background texture loaded! OK
+[09:16:33] INFO: Shooting!
+[09:16:33] INFO: Bullets mag can hold: 10
+[09:16:33] INFO: Bullets mag can hold: 32766
+[09:16:33] INFO: Whole ammunition: 29
+[09:16:33] INFO: Shooting!
+[09:16:33] INFO: Bullets mag can hold: 10
+[09:16:33] INFO: Bullets mag can hold: 32765
+[09:16:33] INFO: Whole ammunition: 28
+[09:16:33] INFO: Received DMG!
+[09:16:33] INFO: HP: 0
+[09:16:33] INFO: Something died :<
+[09:16:33] INFO: Enemy died!
+[09:16:33] INFO: Shooting!
+[09:16:33] INFO: Bullets mag can hold: 10
+[09:16:33] INFO: Bullets mag can hold: 32764
+[09:16:33] INFO: Whole ammunition: 27
+[09:16:33] INFO: Received DMG!
+[09:16:33] INFO: HP: 0
+[09:16:33] INFO: Something died :<
+[09:16:33] INFO: Enemy died!
+[09:16:34] INFO: Received DMG!
+[09:16:34] INFO: HP: 0
+[09:16:34] INFO: Something died :<
+[09:16:34] INFO: Enemy died!
+[09:17:03] INFO: shootMechTrooper texture loaded! OK
+[09:17:03] INFO: mechTrooper texture loaded! OK
+[09:17:03] INFO: playerTexture texture loaded! OK
+[09:17:03] INFO: Background texture loaded! OK
+[09:17:06] INFO: Shooting!
+[09:17:06] INFO: Bullets mag can hold: 10
+[09:17:06] INFO: Bullets mag can hold: 32766
+[09:17:06] INFO: Whole ammunition: 29
+[09:17:06] INFO: Shooting!
+[09:17:06] INFO: Bullets mag can hold: 10
+[09:17:06] INFO: Bullets mag can hold: 32765
+[09:17:06] INFO: Whole ammunition: 28
+[09:17:06] INFO: Received DMG!
+[09:17:06] INFO: HP: 0
+[09:17:06] INFO: Something died :<
+[09:17:06] INFO: Enemy died!
+[09:17:06] INFO: Received DMG!
+[09:17:06] INFO: HP: -5
+[09:17:06] INFO: Something died :<
+[09:17:06] INFO: Enemy died!
+[09:19:06] INFO: playerTexture texture loaded! OK
+[09:19:06] INFO: mechTrooper texture loaded! OK
+[09:19:06] INFO: shootMechTrooper texture loaded! OK
+[09:19:06] INFO: Background texture loaded! OK
+[09:19:07] INFO: Deleting bullet as it weint outside of the border...
+[09:19:08] INFO: Deleting bullet as it weint outside of the border...
+[09:19:09] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[09:19:10] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[09:19:10] INFO: Shooting!
+[09:19:10] INFO: Bullets mag can hold: 10
+[09:19:10] INFO: Bullets mag can hold: 32766
+[09:19:10] INFO: Whole ammunition: 29
+[09:19:10] INFO: Shooting!
+[09:19:10] INFO: Bullets mag can hold: 10
+[09:19:10] INFO: Bullets mag can hold: 32765
+[09:19:10] INFO: Whole ammunition: 28
+[09:19:11] INFO: Received DMG!
+[09:19:11] INFO: HP: 0
+[09:19:11] INFO: Something died :<
+[09:19:11] INFO: Enemy died!
+[09:19:11] INFO: Shooting!
+[09:19:11] INFO: Bullets mag can hold: 10
+[09:19:11] INFO: Bullets mag can hold: 32764
+[09:19:11] INFO: Whole ammunition: 27
+[09:19:11] INFO: Received DMG!
+[09:19:11] INFO: HP: -5
+[09:19:11] INFO: Something died :<
+[09:19:11] INFO: Enemy died!
+[09:19:11] INFO: Shooting!
+[09:19:11] INFO: Bullets mag can hold: 10
+[09:19:11] INFO: Bullets mag can hold: 32763
+[09:19:11] INFO: Whole ammunition: 26
+[09:19:11] INFO: Shooting!
+[09:19:11] INFO: Bullets mag can hold: 10
+[09:19:11] INFO: Bullets mag can hold: 32762
+[09:19:11] INFO: Whole ammunition: 25
+[09:19:11] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[09:19:11] INFO: Received DMG!
+[09:19:11] INFO: HP: -10
+[09:19:11] INFO: Something died :<
+[09:19:11] INFO: Enemy died!
+[09:19:19] INFO: Deleting bullet as it weint outside of the border...
+[09:19:28] INFO: mechTrooper texture loaded! OK
+[09:19:28] INFO: playerTexture texture loaded! OK
+[09:19:28] INFO: shootMechTrooper texture loaded! OK
+[09:19:28] INFO: Background texture loaded! OK
+[09:19:29] INFO: Shooting!
+[09:19:29] INFO: Bullets mag can hold: 10
+[09:19:29] INFO: Bullets mag can hold: 32766
+[09:19:29] INFO: Whole ammunition: 29
+[09:19:29] INFO: Received DMG!
+[09:19:29] INFO: HP: 0
+[09:19:29] INFO: Something died :<
+[09:19:29] INFO: Enemy died!
+[09:19:31] INFO: Shooting!
+[09:19:31] INFO: Bullets mag can hold: 10
+[09:19:31] INFO: Bullets mag can hold: 32765
+[09:19:31] INFO: Whole ammunition: 28
+[09:19:31] INFO: Received DMG!
+[09:19:31] INFO: HP: -5
+[09:19:31] INFO: Something died :<
+[09:19:31] INFO: Enemy died!
+[09:20:13] INFO: shootMechTrooper texture loaded! OK
+[09:20:13] INFO: mechTrooper texture loaded! OK
+[09:20:13] INFO: playerTexture texture loaded! OK
+[09:20:13] INFO: Background texture loaded! OK
+[09:20:14] INFO: Shooting!
+[09:20:14] INFO: Bullets mag can hold: 10
+[09:20:14] INFO: Bullets mag can hold: 32766
+[09:20:14] INFO: Whole ammunition: 29
+[09:20:15] INFO: Shooting!
+[09:20:15] INFO: Bullets mag can hold: 10
+[09:20:15] INFO: Bullets mag can hold: 32765
+[09:20:15] INFO: Whole ammunition: 28
+[09:20:15] INFO: Received DMG!
+[09:20:15] INFO: HP: 0
+[09:20:15] INFO: Something died :<
+[09:20:15] INFO: Enemy died!
+[09:20:15] INFO: Received DMG!
+[09:20:15] INFO: HP: -5
+[09:20:15] INFO: Something died :<
+[09:20:15] INFO: Enemy died!
+[09:22:33] INFO: HP: 100
+[09:22:33] INFO: shootMechTrooper texture loaded! OK
+[09:22:33] INFO: mechTrooper texture loaded! OK
+[09:22:33] INFO: playerTexture texture loaded! OK
+[09:22:33] INFO: Background texture loaded! OK
+[09:23:08] INFO: HP: 50
+[09:23:08] INFO: shootMechTrooper texture loaded! OK
+[09:23:08] INFO: playerTexture texture loaded! OK
+[09:23:08] INFO: mechTrooper texture loaded! OK
+[09:23:08] INFO: Background texture loaded! OK
+[09:23:47] INFO: HP: 0
+[09:23:47] INFO: shootMechTrooper texture loaded! OK
+[09:23:47] INFO: playerTexture texture loaded! OK
+[09:23:47] INFO: mechTrooper texture loaded! OK
+[09:23:48] INFO: Background texture loaded! OK

@@ -12,20 +12,38 @@
 #include "Player.h"
 #include "Level.h"
 #include "MechTrooper.h"
+#include "GameProperties.h"
 
 class Game {
 public:
-    Game();
-    void run();
+    const int windowHeight = 600;
+    const int windowWidth = 800;
 
-private:
+    // Player Properties
+    int playerHp = 100;
+    int playerDmg = 15;
+    float playerSpeed = 1000.f;
+
+    // MechTrooper Properties
+    int mechTrooperHp = 50;
+    int mechTrooperDmg = 10;
+    float mechTrooperSpeed = 1000.f;
+
     sf::RenderWindow window;
+    sf::Vector2f mousePosWindow;
+    GameProperties gameProperties;
     TextureManager textureManager;
     Level level;
     Player player;
     MechTrooper mechTrooper;
     MousePositionDisplay mousePositionDisplay;
 
+
+
+    Game();
+    void run();
+
+private:
     void processEvents();
     void update(sf::Time deltaTime);
     void render();

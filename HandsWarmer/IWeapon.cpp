@@ -1,7 +1,7 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
 
-class Weapon {
+class IWeapon {
 protected:
     int damage;
     float range;
@@ -9,14 +9,10 @@ protected:
     static sf::Sprite sprite;
 
 public:
-    Weapon(int dmg, float rng, std::string nm) : damage(dmg), range(rng), name(nm) {}
+    IWeapon(int dmg, float rng, std::string nm) : damage(dmg), range(rng), name(nm) {}
 
     void setTexture(const sf::Texture& texture) {
         sprite.setTexture(texture);
-    }
-
-    virtual void shoot() {
-        // Shooting logic...
     }
 
     virtual void upgrade() {

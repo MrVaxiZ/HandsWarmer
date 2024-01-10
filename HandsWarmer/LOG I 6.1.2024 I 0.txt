@@ -1,0 +1,2149 @@
+[16:31:14] INFO: playerTexture texture loaded! OK
+[16:31:14] INFO: mechTrooper texture loaded! OK
+[16:31:14] INFO: shootMechTrooper texture loaded! OK
+[16:31:14] INFO: Background texture loaded! OK
+[16:31:16] INFO: Deleting bullet as it weint outside of the border...
+[16:31:17] INFO: Deleting bullet as it weint outside of the border...
+[16:31:17] INFO: Deleting bullet as it weint outside of the border...
+[16:31:17] INFO: Deleting bullet as it weint outside of the border...
+[16:31:17] INFO: Deleting bullet as it weint outside of the border...
+[16:31:18] INFO: Deleting bullet as it weint outside of the border...
+[16:31:18] INFO: Deleting bullet as it weint outside of the border...
+[16:31:19] INFO: Shooting!
+[16:31:19] INFO: Bullets mag can hold: 10
+[16:31:19] INFO: Bullets mag can hold: 32766
+[16:31:19] INFO: Whole ammunition: 29
+[16:31:19] INFO: Shooting!
+[16:31:19] INFO: Bullets mag can hold: 10
+[16:31:19] INFO: Bullets mag can hold: 32765
+[16:31:19] INFO: Whole ammunition: 28
+[16:31:19] INFO: Received DMG!
+[16:31:19] INFO: HP: 0
+[16:31:19] INFO: Something died :<
+[16:31:19] INFO: Enemy died!
+[16:31:19] INFO: Received DMG!
+[16:31:19] INFO: HP: -5
+[16:31:19] INFO: Something died :<
+[16:31:19] INFO: Enemy died!
+[16:31:24] INFO: Shooting!
+[16:31:24] INFO: Bullets mag can hold: 10
+[16:31:24] INFO: Bullets mag can hold: 32764
+[16:31:24] INFO: Whole ammunition: 27
+[16:31:24] INFO: Received DMG!
+[16:31:24] INFO: HP: -10
+[16:31:24] INFO: Something died :<
+[16:31:24] INFO: Enemy died!
+[16:31:25] INFO: Shooting!
+[16:31:25] INFO: Bullets mag can hold: 10
+[16:31:25] INFO: Bullets mag can hold: 32763
+[16:31:25] INFO: Whole ammunition: 26
+[16:31:25] INFO: Shooting!
+[16:31:25] INFO: Bullets mag can hold: 10
+[16:31:25] INFO: Bullets mag can hold: 32762
+[16:31:25] INFO: Whole ammunition: 25
+[16:31:25] INFO: Received DMG!
+[16:31:25] INFO: HP: -15
+[16:31:25] INFO: Something died :<
+[16:31:25] INFO: Enemy died!
+[16:31:25] INFO: Received DMG!
+[16:31:25] INFO: HP: -20
+[16:31:25] INFO: Something died :<
+[16:31:25] INFO: Enemy died!
+[16:31:26] INFO: Shooting!
+[16:31:26] INFO: Bullets mag can hold: 10
+[16:31:26] INFO: Bullets mag can hold: 32761
+[16:31:26] INFO: Whole ammunition: 24
+[16:31:26] INFO: Shooting!
+[16:31:26] INFO: Bullets mag can hold: 10
+[16:31:26] INFO: Bullets mag can hold: 32760
+[16:31:26] INFO: Whole ammunition: 23
+[16:31:27] INFO: Received DMG!
+[16:31:27] INFO: HP: -25
+[16:31:27] INFO: Something died :<
+[16:31:27] INFO: Enemy died!
+[16:31:27] INFO: Received DMG!
+[16:31:27] INFO: HP: -30
+[16:31:27] INFO: Something died :<
+[16:31:27] INFO: Enemy died!
+[16:31:29] INFO: Deleting bullet as it weint outside of the border...
+[16:31:30] INFO: Deleting bullet as it weint outside of the border...
+[16:31:30] INFO: Shooting!
+[16:31:30] INFO: Bullets mag can hold: 10
+[16:31:30] INFO: Bullets mag can hold: 32759
+[16:31:30] INFO: Whole ammunition: 22
+[16:31:30] INFO: Shooting!
+[16:31:30] INFO: Bullets mag can hold: 10
+[16:31:30] INFO: Bullets mag can hold: 32758
+[16:31:30] INFO: Whole ammunition: 21
+[16:31:31] INFO: Received DMG!
+[16:31:31] INFO: HP: -35
+[16:31:31] INFO: Something died :<
+[16:31:31] INFO: Enemy died!
+[16:31:31] INFO: Received DMG!
+[16:31:31] INFO: HP: -40
+[16:31:31] INFO: Something died :<
+[16:31:31] INFO: Enemy died!
+[16:31:33] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[16:31:33] INFO: Shooting!
+[16:31:33] INFO: Bullets mag can hold: 10
+[16:31:33] INFO: Bullets mag can hold: 32757
+[16:31:33] INFO: Whole ammunition: 20
+[16:31:34] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[16:31:34] INFO: Received DMG!
+[16:31:34] INFO: HP: -45
+[16:31:34] INFO: Something died :<
+[16:31:34] INFO: Enemy died!
+[18:34:18] INFO: playerTexture texture loaded! OK
+[18:34:18] INFO: mechTrooper texture loaded! OK
+[18:34:18] INFO: shootMechTrooper texture loaded! OK
+[18:34:18] INFO: Background texture loaded! OK
+[18:34:20] INFO: Deleting bullet as it weint outside of the border...
+[18:34:22] INFO: Shooting!
+[18:34:22] INFO: Bullets mag can hold: 10
+[18:34:22] INFO: Bullets mag can hold: 32766
+[18:34:22] INFO: Whole ammunition: 29
+[18:34:22] INFO: Shooting!
+[18:34:22] INFO: Bullets mag can hold: 10
+[18:34:22] INFO: Bullets mag can hold: 32765
+[18:34:22] INFO: Whole ammunition: 28
+[18:34:23] INFO: Received DMG!
+[18:34:23] INFO: HP: 0
+[18:34:23] INFO: Something died :<
+[18:34:23] INFO: Enemy died!
+[18:34:23] INFO: Received DMG!
+[18:34:23] INFO: HP: 0
+[18:34:23] INFO: Something died :<
+[18:34:23] INFO: Enemy died!
+[18:34:25] INFO: Shooting!
+[18:34:25] INFO: Bullets mag can hold: 10
+[18:34:25] INFO: Bullets mag can hold: 32764
+[18:34:25] INFO: Whole ammunition: 27
+[18:34:26] INFO: Received DMG!
+[18:34:26] INFO: HP: 0
+[18:34:26] INFO: Something died :<
+[18:34:26] INFO: Enemy died!
+[18:55:46] INFO: playerTexture texture loaded! OK
+[18:55:46] INFO: mechTrooper texture loaded! OK
+[18:55:46] INFO: shootMechTrooper texture loaded! OK
+[18:55:46] INFO: Background texture loaded! OK
+[18:55:47] INFO: Shooting!
+[18:55:47] INFO: Bullets mag can hold: 10
+[18:55:47] INFO: Bullets mag can hold: 32766
+[18:55:47] INFO: Whole ammunition: 29
+[18:55:48] INFO: Received DMG!
+[18:55:48] INFO: HP: 50
+[18:55:48] INFO: Shooting!
+[18:55:48] INFO: Bullets mag can hold: 10
+[18:55:48] INFO: Bullets mag can hold: 32765
+[18:55:48] INFO: Whole ammunition: 28
+[18:55:49] INFO: Shooting!
+[18:55:49] INFO: Bullets mag can hold: 10
+[18:55:49] INFO: Bullets mag can hold: 32764
+[18:55:49] INFO: Whole ammunition: 27
+[18:55:49] INFO: Received DMG!
+[18:55:49] INFO: HP: 35
+[18:55:49] INFO: Received DMG!
+[18:55:49] INFO: HP: 20
+[18:56:09] INFO: Deleting bullet as it weint outside of the border...
+[18:56:20] INFO: Deleting bullet as it weint outside of the border...
+[18:56:20] INFO: Deleting bullet as it weint outside of the border...
+[18:56:21] INFO: Deleting bullet as it weint outside of the border...
+[18:56:21] INFO: Deleting bullet as it weint outside of the border...
+[18:56:23] INFO: Shooting!
+[18:56:23] INFO: Bullets mag can hold: 10
+[18:56:23] INFO: Bullets mag can hold: 32763
+[18:56:23] INFO: Whole ammunition: 26
+[18:56:23] INFO: Deleting bullet as it weint outside of the border...
+[18:56:24] INFO: Received DMG!
+[18:56:24] INFO: HP: 5
+[18:56:24] INFO: Something died :<
+[18:56:24] INFO: Enemy died!
+[18:57:48] INFO: playerTexture texture loaded! OK
+[18:57:48] INFO: mechTrooper texture loaded! OK
+[18:57:48] INFO: shootMechTrooper texture loaded! OK
+[18:57:48] INFO: Background texture loaded! OK
+[18:57:49] INFO: Shooting!
+[18:57:49] INFO: Bullets mag can hold: 10
+[18:57:49] INFO: Bullets mag can hold: 32766
+[18:57:49] INFO: Whole ammunition: 29
+[18:57:50] INFO: Received DMG!
+[18:57:50] INFO: HP Before subtraction: 50
+[18:57:50] INFO: HP After subtraction: 35
+[18:57:58] INFO: Shooting!
+[18:57:58] INFO: Bullets mag can hold: 10
+[18:57:58] INFO: Bullets mag can hold: 32765
+[18:57:58] INFO: Whole ammunition: 28
+[18:57:58] INFO: Received DMG!
+[18:57:58] INFO: HP Before subtraction: 35
+[18:57:58] INFO: HP After subtraction: 20
+[19:12:31] INFO: mechTrooper texture loaded! OK
+[19:12:31] INFO: shootMechTrooper texture loaded! OK
+[19:12:31] INFO: playerTexture texture loaded! OK
+[19:12:31] INFO: Background texture loaded! OK
+[19:12:33] INFO: Deleting bullet as it weint outside of the border...
+[19:12:34] INFO: Deleting bullet as it weint outside of the border...
+[19:12:35] INFO: Shooting!
+[19:12:35] INFO: Bullets mag can hold: 10
+[19:12:35] INFO: Bullets mag can hold: 32766
+[19:12:35] INFO: Whole ammunition: 29
+[19:12:36] INFO: Player Received DMG!
+[19:12:36] INFO: HP Before subtraction: 0
+[19:12:36] INFO: HP After subtraction: -15
+[19:12:36] INFO: Player died :<
+[19:12:36] INFO: Player died!
+[19:15:42] INFO: playerTexture texture loaded! OK
+[19:15:42] INFO: shootMechTrooper texture loaded! OK
+[19:15:42] INFO: mechTrooper texture loaded! OK
+[19:15:42] INFO: Background texture loaded! OK
+[19:15:45] INFO: Shooting!
+[19:15:45] INFO: Bullets mag can hold: 10
+[19:15:45] INFO: Bullets mag can hold: 32766
+[19:15:45] INFO: Whole ammunition: 29
+[19:15:46] INFO: Player Received DMG!
+[19:15:46] INFO: HP Before subtraction: 100
+[19:15:46] INFO: HP After subtraction: 85
+[19:37:11] INFO: playerTexture texture loaded! OK
+[19:37:11] INFO: mechTrooper texture loaded! OK
+[19:37:11] INFO: shootMechTrooper texture loaded! OK
+[19:37:11] INFO: Background texture loaded! OK
+[19:37:12] INFO: Shooting!
+[19:37:12] INFO: Bullets mag can hold: 10
+[19:37:12] INFO: Bullets mag can hold: 32766
+[19:37:12] INFO: Whole ammunition: 29
+[19:37:12] INFO: Player Received DMG!
+[19:37:12] INFO: HP Before subtraction: 100
+[19:37:12] INFO: HP After subtraction: 85
+[19:37:13] INFO: Shooting!
+[19:37:13] INFO: Bullets mag can hold: 10
+[19:37:13] INFO: Bullets mag can hold: 32765
+[19:37:13] INFO: Whole ammunition: 28
+[19:37:13] INFO: Player Received DMG!
+[19:37:13] INFO: HP Before subtraction: 100
+[19:37:13] INFO: HP After subtraction: 85
+[19:37:14] INFO: Shooting!
+[19:37:14] INFO: Bullets mag can hold: 10
+[19:37:14] INFO: Bullets mag can hold: 32764
+[19:37:14] INFO: Whole ammunition: 27
+[19:37:15] INFO: Player Received DMG!
+[19:37:15] INFO: HP Before subtraction: 100
+[19:37:15] INFO: HP After subtraction: 85
+[19:37:15] INFO: Shooting!
+[19:37:15] INFO: Bullets mag can hold: 10
+[19:37:15] INFO: Bullets mag can hold: 32763
+[19:37:15] INFO: Whole ammunition: 26
+[19:37:16] INFO: Player Received DMG!
+[19:37:16] INFO: HP Before subtraction: 100
+[19:37:16] INFO: HP After subtraction: 85
+[19:37:20] INFO: Shooting!
+[19:37:20] INFO: Bullets mag can hold: 10
+[19:37:20] INFO: Bullets mag can hold: 32762
+[19:37:20] INFO: Whole ammunition: 25
+[19:37:21] INFO: Shooting!
+[19:37:21] INFO: Bullets mag can hold: 10
+[19:37:21] INFO: Bullets mag can hold: 32761
+[19:37:21] INFO: Whole ammunition: 24
+[19:37:21] INFO: Player Received DMG!
+[19:37:21] INFO: HP Before subtraction: 100
+[19:37:21] INFO: HP After subtraction: 85
+[19:37:21] INFO: Player Received DMG!
+[19:37:21] INFO: HP Before subtraction: 100
+[19:37:21] INFO: HP After subtraction: 85
+[19:37:22] INFO: Shooting!
+[19:37:22] INFO: Bullets mag can hold: 10
+[19:37:22] INFO: Bullets mag can hold: 32760
+[19:37:22] INFO: Whole ammunition: 23
+[19:37:22] INFO: Shooting!
+[19:37:22] INFO: Bullets mag can hold: 10
+[19:37:22] INFO: Bullets mag can hold: 32759
+[19:37:22] INFO: Whole ammunition: 22
+[19:37:22] INFO: Player Received DMG!
+[19:37:22] INFO: HP Before subtraction: 100
+[19:37:22] INFO: HP After subtraction: 85
+[19:37:22] INFO: Shooting!
+[19:37:22] INFO: Bullets mag can hold: 10
+[19:37:22] INFO: Bullets mag can hold: 32758
+[19:37:22] INFO: Whole ammunition: 21
+[19:37:23] INFO: Player Received DMG!
+[19:37:23] INFO: HP Before subtraction: 100
+[19:37:23] INFO: HP After subtraction: 85
+[19:37:23] INFO: Shooting!
+[19:37:23] INFO: Bullets mag can hold: 10
+[19:37:23] INFO: Bullets mag can hold: 32757
+[19:37:23] INFO: Whole ammunition: 20
+[19:37:23] INFO: Player Received DMG!
+[19:37:23] INFO: HP Before subtraction: 100
+[19:37:23] INFO: HP After subtraction: 85
+[19:37:23] INFO: Shooting!
+[19:37:23] INFO: Bullets mag can hold: 10
+[19:37:23] INFO: Bullets mag can hold: 32756
+[19:37:23] INFO: Whole ammunition: 19
+[19:37:23] INFO: Player Received DMG!
+[19:37:23] INFO: HP Before subtraction: 100
+[19:37:23] INFO: HP After subtraction: 85
+[19:37:23] INFO: Shooting!
+[19:37:23] INFO: Bullets mag can hold: 10
+[19:37:23] INFO: Bullets mag can hold: 32755
+[19:37:23] INFO: Whole ammunition: 18
+[19:37:23] INFO: Player Received DMG!
+[19:37:23] INFO: HP Before subtraction: 100
+[19:37:23] INFO: HP After subtraction: 85
+[19:37:24] INFO: Player Received DMG!
+[19:37:24] INFO: HP Before subtraction: 100
+[19:37:24] INFO: HP After subtraction: 85
+[19:38:42] INFO: playerTexture texture loaded! OK
+[19:38:42] INFO: mechTrooper texture loaded! OK
+[19:38:42] INFO: shootMechTrooper texture loaded! OK
+[19:38:42] INFO: Background texture loaded! OK
+[19:38:42] INFO: Shooting!
+[19:38:42] INFO: Bullets mag can hold: 10
+[19:38:42] INFO: Bullets mag can hold: 32766
+[19:38:42] INFO: Whole ammunition: 29
+[19:38:42] INFO: Shooting!
+[19:38:42] INFO: Bullets mag can hold: 10
+[19:38:42] INFO: Bullets mag can hold: 32765
+[19:38:42] INFO: Whole ammunition: 28
+[19:38:42] INFO: Player Received DMG!
+[19:38:42] INFO: HP Before subtraction: 100
+[19:38:42] INFO: HP After subtraction: 85
+[19:38:43] INFO: Shooting!
+[19:38:43] INFO: Bullets mag can hold: 10
+[19:38:43] INFO: Bullets mag can hold: 32764
+[19:38:43] INFO: Whole ammunition: 27
+[19:38:43] INFO: Player Received DMG!
+[19:38:43] INFO: HP Before subtraction: 100
+[19:38:43] INFO: HP After subtraction: 85
+[19:38:43] INFO: Player Received DMG!
+[19:38:43] INFO: HP Before subtraction: 100
+[19:38:43] INFO: HP After subtraction: 85
+[19:38:44] INFO: Shooting!
+[19:38:44] INFO: Bullets mag can hold: 10
+[19:38:44] INFO: Bullets mag can hold: 32763
+[19:38:44] INFO: Whole ammunition: 26
+[19:38:45] INFO: Shooting!
+[19:38:45] INFO: Bullets mag can hold: 10
+[19:38:45] INFO: Bullets mag can hold: 32762
+[19:38:45] INFO: Whole ammunition: 25
+[19:38:45] INFO: Player Received DMG!
+[19:38:45] INFO: HP Before subtraction: 100
+[19:38:45] INFO: HP After subtraction: 85
+[19:38:45] INFO: Shooting!
+[19:38:45] INFO: Bullets mag can hold: 10
+[19:38:45] INFO: Bullets mag can hold: 32761
+[19:38:45] INFO: Whole ammunition: 24
+[19:38:45] INFO: Player Received DMG!
+[19:38:45] INFO: HP Before subtraction: 100
+[19:38:45] INFO: HP After subtraction: 85
+[19:38:45] INFO: Player Received DMG!
+[19:38:45] INFO: HP Before subtraction: 100
+[19:38:45] INFO: HP After subtraction: 85
+[20:28:01] INFO: playerTexture texture loaded! OK
+[20:28:01] INFO: shootMechTrooper texture loaded! OK
+[20:28:01] INFO: mechTrooper texture loaded! OK
+[20:28:01] INFO: Background texture loaded! OK
+[20:28:02] INFO: Shooting!
+[20:28:02] INFO: Bullets mag can hold: 10
+[20:28:02] INFO: Bullets mag can hold: 32766
+[20:28:02] INFO: Whole ammunition: 29
+[20:28:02] INFO: Shooting!
+[20:28:02] INFO: Bullets mag can hold: 10
+[20:28:02] INFO: Bullets mag can hold: 32765
+[20:28:02] INFO: Whole ammunition: 28
+[20:28:03] INFO: Player Received DMG!
+[20:28:03] INFO: HP Before subtraction: 100
+[20:28:03] INFO: HP After subtraction: 85
+[20:28:03] INFO: Player Received DMG!
+[20:28:03] INFO: HP Before subtraction: 85
+[20:28:03] INFO: HP After subtraction: 70
+[20:28:04] INFO: Shooting!
+[20:28:04] INFO: Bullets mag can hold: 10
+[20:28:04] INFO: Bullets mag can hold: 32764
+[20:28:04] INFO: Whole ammunition: 27
+[20:28:04] INFO: Shooting!
+[20:28:04] INFO: Bullets mag can hold: 10
+[20:28:04] INFO: Bullets mag can hold: 32763
+[20:28:04] INFO: Whole ammunition: 26
+[20:28:04] INFO: Player Received DMG!
+[20:28:04] INFO: HP Before subtraction: 70
+[20:28:04] INFO: HP After subtraction: 55
+[20:28:05] INFO: Player Received DMG!
+[20:28:05] INFO: HP Before subtraction: 55
+[20:28:05] INFO: HP After subtraction: 40
+[20:28:14] INFO: Shooting!
+[20:28:14] INFO: Bullets mag can hold: 10
+[20:28:14] INFO: Bullets mag can hold: 32762
+[20:28:14] INFO: Whole ammunition: 25
+[20:28:14] INFO: Shooting!
+[20:28:14] INFO: Bullets mag can hold: 10
+[20:28:14] INFO: Bullets mag can hold: 32761
+[20:28:14] INFO: Whole ammunition: 24
+[20:28:14] INFO: Player Received DMG!
+[20:28:14] INFO: HP Before subtraction: 40
+[20:28:14] INFO: HP After subtraction: 25
+[20:28:14] INFO: Shooting!
+[20:28:14] INFO: Bullets mag can hold: 10
+[20:28:14] INFO: Bullets mag can hold: 32760
+[20:28:14] INFO: Whole ammunition: 23
+[20:28:14] INFO: Player Received DMG!
+[20:28:14] INFO: HP Before subtraction: 25
+[20:28:14] INFO: HP After subtraction: 10
+[20:28:14] INFO: Shooting!
+[20:28:14] INFO: Bullets mag can hold: 10
+[20:28:14] INFO: Bullets mag can hold: 32759
+[20:28:14] INFO: Whole ammunition: 22
+[20:28:15] INFO: Player Received DMG!
+[20:28:15] INFO: HP Before subtraction: 10
+[20:28:15] INFO: HP After subtraction: -5
+[20:28:15] INFO: Player died :<
+[20:28:15] INFO: Player died!
+[20:28:15] INFO: Shooting!
+[20:28:15] INFO: Bullets mag can hold: 10
+[20:28:15] INFO: Bullets mag can hold: 32758
+[20:28:15] INFO: Whole ammunition: 21
+[20:28:15] INFO: Player Received DMG!
+[20:28:15] INFO: HP Before subtraction: -5
+[20:28:15] INFO: HP After subtraction: -20
+[20:28:15] INFO: Player died :<
+[20:28:15] INFO: Player died!
+[20:28:15] INFO: Shooting!
+[20:28:15] INFO: Bullets mag can hold: 10
+[20:28:15] INFO: Bullets mag can hold: 32757
+[20:28:15] INFO: Whole ammunition: 20
+[20:28:15] INFO: Player Received DMG!
+[20:28:15] INFO: HP Before subtraction: -20
+[20:28:15] INFO: HP After subtraction: -35
+[20:28:15] INFO: Player died :<
+[20:28:15] INFO: Player died!
+[20:28:15] INFO: Player Received DMG!
+[20:28:15] INFO: HP Before subtraction: -35
+[20:28:15] INFO: HP After subtraction: -50
+[20:28:15] INFO: Player died :<
+[20:28:15] INFO: Player died!
+[21:56:31] INFO: playerTexture texture loaded! OK
+[21:56:31] INFO: mechTrooper texture loaded! OK
+[21:56:31] INFO: shootMechTrooper texture loaded! OK
+[21:56:31] INFO: Background texture loaded! OK
+[21:56:32] INFO: Deleting bullet as it weint outside of the border...
+[21:56:33] INFO: Shooting!
+[21:56:33] INFO: Bullets mag can hold: 10
+[21:56:33] INFO: Bullets mag can hold: 32766
+[21:56:33] INFO: Whole ammunition: 29
+[21:56:33] INFO: Player Received DMG!
+[21:56:33] INFO: HP Before subtraction: 100
+[21:56:33] INFO: HP After subtraction: 85
+[21:56:35] INFO: Deleting bullet as it weint outside of the border...
+[21:56:35] INFO: Deleting bullet as it weint outside of the border...
+[21:56:35] INFO: Shooting!
+[21:56:35] INFO: Bullets mag can hold: 10
+[21:56:35] INFO: Bullets mag can hold: 32765
+[21:56:35] INFO: Whole ammunition: 28
+[21:56:35] INFO: Shooting!
+[21:56:35] INFO: Bullets mag can hold: 10
+[21:56:35] INFO: Bullets mag can hold: 32764
+[21:56:35] INFO: Whole ammunition: 27
+[21:56:36] INFO: Player Received DMG!
+[21:56:36] INFO: HP Before subtraction: 85
+[21:56:36] INFO: HP After subtraction: 70
+[21:56:36] INFO: Player Received DMG!
+[21:56:36] INFO: HP Before subtraction: 70
+[21:56:36] INFO: HP After subtraction: 55
+[21:56:39] INFO: Shooting!
+[21:56:39] INFO: Bullets mag can hold: 10
+[21:56:39] INFO: Bullets mag can hold: 32763
+[21:56:39] INFO: Whole ammunition: 26
+[21:56:39] INFO: Player Received DMG!
+[21:56:39] INFO: HP Before subtraction: 55
+[21:56:39] INFO: HP After subtraction: 40
+[22:45:58] INFO: mechTrooper texture loaded! OK
+[22:45:58] INFO: shootMechTrooper texture loaded! OK
+[22:45:58] INFO: playerTexture texture loaded! OK
+[22:45:58] INFO: Background texture loaded! OK
+[22:45:58] INFO: Deleting bullet as it weint outside of the border...
+[22:45:59] INFO: Deleting bullet as it weint outside of the border...
+[22:46:00] INFO: Deleting bullet as it weint outside of the border...
+[22:46:01] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[22:46:02] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[22:46:03] INFO: Shooting!
+[22:46:03] INFO: Bullets mag can hold: 10
+[22:46:03] INFO: Bullets mag can hold: 32766
+[22:46:03] INFO: Whole ammunition: 29
+[22:46:04] INFO: Player Received DMG!
+[22:46:04] INFO: HP Before subtraction: 100
+[22:46:04] INFO: HP After subtraction: 85
+[22:46:04] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[22:46:05] INFO: Shooting!
+[22:46:05] INFO: Bullets mag can hold: 10
+[22:46:05] INFO: Bullets mag can hold: 32765
+[22:46:05] INFO: Whole ammunition: 28
+[22:46:05] INFO: Player Received DMG!
+[22:46:05] INFO: HP Before subtraction: 85
+[22:46:05] INFO: HP After subtraction: 70
+[22:46:06] INFO: Deleting bullet as it weint outside of the border...
+[22:46:06] INFO: Deleting bullet as it weint outside of the border...
+[22:46:07] INFO: Deleting bullet as it weint outside of the border...
+[22:46:08] INFO: Deleting bullet as it weint outside of the border...
+[22:46:08] INFO: Deleting bullet as it weint outside of the border...
+[22:46:08] INFO: Deleting bullet as it weint outside of the border...
+[22:46:09] INFO: Deleting bullet as it weint outside of the border...
+[22:46:09] INFO: Deleting bullet as it weint outside of the border...
+[22:46:09] INFO: Deleting bullet as it weint outside of the border...
+[22:46:10] INFO: Deleting bullet as it weint outside of the border...
+[22:46:11] INFO: Deleting bullet as it weint outside of the border...
+[22:46:11] INFO: Deleting bullet as it weint outside of the border...
+[22:46:12] INFO: Deleting bullet as it weint outside of the border...
+[22:46:12] INFO: Deleting bullet as it weint outside of the border...
+[22:46:12] INFO: Deleting bullet as it weint outside of the border...
+[22:46:13] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[22:46:15] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[22:46:16] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[22:46:17] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[22:46:19] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[22:46:20] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[22:46:41] INFO: shootMechTrooper texture loaded! OK
+[22:46:41] INFO: playerTexture texture loaded! OK
+[22:46:41] INFO: mechTrooper texture loaded! OK
+[22:46:41] INFO: Background texture loaded! OK
+[22:46:41] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[22:46:42] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[22:46:43] INFO: Deleting bullet as it weint outside of the border...
+[22:46:43] INFO: Deleting bullet as it weint outside of the border...
+[22:46:43] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[22:46:43] INFO: Deleting bullet as it weint outside of the border...
+[22:46:44] INFO: Deleting bullet as it weint outside of the border...
+[22:46:44] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[22:46:44] INFO: Deleting bullet as it weint outside of the border...
+[22:46:45] INFO: Deleting bullet as it weint outside of the border...
+[22:46:45] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[22:46:45] INFO: Deleting bullet as it weint outside of the border...
+[22:46:46] INFO: Deleting bullet as it weint outside of the border...
+[22:46:47] INFO: Shooting!
+[22:46:47] INFO: Bullets mag can hold: 10
+[22:46:47] INFO: Bullets mag can hold: 32766
+[22:46:47] INFO: Whole ammunition: 29
+[22:46:47] INFO: Shooting!
+[22:46:47] INFO: Bullets mag can hold: 10
+[22:46:47] INFO: Bullets mag can hold: 32765
+[22:46:47] INFO: Whole ammunition: 28
+[22:46:48] INFO: Player Received DMG!
+[22:46:48] INFO: HP Before subtraction: 100
+[22:46:48] INFO: HP After subtraction: 85
+[22:46:48] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[23:13:59] INFO: playerTexture texture loaded! OK
+[23:13:59] INFO: mechTrooper texture loaded! OK
+[23:13:59] INFO: shootMechTrooper texture loaded! OK
+[23:13:59] INFO: Background texture loaded! OK
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:13:59] INFO: FloorPos : 400
+[23:13:59] INFO: BorderX : 800
+[23:13:59] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:00] INFO: FloorPos : 400
+[23:14:00] INFO: BorderX : 800
+[23:14:00] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:01] INFO: FloorPos : 400
+[23:14:01] INFO: BorderX : 800
+[23:14:01] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:02] INFO: FloorPos : 400
+[23:14:02] INFO: BorderX : 800
+[23:14:02] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:03] INFO: FloorPos : 400
+[23:14:03] INFO: BorderX : 800
+[23:14:03] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:04] INFO: FloorPos : 400
+[23:14:04] INFO: BorderX : 800
+[23:14:04] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:05] INFO: FloorPos : 400
+[23:14:05] INFO: BorderX : 800
+[23:14:05] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:06] INFO: FloorPos : 400
+[23:14:06] INFO: BorderX : 800
+[23:14:06] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:07] INFO: FloorPos : 400
+[23:14:07] INFO: BorderX : 800
+[23:14:07] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600
+[23:14:08] INFO: FloorPos : 400
+[23:14:08] INFO: BorderX : 800
+[23:14:08] INFO: BorderY : 600

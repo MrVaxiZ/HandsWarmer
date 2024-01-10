@@ -15,7 +15,7 @@ template<typename... Args>
 void Log::log(const std::string& type, Args&&... args) {
     if (logFile.is_open()) {
         std::stringstream ss;
-        ss << type << ": ";
+        ss << "[" << getCurrentTime() << "] " << type << ": ";
         process(ss, std::forward<Args>(args)...);
         std::string logMessage = ss.str();
         std::cout << logMessage << std::endl;  // Output to console

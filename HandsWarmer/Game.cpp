@@ -2,13 +2,18 @@
 #include "Log.h"
 
 Game::Game() : 
-    window(sf::VideoMode(800, 600), "Hands Warmer"),
-    player(),
-    mechTrooper(0, 0, 0),
-    mousePositionDisplay(window) 
+    window(sf::VideoMode(windowWidth, windowHeight), "Hands Warmer"),
+    mousePositionDisplay(window),
+    // Inicialize all game objects
+    player(playerSpeed, playerDmg, playerHp, mechTrooperHp),
+    mechTrooper(mechTrooperSpeed, mechTrooperDmg, mechTrooperHp)
     {
+    gameProperties.setFloorPos(400.f);
+    gameProperties.setWindowBorder(windowWidth, windowHeight);
 
-    window.setFramerateLimit(360);
+    mechTrooper.getPropertiesOneTime(playerDmg);
+
+    window.setFramerateLimit(60);
     Log log;
 
     std::vector<std::pair<std::string, std::string>> texturesToLoad = {
@@ -16,7 +21,6 @@ Game::Game() :
         {"mechTrooper", "Textures\\mechTrooper-PointLeft_ProperSize.png"},
         {"shootMechTrooper", "Textures\\buller_txt_OB_r.png"},
     };
-
     // Load textures asynchronously
     std::vector<std::future<bool>> futures;
     for (const auto& textureInfo : texturesToLoad) {
@@ -35,12 +39,13 @@ Game::Game() :
         future.wait();
     }
 
-    // Now that all textures are loaded, set them to the objects
+    // Now that all textures are loaded, apply them to the objects
     try
     {
         player.setTexture(textureManager.getTexture("playerTexture"));
+        player.setBulletTexture(textureManager.getTexture("shootMechTrooper"));
         mechTrooper.setTexture(textureManager.getTexture("mechTrooper"));
-        mechTrooper.provideTexture(textureManager.getTexture("shootMechTrooper"));
+        mechTrooper.bulletTexture = textureManager.getTexture("shootMechTrooper");
     }
     catch (const std::exception& e)
     {
@@ -84,8 +89,16 @@ void Game::processEvents() {
 }
 
 void Game::update(sf::Time deltaTime) {
+    mousePosWindow = sf::Vector2f(sf::Mouse::getPosition(window));
+
+    player.setMousePos(mousePosWindow);
+    // TEMP SOLUTION TODO::Think of a better approach to this
+    player.getEnemyHitbox(mechTrooper.enemyHitbox);
+    player.getEnemySprite(mechTrooper.sprite);
+    // END TEMP SOLUTION
     player.update(deltaTime);
-    mechTrooper.update(deltaTime);
+    mechTrooper.getPropertiesConstantly(player.HitBox);
+    mechTrooper.update(deltaTime, player.player_sprite, player.hp);
     mousePositionDisplay.update();
 }
 
