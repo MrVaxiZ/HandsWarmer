@@ -1,0 +1,150 @@
+[17:48:50] INFO: shootMechTrooper texture loaded! OK
+[17:48:50] INFO: playerTexture texture loaded! OK
+[17:48:50] INFO: mechTrooper texture loaded! OK
+[17:48:50] INFO: Background texture loaded! OK
+[17:48:53] INFO: Deleting bullet as it weint outside of the border...
+[17:48:53] INFO: Deleting bullet as it weint outside of the border...
+[17:48:54] INFO: Deleting bullet as it weint outside of the border...
+[17:48:55] INFO: Deleting bullet as it weint outside of the border...
+[17:48:56] INFO: Shooting!
+[17:48:56] INFO: Bullets mag can hold: 10
+[17:48:56] INFO: Bullets mag can hold: 32766
+[17:48:56] INFO: Whole ammunition: 29
+[17:48:56] INFO: Player Received DMG!
+[17:48:56] INFO: HP Before subtraction: 100
+[17:48:56] INFO: HP After subtraction: 85
+[17:48:57] INFO: Shooting!
+[17:48:57] INFO: Bullets mag can hold: 10
+[17:48:57] INFO: Bullets mag can hold: 32765
+[17:48:57] INFO: Whole ammunition: 28
+[17:48:58] INFO: Player Received DMG!
+[17:48:58] INFO: HP Before subtraction: 85
+[17:48:58] INFO: HP After subtraction: 70
+[17:49:02] INFO: Shooting!
+[17:49:02] INFO: Bullets mag can hold: 10
+[17:49:02] INFO: Bullets mag can hold: 32764
+[17:49:02] INFO: Whole ammunition: 27
+[17:49:03] INFO: Player Received DMG!
+[17:49:03] INFO: HP Before subtraction: 70
+[17:49:03] INFO: HP After subtraction: 55
+[17:49:05] INFO: Deleting bullet as it weint outside of the border...
+[17:49:07] INFO: Deleting bullet as it weint outside of the border...
+[18:16:46] INFO: playerTexture texture loaded! OK
+[18:16:46] INFO: shootMechTrooper texture loaded! OK
+[18:16:46] INFO: mechTrooper texture loaded! OK
+[18:16:46] INFO: Background texture loaded! OK
+[18:16:48] INFO: Deleting bullet as it weint outside of the border...
+[18:16:51] INFO: Deleting bullet as it weint outside of the border...
+[18:16:52] INFO: Shooting!
+[18:16:52] INFO: Bullets mag can hold: 10
+[18:16:52] INFO: Bullets mag can hold: 32766
+[18:16:52] INFO: Whole ammunition: 29
+[18:16:52] INFO: Enemy Received DMG!
+[18:16:52] INFO: HP Before subtraction: -858993460
+[18:16:52] INFO: HP After subtraction: -858993460
+[18:16:52] INFO: Enemy died :<
+[18:16:52] INFO: Enemy died!
+[18:16:52] INFO: Shooting!
+[18:16:52] INFO: Bullets mag can hold: 10
+[18:16:52] INFO: Bullets mag can hold: 32765
+[18:16:52] INFO: Whole ammunition: 28
+[18:16:52] INFO: Enemy Received DMG!
+[18:16:52] INFO: HP Before subtraction: -858993460
+[18:16:52] INFO: HP After subtraction: -858993460
+[18:16:52] INFO: Enemy died :<
+[18:16:52] INFO: Enemy died!
+[18:19:33] INFO: shootMechTrooper texture loaded! OK
+[18:19:33] INFO: mechTrooper texture loaded! OK
+[18:19:33] INFO: playerTexture texture loaded! OK
+[18:19:33] INFO: Background texture loaded! OK
+[18:19:35] INFO: Deleting bullet as it weint outside of the border...
+[18:19:37] INFO: Deleting bullet as it weint outside of the border...
+[18:19:38] INFO: Deleting bullet as it weint outside of the border...
+[18:19:40] INFO: Deleting bullet as it weint outside of the border...
+[18:19:42] INFO: Deleting bullet as it weint outside of the border...
+[18:19:43] INFO: Deleting bullet as it weint outside of the border...
+[18:19:44] INFO: Deleting bullet as it weint outside of the border...
+[18:19:45] INFO: Deleting bullet as it weint outside of the border...
+[18:19:46] INFO: Deleting bullet as it weint outside of the border...
+[18:19:47] INFO: Deleting bullet as it weint outside of the border...
+[18:19:48] INFO: Shooting!
+[18:19:48] INFO: Bullets mag can hold: 10
+[18:19:48] INFO: Bullets mag can hold: 32766
+[18:19:48] INFO: Whole ammunition: 29
+[18:19:48] INFO: Hitbox X: 76
+[18:19:48] INFO: Hitbox Y: 91
+[18:19:48] INFO: Enemy posX: 100
+[18:19:48] INFO: Enemy posY: 400
+[18:19:48] INFO: Enemy Received DMG!
+[18:19:48] INFO: HP Before subtraction: -858993460
+[18:19:48] INFO: HP After subtraction: -858993460
+[18:19:48] INFO: Enemy died :<
+[18:19:48] INFO: Enemy died!
+[18:19:48] INFO: Shooting!
+[18:19:48] INFO: Bullets mag can hold: 10
+[18:19:48] INFO: Bullets mag can hold: 32765
+[18:19:48] INFO: Whole ammunition: 28
+[18:19:48] INFO: Hitbox X: 76
+[18:19:48] INFO: Hitbox Y: 91
+[18:19:48] INFO: Enemy posX: 100
+[18:19:48] INFO: Enemy posY: 400
+[18:19:48] INFO: Enemy Received DMG!
+[18:19:48] INFO: HP Before subtraction: -858993460
+[18:19:48] INFO: HP After subtraction: -858993460
+[18:19:48] INFO: Enemy died :<
+[18:19:48] INFO: Enemy died!
+[18:19:52] INFO: Shooting!
+[18:19:52] INFO: Bullets mag can hold: 10
+[18:19:52] INFO: Bullets mag can hold: 32764
+[18:19:52] INFO: Whole ammunition: 27
+[18:19:52] INFO: Hitbox X: 76
+[18:19:52] INFO: Hitbox Y: 91
+[18:19:52] INFO: Enemy posX: 100
+[18:19:52] INFO: Enemy posY: 400
+[18:19:52] INFO: Enemy Received DMG!
+[18:19:52] INFO: HP Before subtraction: -858993460
+[18:19:52] INFO: HP After subtraction: -858993460
+[18:19:52] INFO: Enemy died :<
+[18:19:52] INFO: Enemy died!
+[18:19:55] INFO: Deleting bullet as it weint outside of the border...
+[18:22:50] INFO: shootMechTrooper texture loaded! OK
+[18:22:50] INFO: mechTrooper texture loaded! OK
+[18:22:50] INFO: playerTexture texture loaded! OK
+[18:22:50] INFO: Background texture loaded! OK
+[18:22:51] INFO: Shooting!
+[18:22:51] INFO: Bullets mag can hold: 10
+[18:22:51] INFO: Bullets mag can hold: 32766
+[18:22:51] INFO: Whole ammunition: 29
+[18:22:51] INFO: Shooting!
+[18:22:51] INFO: Bullets mag can hold: 10
+[18:22:51] INFO: Bullets mag can hold: 32765
+[18:22:51] INFO: Whole ammunition: 28
+[18:22:51] INFO: Player Received DMG!
+[18:22:51] INFO: HP Before subtraction: 100
+[18:22:51] INFO: HP After subtraction: 90
+[18:22:52] INFO: Shooting!
+[18:22:52] INFO: Bullets mag can hold: 10
+[18:22:52] INFO: Bullets mag can hold: 32764
+[18:22:52] INFO: Whole ammunition: 27
+[18:22:52] INFO: Player Received DMG!
+[18:22:52] INFO: HP Before subtraction: 90
+[18:22:52] INFO: HP After subtraction: 80
+[18:22:52] INFO: Player Received DMG!
+[18:22:52] INFO: HP Before subtraction: 80
+[18:22:52] INFO: HP After subtraction: 70
+[18:22:55] INFO: Shooting!
+[18:22:55] INFO: Bullets mag can hold: 10
+[18:22:55] INFO: Bullets mag can hold: 32763
+[18:22:55] INFO: Whole ammunition: 26
+[18:22:55] INFO: Shooting!
+[18:22:55] INFO: Bullets mag can hold: 10
+[18:22:55] INFO: Bullets mag can hold: 32762
+[18:22:55] INFO: Whole ammunition: 25
+[18:22:55] INFO: Player Received DMG!
+[18:22:55] INFO: HP Before subtraction: 70
+[18:22:55] INFO: HP After subtraction: 60
+[18:22:56] INFO: Player Received DMG!
+[18:22:56] INFO: HP Before subtraction: 60
+[18:22:56] INFO: HP After subtraction: 50
+[18:22:57] INFO: Deleting bullet as it weint outside of the border...
+[18:22:59] INFO: Deleting bullet as it weint outside of the border...

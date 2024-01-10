@@ -27,6 +27,16 @@ public:
     MechTrooper mechTrooper;
     MousePositionDisplay mousePositionDisplay;
 
+    // Player Properties
+    int playerHp = 100;
+    int playerDmg = 15;
+    float playerSpeed = 1000.f;
+     
+    // MechTrooper Properties
+    int mechTrooperHp = 50;
+    int mechTrooperDmg = 10;
+    float mechTrooperSpeed = 1000.f;
+
     Game();
     void run();
 

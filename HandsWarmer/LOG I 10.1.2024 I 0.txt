@@ -1,0 +1,710 @@
+[08:07:49] INFO: playerTexture texture loaded! OK
+[08:07:49] INFO: mechTrooper texture loaded! OK
+[08:07:49] INFO: shootMechTrooper texture loaded! OK
+[08:07:49] INFO: Background texture loaded! OK
+[08:07:51] INFO: Hitbox X: 76
+[08:07:51] INFO: Hitbox Y: 91
+[08:07:51] INFO: Enemy posX: 100
+[08:07:51] INFO: Enemy posY: 400
+[08:07:51] INFO: Here should be health decreaser
+[08:07:54] INFO: Hitbox X: 76
+[08:07:54] INFO: Hitbox Y: 91
+[08:07:54] INFO: Enemy posX: 100
+[08:07:54] INFO: Enemy posY: 400
+[08:07:54] INFO: Here should be health decreaser
+[08:07:57] INFO: Shooting!
+[08:07:57] INFO: Bullets mag can hold: 10
+[08:07:57] INFO: Bullets mag can hold: 32766
+[08:07:57] INFO: Whole ammunition: 29
+[08:07:57] INFO: Shooting!
+[08:07:57] INFO: Bullets mag can hold: 10
+[08:07:57] INFO: Bullets mag can hold: 32765
+[08:07:57] INFO: Whole ammunition: 28
+[08:07:57] INFO: Player Received DMG!
+[08:07:57] INFO: HP Before subtraction: 100
+[08:07:57] INFO: HP After subtraction: 90
+[08:07:57] INFO: Player Received DMG!
+[08:07:57] INFO: HP Before subtraction: 90
+[08:07:57] INFO: HP After subtraction: 80
+[08:08:00] INFO: Deleting bullet as it weint outside of the border...
+[08:08:03] INFO: Deleting bullet as it weint outside of the border...
+[08:08:14] INFO: Deleting bullet as it weint outside of the border...
+[08:08:15] INFO: Hitbox X: 76
+[08:08:15] INFO: Hitbox Y: 91
+[08:08:15] INFO: Enemy posX: 100
+[08:08:15] INFO: Enemy posY: 400
+[08:08:15] INFO: Here should be health decreaser
+[08:08:24] INFO: Hitbox X: 76
+[08:08:24] INFO: Hitbox Y: 91
+[08:08:24] INFO: Enemy posX: 100
+[08:08:24] INFO: Enemy posY: 400
+[08:08:24] INFO: Here should be health decreaser
+[08:08:25] INFO: Hitbox X: 76
+[08:08:25] INFO: Hitbox Y: 91
+[08:08:25] INFO: Enemy posX: 100
+[08:08:25] INFO: Enemy posY: 400
+[08:08:25] INFO: Here should be health decreaser
+[08:08:27] INFO: Hitbox X: 76
+[08:08:27] INFO: Hitbox Y: 91
+[08:08:27] INFO: Enemy posX: 100
+[08:08:27] INFO: Enemy posY: 400
+[08:08:27] INFO: Here should be health decreaser
+[08:08:28] INFO: Deleting bullet as it weint outside of the border...
+[08:08:30] INFO: Deleting bullet as it weint outside of the border...
+[08:08:32] INFO: Deleting bullet as it weint outside of the border...
+[08:08:33] INFO: Hitbox X: 76
+[08:08:33] INFO: Hitbox Y: 91
+[08:08:33] INFO: Enemy posX: 100
+[08:08:33] INFO: Enemy posY: 400
+[08:08:33] INFO: Here should be health decreaser
+[08:33:06] INFO: mechTrooper texture loaded! OK
+[08:33:06] INFO: playerTexture texture loaded! OK
+[08:33:06] INFO: shootMechTrooper texture loaded! OK
+[08:33:06] INFO: Background texture loaded! OK
+[08:33:08] INFO: Here should be health decreaser
+[08:33:08] INFO: Enemy Received DMG!
+[08:33:08] INFO: HP Before subtraction: 478596720
+[08:33:08] INFO: HP After subtraction: 478596752
+[08:33:08] INFO: Enemy died :<
+[08:33:08] INFO: Enemy died!
+[08:35:17] INFO: shootMechTrooper texture loaded! OK
+[08:35:17] INFO: mechTrooper texture loaded! OK
+[08:35:17] INFO: playerTexture texture loaded! OK
+[08:35:17] INFO: Background texture loaded! OK
+[08:35:19] INFO: Here should be health decreaser
+[08:35:19] INFO: Enemy Received DMG!
+[08:35:19] INFO: HP Before subtraction: -760230288
+[08:35:19] INFO: HP After subtraction: -760230256
+[08:35:22] INFO: Deleting bullet as it weint outside of the border...
+[08:36:44] INFO: playerTexture texture loaded! OK
+[08:36:44] INFO: shootMechTrooper texture loaded! OK
+[08:36:44] INFO: mechTrooper texture loaded! OK
+[08:36:44] INFO: Background texture loaded! OK
+[08:36:54] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[08:36:57] INFO: Here should be health decreaser
+[08:36:57] INFO: Enemy Received DMG!
+[08:36:57] INFO: HP Before subtraction: -760230288
+[08:36:57] INFO: HP After subtraction: -760230256
+[08:36:58] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[08:37:07] INFO: mechTrooper texture loaded! OK
+[08:37:07] INFO: playerTexture texture loaded! OK
+[08:37:07] INFO: shootMechTrooper texture loaded! OK
+[08:37:07] INFO: Background texture loaded! OK
+[08:37:10] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[08:37:17] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[08:39:50] INFO: playerTexture texture loaded! OK
+[08:39:50] INFO: mechTrooper texture loaded! OK
+[08:39:50] INFO: shootMechTrooper texture loaded! OK
+[08:39:50] INFO: Background texture loaded! OK
+[08:39:54] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[08:39:57] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[08:41:25] INFO: mechTrooper texture loaded! OK
+[08:41:25] INFO: playerTexture texture loaded! OK
+[08:41:25] INFO: shootMechTrooper texture loaded! OK
+[08:41:25] INFO: Background texture loaded! OK
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:26] INFO: Going left
+[08:41:27] INFO: Going right
+[08:41:27] INFO: Going right
+[08:41:27] INFO: Going right
+[08:41:27] INFO: Going right
+[08:41:27] INFO: Going right
+[08:41:27] INFO: Going right
+[08:41:27] INFO: Going right
+[08:41:27] INFO: Going right
+[08:41:27] INFO: Going right
+[08:41:27] INFO: Going right
+[08:41:27] INFO: Going right
+[08:41:27] INFO: Going right
+[08:41:27] INFO: Going right
+[08:43:13] INFO: shootMechTrooper texture loaded! OK
+[08:43:13] INFO: mechTrooper texture loaded! OK
+[08:43:13] INFO: playerTexture texture loaded! OK
+[08:43:13] INFO: Background texture loaded! OK
+[08:43:15] INFO: EnemyHp: -563094488
+[08:43:15] INFO: Enemy Received DMG!
+[08:43:15] INFO: HP Before subtraction: 1076874864
+[08:43:15] INFO: HP After subtraction: 1076874896
+[08:43:15] INFO: Enemy died :<
+[08:43:15] INFO: Enemy died!
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:20] INFO: Going left
+[08:43:21] INFO: Going left
+[08:43:21] INFO: Going left
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:21] INFO: Going right
+[08:43:22] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[08:44:14] INFO: playerTexture texture loaded! OK
+[08:44:14] INFO: mechTrooper texture loaded! OK
+[08:44:14] INFO: shootMechTrooper texture loaded! OK
+[08:44:14] INFO: Background texture loaded! OK
+[08:44:16] INFO: Going left
+[08:44:16] INFO: Going left
+[08:44:16] INFO: Going left
+[08:44:16] INFO: Going left
+[08:44:16] INFO: Going left
+[08:44:16] INFO: Going left
+[08:44:16] INFO: Going left
+[08:44:16] INFO: Going left
+[08:44:16] INFO: Going left
+[08:44:16] INFO: Going left
+[08:44:16] INFO: Going left
+[08:44:16] INFO: Going left
+[08:44:16] INFO: Going left
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] INFO: Going right
+[08:44:17] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[17:33:19] INFO: shootMechTrooper texture loaded! OK
+[17:33:19] INFO: playerTexture texture loaded! OK
+[17:33:19] INFO: mechTrooper texture loaded! OK
+[17:33:19] INFO: Background texture loaded! OK
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:21] INFO: Going left
+[17:33:26] INFO: Going right
+[17:33:26] INFO: Going right
+[17:33:26] INFO: Going right
+[17:33:26] INFO: Going right
+[17:33:26] INFO: Going right
+[17:33:26] INFO: Going right
+[17:33:26] INFO: Going right
+[17:33:26] INFO: Going right
+[17:33:26] INFO: Going right
+[17:33:26] INFO: Going right
+[17:33:26] INFO: Going right
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:26] INFO: Going left
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:27] INFO: Going right
+[17:33:29] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[17:33:33] INFO: EnemyHp: -1301291000
+[17:33:33] INFO: Enemy Received DMG!
+[17:33:33] INFO: HP Before subtraction: -886387088
+[17:33:33] INFO: HP After subtraction: -886387056
+[17:33:33] INFO: Enemy died :<
+[17:33:33] INFO: Enemy died!
+[17:33:34] INFO: EnemyHp: -1301291000
+[17:33:34] INFO: Enemy Received DMG!
+[17:33:34] INFO: HP Before subtraction: -886387088
+[17:33:34] INFO: HP After subtraction: -886387056
+[17:33:34] INFO: Enemy died :<
+[17:33:34] INFO: Enemy died!
+[17:35:24] INFO: playerTexture texture loaded! OK
+[17:35:24] INFO: shootMechTrooper texture loaded! OK
+[17:35:24] INFO: mechTrooper texture loaded! OK
+[17:35:24] INFO: Background texture loaded! OK
+[17:35:26] INFO: Deleting bullet as it weint outside of the border...
+[17:35:27] INFO: Deleting bullet as it weint outside of the border...
+[17:35:28] INFO: Deleting bullet as it weint outside of the border...
+[17:35:29] INFO: Deleting bullet as it weint outside of the border...
+[17:35:30] INFO: Deleting bullet as it weint outside of the border...
+[17:35:32] INFO: Deleting bullet as it weint outside of the border...
+[17:35:35] INFO: Deleting bullet as it weint outside of the border...
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:35:35] INFO: Going left
+[17:36:04] INFO: mechTrooper texture loaded! OK
+[17:36:04] INFO: playerTexture texture loaded! OK
+[17:36:04] INFO: shootMechTrooper texture loaded! OK
+[17:36:04] INFO: Background texture loaded! OK
+[17:36:05] INFO: Shooting!
+[17:36:05] INFO: Bullets mag can hold: 10
+[17:36:05] INFO: Bullets mag can hold: 32766
+[17:36:05] INFO: Whole ammunition: 29
+[17:36:05] INFO: Shooting!
+[17:36:05] INFO: Bullets mag can hold: 10
+[17:36:05] INFO: Bullets mag can hold: 32765
+[17:36:05] INFO: Whole ammunition: 28
+[17:36:05] INFO: Shooting!
+[17:36:05] INFO: Bullets mag can hold: 10
+[17:36:05] INFO: Bullets mag can hold: 32764
+[17:36:05] INFO: Whole ammunition: 27
+[17:36:05] INFO: Player Received DMG!
+[17:36:05] INFO: HP Before subtraction: 0
+[17:36:05] INFO: HP After subtraction: 0
+[17:36:05] INFO: Player died :<
+[17:36:05] INFO: Player died!
+[17:36:05] INFO: Shooting!
+[17:36:05] INFO: Bullets mag can hold: 10
+[17:36:05] INFO: Bullets mag can hold: 32763
+[17:36:05] INFO: Whole ammunition: 26
+[17:36:05] INFO: Player Received DMG!
+[17:36:05] INFO: HP Before subtraction: 0
+[17:36:05] INFO: HP After subtraction: 0
+[17:36:05] INFO: Player died :<
+[17:36:05] INFO: Player died!
+[17:36:05] INFO: Shooting!
+[17:36:05] INFO: Bullets mag can hold: 10
+[17:36:05] INFO: Bullets mag can hold: 32762
+[17:36:05] INFO: Whole ammunition: 25
+[17:36:05] INFO: Player Received DMG!
+[17:36:05] INFO: HP Before subtraction: 0
+[17:36:05] INFO: HP After subtraction: 0
+[17:36:05] INFO: Player died :<
+[17:36:05] INFO: Player died!
+[17:36:05] INFO: Shooting!
+[17:36:05] INFO: Bullets mag can hold: 10
+[17:36:05] INFO: Bullets mag can hold: 32761
+[17:36:05] INFO: Whole ammunition: 24
+[17:36:06] INFO: Player Received DMG!
+[17:36:06] INFO: HP Before subtraction: 0
+[17:36:06] INFO: HP After subtraction: 0
+[17:36:06] INFO: Player died :<
+[17:36:06] INFO: Player died!
+[17:36:06] INFO: Shooting!
+[17:36:06] INFO: Bullets mag can hold: 10
+[17:36:06] INFO: Bullets mag can hold: 32760
+[17:36:06] INFO: Whole ammunition: 23
+[17:36:06] INFO: Player Received DMG!
+[17:36:06] INFO: HP Before subtraction: 0
+[17:36:06] INFO: HP After subtraction: 0
+[17:36:06] INFO: Player died :<
+[17:36:06] INFO: Player died!
+[17:36:06] INFO: Shooting!
+[17:36:06] INFO: Bullets mag can hold: 10
+[17:36:06] INFO: Bullets mag can hold: 32759
+[17:36:06] INFO: Whole ammunition: 22
+[17:36:06] INFO: Player Received DMG!
+[17:36:06] INFO: HP Before subtraction: 0
+[17:36:06] INFO: HP After subtraction: 0
+[17:36:06] INFO: Player died :<
+[17:36:06] INFO: Player died!
+[17:36:06] INFO: Shooting!
+[17:36:06] INFO: Bullets mag can hold: 10
+[17:36:06] INFO: Bullets mag can hold: 32758
+[17:36:06] INFO: Whole ammunition: 21
+[17:36:06] INFO: Player Received DMG!
+[17:36:06] INFO: HP Before subtraction: 0
+[17:36:06] INFO: HP After subtraction: 0
+[17:36:06] INFO: Player died :<
+[17:36:06] INFO: Player died!
+[17:36:06] INFO: Shooting!
+[17:36:06] INFO: Bullets mag can hold: 10
+[17:36:06] INFO: Bullets mag can hold: 32757
+[17:36:06] INFO: Whole ammunition: 20
+[17:36:06] INFO: Player Received DMG!
+[17:36:06] INFO: HP Before subtraction: 0
+[17:36:06] INFO: HP After subtraction: 0
+[17:36:06] INFO: Player died :<
+[17:36:06] INFO: Player died!
+[17:36:06] INFO: Shooting!
+[17:36:06] INFO: Bullets mag can hold: 10
+[17:36:06] INFO: Bullets mag can hold: 32756
+[17:36:06] INFO: Whole ammunition: 19
+[17:36:06] INFO: Player Received DMG!
+[17:36:06] INFO: HP Before subtraction: 0
+[17:36:06] INFO: HP After subtraction: 0
+[17:36:06] INFO: Player died :<
+[17:36:06] INFO: Player died!
+[17:36:06] INFO: Shooting!
+[17:36:06] INFO: Bullets mag can hold: 10
+[17:36:06] INFO: Bullets mag can hold: 32755
+[17:36:06] INFO: Whole ammunition: 18
+[17:36:07] INFO: Player Received DMG!
+[17:36:07] INFO: HP Before subtraction: 0
+[17:36:07] INFO: HP After subtraction: 0
+[17:36:07] INFO: Player died :<
+[17:36:07] INFO: Player died!
+[17:36:07] INFO: Shooting!
+[17:36:07] INFO: Bullets mag can hold: 10
+[17:36:07] INFO: Bullets mag can hold: 32754
+[17:36:07] INFO: Whole ammunition: 17
+[17:36:07] INFO: Player Received DMG!
+[17:36:07] INFO: HP Before subtraction: 0
+[17:36:07] INFO: HP After subtraction: 0
+[17:36:07] INFO: Player died :<
+[17:36:07] INFO: Player died!
+[17:36:07] INFO: Shooting!
+[17:36:07] INFO: Bullets mag can hold: 10
+[17:36:07] INFO: Bullets mag can hold: 32753
+[17:36:07] INFO: Whole ammunition: 16
+[17:36:07] INFO: Player Received DMG!
+[17:36:07] INFO: HP Before subtraction: 0
+[17:36:07] INFO: HP After subtraction: 0
+[17:36:07] INFO: Player died :<
+[17:36:07] INFO: Player died!
+[17:36:07] INFO: Shooting!
+[17:36:07] INFO: Bullets mag can hold: 10
+[17:36:07] INFO: Bullets mag can hold: 32752
+[17:36:07] INFO: Whole ammunition: 15
+[17:36:07] INFO: Player Received DMG!
+[17:36:07] INFO: HP Before subtraction: 0
+[17:36:07] INFO: HP After subtraction: 0
+[17:36:07] INFO: Player died :<
+[17:36:07] INFO: Player died!
+[17:36:07] INFO: Shooting!
+[17:36:07] INFO: Bullets mag can hold: 10
+[17:36:07] INFO: Bullets mag can hold: 32751
+[17:36:07] INFO: Whole ammunition: 14
+[17:36:07] INFO: Player Received DMG!
+[17:36:07] INFO: HP Before subtraction: 0
+[17:36:07] INFO: HP After subtraction: 0
+[17:36:07] INFO: Player died :<
+[17:36:07] INFO: Player died!
+[17:36:07] INFO: Shooting!
+[17:36:07] INFO: Bullets mag can hold: 10
+[17:36:07] INFO: Bullets mag can hold: 32750
+[17:36:07] INFO: Whole ammunition: 13
+[17:36:07] INFO: Player Received DMG!
+[17:36:07] INFO: HP Before subtraction: 0
+[17:36:07] INFO: HP After subtraction: 0
+[17:36:07] INFO: Player died :<
+[17:36:07] INFO: Player died!
+[17:36:07] INFO: Shooting!
+[17:36:07] INFO: Bullets mag can hold: 10
+[17:36:07] INFO: Bullets mag can hold: 32749
+[17:36:07] INFO: Whole ammunition: 12
+[17:36:08] INFO: Player Received DMG!
+[17:36:08] INFO: HP Before subtraction: 0
+[17:36:08] INFO: HP After subtraction: 0
+[17:36:08] INFO: Player died :<
+[17:36:08] INFO: Player died!
+[17:36:08] INFO: Shooting!
+[17:36:08] INFO: Bullets mag can hold: 10
+[17:36:08] INFO: Bullets mag can hold: 32748
+[17:36:08] INFO: Whole ammunition: 11
+[17:36:08] INFO: Player Received DMG!
+[17:36:08] INFO: HP Before subtraction: 0
+[17:36:08] INFO: HP After subtraction: 0
+[17:36:08] INFO: Player died :<
+[17:36:08] INFO: Player died!
+[17:36:08] INFO: Shooting!
+[17:36:08] INFO: Bullets mag can hold: 10
+[17:36:08] INFO: Bullets mag can hold: 32747
+[17:36:08] INFO: Whole ammunition: 10
+[17:36:08] INFO: Player Received DMG!
+[17:36:08] INFO: HP Before subtraction: 0
+[17:36:08] INFO: HP After subtraction: 0
+[17:36:08] INFO: Player died :<
+[17:36:08] INFO: Player died!
+[17:36:08] INFO: Shooting!
+[17:36:08] INFO: Bullets mag can hold: 10
+[17:36:08] INFO: Bullets mag can hold: 32746
+[17:36:08] INFO: Whole ammunition: 9
+[17:36:08] INFO: Player Received DMG!
+[17:36:08] INFO: HP Before subtraction: 0
+[17:36:08] INFO: HP After subtraction: 0
+[17:36:08] INFO: Player died :<
+[17:36:08] INFO: Player died!
+[17:36:08] INFO: Shooting!
+[17:36:08] INFO: Bullets mag can hold: 10
+[17:36:08] INFO: Bullets mag can hold: 32745
+[17:36:08] INFO: Whole ammunition: 8
+[17:36:08] INFO: Player Received DMG!
+[17:36:08] INFO: HP Before subtraction: 0
+[17:36:08] INFO: HP After subtraction: 0
+[17:36:08] INFO: Player died :<
+[17:36:08] INFO: Player died!
+[17:36:08] INFO: Shooting!
+[17:36:08] INFO: Bullets mag can hold: 10
+[17:36:08] INFO: Bullets mag can hold: 32744
+[17:36:08] INFO: Whole ammunition: 7
+[17:36:08] INFO: Player Received DMG!
+[17:36:08] INFO: HP Before subtraction: 0
+[17:36:08] INFO: HP After subtraction: 0
+[17:36:08] INFO: Player died :<
+[17:36:08] INFO: Player died!
+[17:36:08] INFO: Shooting!
+[17:36:08] INFO: Bullets mag can hold: 10
+[17:36:08] INFO: Bullets mag can hold: 32743
+[17:36:08] INFO: Whole ammunition: 6
+[17:36:09] INFO: Player Received DMG!
+[17:36:09] INFO: HP Before subtraction: 0
+[17:36:09] INFO: HP After subtraction: 0
+[17:36:09] INFO: Player died :<
+[17:36:09] INFO: Player died!
+[17:36:09] INFO: Shooting!
+[17:36:09] INFO: Bullets mag can hold: 10
+[17:36:09] INFO: Bullets mag can hold: 32742
+[17:36:09] INFO: Whole ammunition: 5
+[17:36:09] INFO: Player Received DMG!
+[17:36:09] INFO: HP Before subtraction: 0
+[17:36:09] INFO: HP After subtraction: 0
+[17:36:09] INFO: Player died :<
+[17:36:09] INFO: Player died!
+[17:36:09] INFO: Shooting!
+[17:36:09] INFO: Bullets mag can hold: 10
+[17:36:09] INFO: Bullets mag can hold: 32741
+[17:36:09] INFO: Whole ammunition: 4
+[17:36:09] INFO: Player Received DMG!
+[17:36:09] INFO: HP Before subtraction: 0
+[17:36:09] INFO: HP After subtraction: 0
+[17:36:09] INFO: Player died :<
+[17:36:09] INFO: Player died!
+[17:36:09] INFO: Shooting!
+[17:36:09] INFO: Bullets mag can hold: 10
+[17:36:09] INFO: Bullets mag can hold: 32740
+[17:36:09] INFO: Whole ammunition: 3
+[17:36:09] INFO: Player Received DMG!
+[17:36:09] INFO: HP Before subtraction: 0
+[17:36:09] INFO: HP After subtraction: 0
+[17:36:09] INFO: Player died :<
+[17:36:09] INFO: Player died!
+[17:36:09] INFO: Shooting!
+[17:36:09] INFO: Bullets mag can hold: 10
+[17:36:09] INFO: Bullets mag can hold: 32739
+[17:36:09] INFO: Whole ammunition: 2
+[17:36:09] INFO: Player Received DMG!
+[17:36:09] INFO: HP Before subtraction: 0
+[17:36:09] INFO: HP After subtraction: 0
+[17:36:09] INFO: Player died :<
+[17:36:09] INFO: Player died!
+[17:36:09] INFO: Shooting!
+[17:36:09] INFO: Bullets mag can hold: 10
+[17:36:09] INFO: Bullets mag can hold: 32738
+[17:36:09] INFO: Whole ammunition: 1
+[17:36:09] INFO: Player Received DMG!
+[17:36:09] INFO: HP Before subtraction: 0
+[17:36:09] INFO: HP After subtraction: 0
+[17:36:09] INFO: Player died :<
+[17:36:09] INFO: Player died!
+[17:36:09] INFO: Shooting!
+[17:36:09] INFO: Bullets mag can hold: 10
+[17:36:09] INFO: Bullets mag can hold: 32737
+[17:36:09] INFO: Whole ammunition: 0
+[17:36:10] INFO: Player Received DMG!
+[17:36:10] INFO: HP Before subtraction: 0
+[17:36:10] INFO: HP After subtraction: 0
+[17:36:10] INFO: Player died :<
+[17:36:10] INFO: Player died!
+[17:36:10] INFO: Shooting!
+[17:36:10] INFO: Bullets mag can hold: 10
+[17:36:10] INFO: Bullets mag can hold: 32736
+[17:36:10] INFO: Whole ammunition: 0
+[17:36:10] INFO: Player Received DMG!
+[17:36:10] INFO: HP Before subtraction: 0
+[17:36:10] INFO: HP After subtraction: 0
+[17:36:10] INFO: Player died :<
+[17:36:10] INFO: Player died!
+[17:36:10] INFO: Shooting!
+[17:36:10] INFO: Bullets mag can hold: 10
+[17:36:10] INFO: Bullets mag can hold: 32735
+[17:36:10] INFO: Whole ammunition: 0
+[17:36:10] INFO: Player Received DMG!
+[17:36:10] INFO: HP Before subtraction: 0
+[17:36:10] INFO: HP After subtraction: 0
+[17:36:10] INFO: Player died :<
+[17:36:10] INFO: Player died!
+[17:36:10] INFO: Shooting!
+[17:36:10] INFO: Bullets mag can hold: 10
+[17:36:10] INFO: Bullets mag can hold: 32734
+[17:36:10] INFO: Whole ammunition: 0
+[17:36:10] INFO: Player Received DMG!
+[17:36:10] INFO: HP Before subtraction: 0
+[17:36:10] INFO: HP After subtraction: 0
+[17:36:10] INFO: Player died :<
+[17:36:10] INFO: Player died!
+[17:36:10] INFO: Shooting!
+[17:36:10] INFO: Bullets mag can hold: 10
+[17:36:10] INFO: Bullets mag can hold: 32733
+[17:36:10] INFO: Whole ammunition: 0
+[17:36:10] INFO: Player Received DMG!
+[17:36:10] INFO: HP Before subtraction: 0
+[17:36:10] INFO: HP After subtraction: 0
+[17:36:10] INFO: Player died :<
+[17:36:10] INFO: Player died!
+[17:36:10] INFO: Shooting!
+[17:36:10] INFO: Bullets mag can hold: 10
+[17:36:10] INFO: Bullets mag can hold: 32732
+[17:36:10] INFO: Whole ammunition: 0
+[17:36:10] INFO: Player Received DMG!
+[17:36:10] INFO: HP Before subtraction: 0
+[17:36:10] INFO: HP After subtraction: 0
+[17:36:10] INFO: Player died :<
+[17:36:10] INFO: Player died!
+[17:36:10] INFO: Shooting!
+[17:36:10] INFO: Bullets mag can hold: 10
+[17:36:10] INFO: Bullets mag can hold: 32731
+[17:36:10] INFO: Whole ammunition: 0
+[17:36:11] INFO: Player Received DMG!
+[17:36:11] INFO: HP Before subtraction: 0
+[17:36:11] INFO: HP After subtraction: 0
+[17:36:11] INFO: Player died :<
+[17:36:11] INFO: Player died!
+[17:36:11] INFO: Shooting!
+[17:36:11] INFO: Bullets mag can hold: 10
+[17:36:11] INFO: Bullets mag can hold: 32730
+[17:36:11] INFO: Whole ammunition: 0
+[17:36:11] INFO: Player Received DMG!
+[17:36:11] INFO: HP Before subtraction: 0
+[17:36:11] INFO: HP After subtraction: 0
+[17:36:11] INFO: Player died :<
+[17:36:11] INFO: Player died!
+[17:36:11] INFO: Shooting!
+[17:36:11] INFO: Bullets mag can hold: 10
+[17:36:11] INFO: Bullets mag can hold: 32729
+[17:36:11] INFO: Whole ammunition: 0
+[17:36:11] INFO: Player Received DMG!
+[17:36:11] INFO: HP Before subtraction: 0
+[17:36:11] INFO: HP After subtraction: 0
+[17:36:11] INFO: Player died :<
+[17:36:11] INFO: Player died!
+[17:36:11] INFO: Shooting!
+[17:36:11] INFO: Bullets mag can hold: 10
+[17:36:11] INFO: Bullets mag can hold: 32728
+[17:36:11] INFO: Whole ammunition: 0
+[17:36:11] INFO: Player Received DMG!
+[17:36:11] INFO: HP Before subtraction: 0
+[17:36:11] INFO: HP After subtraction: 0
+[17:36:11] INFO: Player died :<
+[17:36:11] INFO: Player died!
+[17:36:11] INFO: Shooting!
+[17:36:11] INFO: Bullets mag can hold: 10
+[17:36:11] INFO: Bullets mag can hold: 32727
+[17:36:11] INFO: Whole ammunition: 0
+[17:38:10] INFO: mechTrooper texture loaded! OK
+[17:38:10] INFO: shootMechTrooper texture loaded! OK
+[17:38:10] INFO: playerTexture texture loaded! OK
+[17:38:11] INFO: Background texture loaded! OK
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going left
+[17:38:11] INFO: Going right
+[17:38:11] INFO: Going right
+[17:38:12] INFO: Going right
+[17:38:12] INFO: Going right
+[17:38:12] INFO: Going right
+[17:38:12] INFO: Going right
+[17:38:12] INFO: Going right
+[17:38:12] INFO: Going right
+[17:38:12] INFO: Going right
+[17:38:12] INFO: Going right

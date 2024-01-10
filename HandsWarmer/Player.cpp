@@ -2,10 +2,11 @@
 
 sf::Sprite Player::player_sprite;
 
-Player::Player(float speed_c, float dmg_c, int hp_c) : 
+Player::Player(float speed_c, float dmg_c, int hp_c, int mechTrooper_Hp) : 
     speed(speed_c),
     dmg(dmg_c),
     hp(hp_c),
+    enemyHp(mechTrooper_Hp),
     gravity(980.f),
     isOnGround(true),
     leftJump(false),
@@ -53,7 +54,7 @@ void Player::handleInput() {
             timeSinceLastShot = sf::Time::Zero;
 
             --mag.currentAmountOfBullentsInMagazine;
-            if (mag.wholeAmmunitionForThatWeapon != 0) 
+            if (mag.wholeAmmunitionForThatWeapon != 0)
                 --mag.wholeAmmunitionForThatWeapon;
 
             std::cout << "Bullets mag can hold: " << mag.amountOfBulletsMagazineCanHold << std::endl;
@@ -83,9 +84,11 @@ void Player::handleInput() {
 
     if (isOnGround && sf::Keyboard::isKeyPressed(sf::Keyboard::A)) {
         velocity.x -= speed;
+        log.infoLog("Going left");
     }
     if (isOnGround && sf::Keyboard::isKeyPressed(sf::Keyboard::D)) {
         velocity.x += speed;
+        log.infoLog("Going right");
     }
 }
 
@@ -136,7 +139,16 @@ void Player::update(sf::Time deltaTime) {
     for (size_t i = 0; i < bullets.size(); i++) {
         bullets[i].sprite_b.move(bullets[i].currVel_b);
 
-        if (bullets[i].sprite_b.getPosition().x < -20 || bullets[i].sprite_b.getPosition().x > 820 ||
+        if (bullets[i].sprite_b.getGlobalBounds().intersects(
+                sf::FloatRect(enemy_sprite_MT.getPosition().x, enemy_sprite_MT.getPosition().y,
+                    enemyHitbox_MT.x, enemyHitbox_MT.y))) 
+        {
+                log.infoLog("EnemyHp: ", enemyHp);
+                decreaseEnemyHp(dmg, enemyHp);
+                bullets.erase(bullets.begin() + i);
+
+        }
+        else if (bullets[i].sprite_b.getPosition().x < -20 || bullets[i].sprite_b.getPosition().x > 820 ||
             bullets[i].sprite_b.getPosition().y < -20 || bullets[i].sprite_b.getPosition().y > 620)
         {
             log.infoLog("Deleting bullet as it weint outside of the border...");
@@ -188,10 +200,20 @@ void Player::countShootingTrijectory()
     aimDirNorm = aimDir / length;
 }
 
-void Player::infinityAmmo()
+void Player::decreaseEnemyHp(const int& dmg, int& hp)
 {
-    mag.wholeAmmunitionForThatWeapon = INT16_MAX;
+    log.infoLog("Enemy Received DMG!");
+    log.infoLog("HP Before subtraction: ", hp);
+
+    hp = hp - dmg;
+
+    log.infoLog("HP After subtraction: ", hp);
+    if (hp <= 0) {
+        log.infoLog("Enemy died :<");
+        enemyDied();
+    }
 }
+
 void Player::setBulletTexture(const sf::Texture& texture)
 {
     bulletTexture = texture;
@@ -203,4 +225,20 @@ void Player::setMousePos(const sf::Vector2f& mousePos)
 
 void Player::bulletCollision()
 {
+
+}
+
+void Player::getEnemySprite(const sf::Sprite& enemy_sprite)
+{
+    enemy_sprite_MT = enemy_sprite;
+}
+
+void Player::getEnemyHitbox(const sf::Vector2f& enemyHitbox)
+{
+    enemyHitbox_MT = enemyHitbox;
+}
+
+void Player::enemyDied()
+{
+    log.infoLog("Enemy died!");
 }
