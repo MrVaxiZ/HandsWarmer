@@ -18,6 +18,17 @@ class Game {
 public:
     const int windowHeight = 600;
     const int windowWidth = 800;
+
+    // Player Properties
+    int playerHp = 100;
+    int playerDmg = 15;
+    float playerSpeed = 1000.f;
+
+    // MechTrooper Properties
+    int mechTrooperHp = 50;
+    int mechTrooperDmg = 10;
+    float mechTrooperSpeed = 1000.f;
+
     sf::RenderWindow window;
     sf::Vector2f mousePosWindow;
     GameProperties gameProperties;
@@ -26,6 +37,8 @@ public:
     Player player;
     MechTrooper mechTrooper;
     MousePositionDisplay mousePositionDisplay;
+
+
 
     Game();
     void run();

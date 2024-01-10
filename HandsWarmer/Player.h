@@ -26,6 +26,11 @@ public:
     int hp;
 
     // Shooting mechanics
+    // TEMP TODO::Think of a better approach to this
+    sf::Sprite enemy_sprite_MT;
+    sf::Vector2f enemyHitbox_MT;
+    // END TEMP
+
     sf::Texture bulletTexture;
     Bullet b1;
     Magazine mag;
@@ -39,6 +44,7 @@ public:
     float delayBetweenShots; // Amout of time that has to pass in order to add next bullet (seconds)
     float maxSpeed;
     float length;
+    int enemyHp; // VTBC::P::Temporary variable to store enemy hp
 
     // HitBox TODO::Make it more advance to reflect actual shape of texture and to make head
     //               as separete hitbox in order to multiply dmg once it's been hit.
@@ -46,7 +52,7 @@ public:
 
     //END Shooting mechanics
 
-    Player(float speed_c, float dmg_c, int hp_c); 
+    Player(float speed_c, float dmg_c, int hp_c, int mechTrooper_Hp);
     void setTexture(const sf::Texture& texture);
     void handleInput();
     void update(sf::Time deltaTime);
@@ -58,9 +64,16 @@ public:
     void RightJump();
 
     // Shooting mechanics
+    // TEMP TODO::Think of a better approach to this
+    void getEnemySprite(const sf::Sprite& enemy_sprite);
+    void getEnemyHitbox(const sf::Vector2f& enemyHitbox);
+    // END TEMP
+
+    void decreaseEnemyHp(const int& dmg, int& enemyHp);
+    void enemyDied();
+
     void setMousePos(const sf::Vector2f& window);
     void countShootingTrijectory();
-    void infinityAmmo(); // Consider deleting that
     void setBulletTexture(const sf::Texture& texture);
     void bulletCollision(); // not in use currently
     // END Shooting mechanics

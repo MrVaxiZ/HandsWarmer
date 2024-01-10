@@ -1,7 +1,9 @@
 #include "EnemyShooting.h"
 
-EnemyShooting::EnemyShooting(Magazine& mag_c, Bullet& bullet_c, float delayBetweenShots_c, float bulletSpeed_c, int hp_c, int dmg_c)
-    : mag(mag_c), bullet(bullet_c), delayBetweenShots(delayBetweenShots_c), bulletSpeed(bulletSpeed_c), hp(hp_c), dmg(dmg_c)
+EnemyShooting::EnemyShooting(Magazine& mag_c, Bullet& bullet_c, sf::Vector2f& enemyHitbox_c, float delayBetweenShots_c,
+    float bulletSpeed_c, int& playerDmg_c, int hp_c, int dmg_c)
+    : mag(mag_c), bullet(bullet_c), enemyHitbox(enemyHitbox_c), delayBetweenShots(delayBetweenShots_c),
+    bulletSpeed(bulletSpeed_c), playerDmg(playerDmg_c), hp(hp_c), dmg(dmg_c)
 {
     // Debug
     mag.amountOfBulletsMagazineCanHold = INT16_MAX;
@@ -38,7 +40,8 @@ void EnemyShooting::enemyDied()
     log.infoLog("Enemy died!");
 }
 
-void EnemyShooting::attack(const sf::Sprite& player, const sf::Sprite& enemy, float distance, bool reload, bool infinityAmmo)
+void EnemyShooting::attack(const sf::Sprite& player, const sf::Sprite& enemy, float distance, bool reload, 
+    bool infinityAmmo)
 {
     if (playerDetect(player, enemy, distance)) {
         if (reload) {
@@ -72,7 +75,7 @@ void EnemyShooting::attack(const sf::Sprite& player, const sf::Sprite& enemy, fl
     }
 }
 
-void EnemyShooting::bulletCollision(sf::Vector2f hitBoxPlayer, sf::Vector2f hitBoxEnemy, int& playerHp) {
+void EnemyShooting::bulletCollision(sf::Vector2f hitBoxPlayer, int& playerHp, int &enemyHp) {
 
     for (int i = bullets.size() - 1; i >= 0; i--) {
         if (bullets[i].sprite_b.getGlobalBounds().intersects(
@@ -102,6 +105,7 @@ void EnemyShooting::playerDecraseHp(const int& dmg, int& hp)
 void EnemyShooting::bulletsUpdate(sf::Time deltaTime, const sf::Sprite& player, const sf::Sprite& enemy) {
     timeSinceLastShot += deltaTime;
     player_sprite = player;
+    enemy_sprite = enemy;
 
     // Count shooting trijectory for enemy bullets
     countShootingTrijectory(player, enemy);

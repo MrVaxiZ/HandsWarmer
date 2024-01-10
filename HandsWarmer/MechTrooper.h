@@ -9,6 +9,7 @@
 class MechTrooper : public Enemy {
 private:
     Log log;
+public:
     Bullet bullet;
     Magazine magazine;
     EnemyShooting enemyShooting;
@@ -19,14 +20,14 @@ private:
 
     float speed;
     int dmg;
-    int hp;
+    int playerDmg;
+    int& hp;
 
     // HitBox TODO::Make it more advance to reflect actual shape of texture and to make head
     //               as separete hitbox in order to multiply dmg once it's been hit.
     sf::Vector2f enemyHitbox;
     sf::Vector2f playerHitbox;
 
-public:
     sf::Texture bulletTexture;
 
     MechTrooper(float speed_c, int dmg_c, int hp_c);
@@ -37,7 +38,7 @@ public:
     void render(sf::RenderWindow& window);
     void setTexture(const sf::Texture& texture);
     void getPlayerHitBox(const sf::Vector2f Player_HitBox);
-    void getPropertiesOneTime();
+    void getPropertiesOneTime(const int& playerDmg_p);
     void getPropertiesConstantly(const sf::Vector2f Player_HitBox);
 };
 
