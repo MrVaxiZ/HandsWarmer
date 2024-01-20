@@ -5,8 +5,8 @@ Game::Game() :
     window(sf::VideoMode(windowWidth, windowHeight), "Hands Warmer"),
     mousePositionDisplay(window),
     // Inicialize all game objects
-    player(1000.f, 15, 100),
-    mechTrooper(1000.f, 15, 50)
+    player(player_Speed, player_Dmg, player_Hp),
+    mechTrooper(mechTrooper_Speed, mechTrooper_Dmg, mechTrooper_Hp)
     {
     gameProperties.setFloorPos(400.f);
     gameProperties.setWindowBorder(windowWidth, windowHeight);
@@ -90,9 +90,10 @@ void Game::update(sf::Time deltaTime) {
     mousePosWindow = sf::Vector2f(sf::Mouse::getPosition(window));
 
     player.setMousePos(mousePosWindow);
-    player.update(deltaTime);
-    mechTrooper.getPropertiesConstantly(player.HitBox);
-    mechTrooper.update(deltaTime, player.player_sprite, player.hp);
+    player.update(deltaTime, mechTrooper.sprite, mechTrooper.hp);
+    player.getEnemyTrooperHitBox(mechTrooper.returnEnemyHitBox());
+    mechTrooper.getPropertiesConstantly(player.playerHitBox);
+    mechTrooper.update(deltaTime, player.player_sprite, player.hp, player.shouldMechTrooperBeAlive);
     mousePositionDisplay.update();
 }
 

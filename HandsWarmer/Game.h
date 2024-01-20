@@ -16,8 +16,24 @@
 
 class Game {
 public:
+    /// PROPS
+
+    // Window props
     const int windowHeight = 600;
     const int windowWidth = 800;
+
+    // Player Props
+    int player_Hp = 100;
+    int player_Dmg = 15;
+    float player_Speed = 1000.f;
+
+    // MechTrooper Props
+    int mechTrooper_Hp = 50;
+    int mechTrooper_Dmg = 10;
+    float mechTrooper_Speed = 500.f;
+
+    /// END PROPS
+
     sf::RenderWindow window;
     sf::Vector2f mousePosWindow;
     GameProperties gameProperties;

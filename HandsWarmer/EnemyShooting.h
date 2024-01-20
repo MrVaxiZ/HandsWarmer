@@ -45,7 +45,6 @@ public:
     void bulletsUpdate(sf::Time deltaTime, const sf::Sprite& player, const sf::Sprite& enemy);
     void bulletsRender(sf::RenderWindow& window);
     void playerDecraseHp(const int& dmg, int& hp);
-    void enemyDied();
     void playerDied();
 };
 

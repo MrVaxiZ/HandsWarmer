@@ -2,10 +2,12 @@
 
 sf::Sprite Player::player_sprite;
 
-Player::Player(float speed_c, float dmg_c, int hp_c) : 
+Player::Player(float& speed_c, int& dmg_c, int& hp_c) : 
     speed(speed_c),
     dmg(dmg_c),
     hp(hp_c),
+    isAlive(true),
+    shouldMechTrooperBeAlive(true),
     gravity(980.f),
     isOnGround(true),
     leftJump(false),
@@ -13,6 +15,7 @@ Player::Player(float speed_c, float dmg_c, int hp_c) :
     velocity(sf::Vector2f(0.f, 0.f)),
     jumpVelocity(sf::Vector2f(0.f, -2500.f))
 {
+
     player_sprite.setPosition(400.f, 400.f);
 
     // Set texture for bullet
@@ -30,8 +33,8 @@ Player::Player(float speed_c, float dmg_c, int hp_c) :
 void Player::setTexture(const sf::Texture& texture) {
     player_sprite.setTexture(texture);
 
-    HitBox.x = texture.getSize().x;
-    HitBox.y = texture.getSize().y;
+    playerHitBox.x = texture.getSize().x;
+    playerHitBox.y = texture.getSize().y;
 }
 
 void Player::handleInput() {
@@ -44,6 +47,7 @@ void Player::handleInput() {
         }
         else if ((timeSinceLastShot.asSeconds() >= delayBetweenShots) && (mag.currentAmountOfBullentsInMagazine > 0)) {
             b1.sprite_b.setPosition(playerCenter);
+            // NTBLA :: For some reason it doesn't work without this line
             b1.sprite_b.setTextureRect(sf::IntRect(0, 0, 16, 22));
 
             b1.currVel_b = aimDirNorm * maxSpeed;
@@ -56,9 +60,9 @@ void Player::handleInput() {
             if (mag.wholeAmmunitionForThatWeapon != 0) 
                 --mag.wholeAmmunitionForThatWeapon;
 
-            std::cout << "Bullets mag can hold: " << mag.amountOfBulletsMagazineCanHold << std::endl;
-            std::cout << "Bullets in mag: " << mag.currentAmountOfBullentsInMagazine << std::endl;
-            std::cout << "Whole ammunition: " << mag.wholeAmmunitionForThatWeapon << std::endl;
+            log.infoLog("Bullets mag can hold: ", mag.amountOfBulletsMagazineCanHold);
+            log.infoLog("Bullets in mag: ", mag.currentAmountOfBullentsInMagazine);
+            log.infoLog("Whole ammunition: ", mag.wholeAmmunitionForThatWeapon);
         }
     }
 
@@ -89,7 +93,7 @@ void Player::handleInput() {
     }
 }
 
-void Player::update(sf::Time deltaTime) {
+void Player::update(sf::Time deltaTime, const sf::Sprite& enemySprite_p, int enemyHp_p) {
 
     // Jumping
     if (leftJump && !isOnGround) {
@@ -146,6 +150,8 @@ void Player::update(sf::Time deltaTime) {
 
     // Update player position
     playerCenter = player_sprite.getPosition();
+
+    bulletCollision(enemySprite_p, playerHitBox, enemyHitBox, enemyHp_p);
 }
 
 void Player::render(sf::RenderWindow& window) {
@@ -201,6 +207,46 @@ void Player::setMousePos(const sf::Vector2f& mousePos)
     mousePosWindow = mousePos;
 }
 
-void Player::bulletCollision()
+void Player::decreaceEnemyHp(int& hp, const int& dmg) {
+    log.infoLog("Enemy Received DMG!");
+    log.infoLog("HP Before subtraction: ", hp);
+
+    hp = hp - dmg;
+
+    log.infoLog("HP After subtraction: ", hp);
+
+    if (hp <= 0) {
+        enemyDied();
+    }
+}
+
+void Player::enemyDied() {
+    log.infoLog("Enemy died!");
+    shouldMechTrooperBeAlive = false;
+}
+
+void Player::getEnemyTrooperHitBox(const sf::Vector2f& enemyHitbox_p) {
+    enemyHitBox = enemyHitbox_p;
+}
+
+void Player::playerDied()
 {
+    isAlive = false;
+    log.infoLog("Player has died!");
+}
+
+void Player::bulletCollision(const sf::Sprite& enemySprite_p, sf::Vector2f hitBoxPlayer, sf::Vector2f hitBoxEnemy, int enemyHp_p) {
+    if (enemyHp == NULL) {
+        enemyHp = enemyHp_p;
+    }
+
+    for (int i = bullets.size() - 1; i >= 0; i--) {
+        if (bullets[i].sprite_b.getGlobalBounds().intersects(
+            sf::FloatRect(enemySprite_p.getPosition().x, enemySprite_p.getPosition().y,
+                hitBoxEnemy.x, hitBoxEnemy.y)))
+        {
+            decreaceEnemyHp(enemyHp, dmg);
+            bullets.erase(bullets.begin() + i);
+        }
+    }
 }

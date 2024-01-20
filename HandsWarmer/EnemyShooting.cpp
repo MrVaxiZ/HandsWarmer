@@ -28,14 +28,23 @@ void EnemyShooting::countShootingTrijectory(const sf::Sprite& player, const sf::
     aimDirNorm = aimDir / length;
 }
 
+void EnemyShooting::playerDecraseHp(const int& dmg, int& hp)
+{
+    log.infoLog("Player Received DMG!");
+    log.infoLog("HP Before subtraction: ", hp);
+
+    hp = hp - dmg;
+
+    log.infoLog("HP After subtraction: ", hp);
+    if (hp <= 0) {
+        log.infoLog("Player died :<");
+        playerDied();
+    }
+}
+
 void EnemyShooting::playerDied()
 {
     log.infoLog("Player died!");
-}
-
-void EnemyShooting::enemyDied()
-{
-    log.infoLog("Enemy died!");
 }
 
 void EnemyShooting::attack(const sf::Sprite& player, const sf::Sprite& enemy, float distance, bool reload, bool infinityAmmo)
@@ -82,20 +91,6 @@ void EnemyShooting::bulletCollision(sf::Vector2f hitBoxPlayer, sf::Vector2f hitB
             playerDecraseHp(dmg, playerHp);
             bullets.erase(bullets.begin() + i);
         }
-    }
-}
-
-void EnemyShooting::playerDecraseHp(const int& dmg, int& hp)
-{
-    log.infoLog("Player Received DMG!");
-    log.infoLog("HP Before subtraction: ", hp);
-
-    hp = hp - dmg;
-
-    log.infoLog("HP After subtraction: ", hp);
-    if (hp <= 0) {
-        log.infoLog("Player died :<");
-        playerDied();
     }
 }
 

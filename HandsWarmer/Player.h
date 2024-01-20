@@ -13,6 +13,8 @@ class Player {
 private:
     Log log;
 public:
+    bool isAlive; // Defines whether player is alive
+
     sf::Vector2f velocity; // Base velocity of a player
     sf::Vector2f jumpVelocity; // Velocity applied when jumping
     bool isOnGround; // Flag to check if the player is on the ground
@@ -21,11 +23,14 @@ public:
     float gravity; // Gravity value
 
     // Ctor values
-    float speed;
-    int dmg;
-    int hp;
+    float& speed;
+    int& dmg;
+    int& hp;
 
-    // Shooting mechanics
+    int enemyHp;
+    bool shouldMechTrooperBeAlive;
+
+    // Shooting mechanics variables
     sf::Texture bulletTexture;
     Bullet b1;
     Magazine mag;
@@ -42,28 +47,33 @@ public:
 
     // HitBox TODO::Make it more advance to reflect actual shape of texture and to make head
     //               as separete hitbox in order to multiply dmg once it's been hit.
-    sf::Vector2f HitBox;
+    sf::Vector2f playerHitBox;
+    sf::Vector2f enemyHitBox;
 
-    //END Shooting mechanics
+    //END Shooting mechanics variables
 
-    Player(float speed_c, float dmg_c, int hp_c); 
+    Player(float& speed_c, int& dmg_c, int& hp_c); 
+    void playerDied();
     void setTexture(const sf::Texture& texture);
     void handleInput();
-    void update(sf::Time deltaTime);
+    void update(sf::Time deltaTime, const sf::Sprite& enemySprite_p, int enemyHp_p);
     void render(sf::RenderWindow& window);
+    void getEnemyTrooperHitBox(const sf::Vector2f& enemyHitbox_p);
+    void decreaceEnemyHp(int& hp, const int& dmg);
+    void enemyDied();
 
     // Jumping
     void StraightJump();
     void LeftJump();
     void RightJump();
 
-    // Shooting mechanics
+    // Shooting mechanics methodes
     void setMousePos(const sf::Vector2f& window);
     void countShootingTrijectory();
     void infinityAmmo(); // Consider deleting that
     void setBulletTexture(const sf::Texture& texture);
-    void bulletCollision(); // not in use currently
-    // END Shooting mechanics
+    void bulletCollision(const sf::Sprite& enemySprite_p, sf::Vector2f hitBoxPlayer, sf::Vector2f hitBoxEnemy, int enemyHp);
+    // END Shooting mechanics methodes
 
     static sf::Sprite player_sprite;
 };

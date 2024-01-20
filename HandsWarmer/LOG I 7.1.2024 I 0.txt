@@ -1,0 +1,156 @@
+[12:37:37] INFO: mechTrooper texture loaded! OK
+[12:37:37] INFO: shootMechTrooper texture loaded! OK
+[12:37:37] INFO: playerTexture texture loaded! OK
+[12:37:37] INFO: Background texture loaded! OK
+[12:37:39] INFO: Deleting bullet as it weint outside of the border...
+[12:37:40] INFO: Deleting bullet as it weint outside of the border...
+[12:37:40] INFO: Deleting bullet as it weint outside of the border...
+[12:37:40] INFO: Deleting bullet as it weint outside of the border...
+[12:37:41] INFO: Deleting bullet as it weint outside of the border...
+[12:37:41] INFO: Deleting bullet as it weint outside of the border...
+[12:37:42] INFO: Deleting bullet as it weint outside of the border...
+[12:37:42] INFO: Deleting bullet as it weint outside of the border...
+[12:37:42] INFO: Deleting bullet as it weint outside of the border...
+[12:37:42] INFO: Deleting bullet as it weint outside of the border...
+[12:37:44] INFO: Shooting!
+[12:37:44] INFO: Bullets mag can hold: 10
+[12:37:44] INFO: Bullets mag can hold: 32766
+[12:37:44] INFO: Whole ammunition: 29
+[12:37:44] INFO: Shooting!
+[12:37:44] INFO: Bullets mag can hold: 10
+[12:37:44] INFO: Bullets mag can hold: 32765
+[12:37:44] INFO: Whole ammunition: 28
+[12:37:45] INFO: Player Received DMG!
+[12:37:45] INFO: HP Before subtraction: 100
+[12:37:45] INFO: HP After subtraction: 85
+[12:37:45] INFO: Player Received DMG!
+[12:37:45] INFO: HP Before subtraction: 85
+[12:37:45] INFO: HP After subtraction: 70
+[12:37:46] INFO: Shooting!
+[12:37:46] INFO: Bullets mag can hold: 10
+[12:37:46] INFO: Bullets mag can hold: 32764
+[12:37:46] INFO: Whole ammunition: 27
+[12:37:46] INFO: Shooting!
+[12:37:46] INFO: Bullets mag can hold: 10
+[12:37:46] INFO: Bullets mag can hold: 32763
+[12:37:46] INFO: Whole ammunition: 26
+[12:37:46] INFO: Player Received DMG!
+[12:37:46] INFO: HP Before subtraction: 70
+[12:37:46] INFO: HP After subtraction: 55
+[12:37:46] INFO: Player Received DMG!
+[12:37:46] INFO: HP Before subtraction: 55
+[12:37:46] INFO: HP After subtraction: 40
+[12:37:51] INFO: Shooting!
+[12:37:51] INFO: Bullets mag can hold: 10
+[12:37:51] INFO: Bullets mag can hold: 32762
+[12:37:51] INFO: Whole ammunition: 25
+[12:37:51] INFO: Shooting!
+[12:37:51] INFO: Bullets mag can hold: 10
+[12:37:51] INFO: Bullets mag can hold: 32761
+[12:37:51] INFO: Whole ammunition: 24
+[12:37:51] INFO: Player Received DMG!
+[12:37:51] INFO: HP Before subtraction: 40
+[12:37:51] INFO: HP After subtraction: 25
+[12:37:51] INFO: Player Received DMG!
+[12:37:51] INFO: HP Before subtraction: 25
+[12:37:51] INFO: HP After subtraction: 10
+[12:37:54] INFO: Deleting bullet as it weint outside of the border...
+[12:43:45] INFO: mechTrooper texture loaded! OK
+[12:43:45] INFO: shootMechTrooper texture loaded! OK
+[12:43:45] INFO: playerTexture texture loaded! OK
+[12:43:46] INFO: Background texture loaded! OK
+[12:43:46] INFO: Bullets mag can hold: 30
+[12:43:46] INFO: Bullets in mag: 29
+[12:43:46] INFO: Whole ammunition: 119
+[12:43:47] INFO: Deleting bullet as it weint outside of the border...
+[12:43:49] INFO: Bullets mag can hold: 30
+[12:43:49] INFO: Bullets in mag: 28
+[12:43:49] INFO: Whole ammunition: 118
+[12:43:49] INFO: Bullets mag can hold: 30
+[12:43:49] INFO: Bullets in mag: 27
+[12:43:49] INFO: Whole ammunition: 117
+[12:43:49] INFO: Deleting bullet as it weint outside of the border...
+[12:43:50] INFO: Deleting bullet as it weint outside of the border...
+[12:43:50] INFO: Bullets mag can hold: 30
+[12:43:50] INFO: Bullets in mag: 26
+[12:43:50] INFO: Whole ammunition: 116
+[12:43:51] INFO: Deleting bullet as it weint outside of the border...
+[12:43:51] INFO: Shooting!
+[12:43:51] INFO: Bullets mag can hold: 10
+[12:43:51] INFO: Bullets mag can hold: 32766
+[12:43:51] INFO: Whole ammunition: 29
+[12:43:51] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[12:43:52] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[12:43:53] INFO: Shooting!
+[12:43:53] INFO: Bullets mag can hold: 10
+[12:43:53] INFO: Bullets mag can hold: 32765
+[12:43:53] INFO: Whole ammunition: 28
+[12:43:53] INFO: Shooting!
+[12:43:53] INFO: Bullets mag can hold: 10
+[12:43:53] INFO: Bullets mag can hold: 32764
+[12:43:53] INFO: Whole ammunition: 27
+[12:43:53] INFO: Shooting!
+[12:43:53] INFO: Bullets mag can hold: 10
+[12:43:53] INFO: Bullets mag can hold: 32763
+[12:43:53] INFO: Whole ammunition: 26
+[12:43:54] INFO: Player Received DMG!
+[12:43:54] INFO: HP Before subtraction: 100
+[12:43:54] INFO: HP After subtraction: 85
+[12:43:55] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[12:43:55] INFO: Shooting!
+[12:43:55] INFO: Bullets mag can hold: 10
+[12:43:55] INFO: Bullets mag can hold: 32762
+[12:43:55] INFO: Whole ammunition: 25
+[12:43:55] INFO: Shooting!
+[12:43:55] INFO: Bullets mag can hold: 10
+[12:43:55] INFO: Bullets mag can hold: 32761
+[12:43:55] INFO: Whole ammunition: 24
+[12:43:55] INFO: Player Received DMG!
+[12:43:55] INFO: HP Before subtraction: 85
+[12:43:55] INFO: HP After subtraction: 70
+[12:43:55] INFO: Shooting!
+[12:43:55] INFO: Bullets mag can hold: 10
+[12:43:55] INFO: Bullets mag can hold: 32760
+[12:43:55] INFO: Whole ammunition: 23
+[12:43:56] INFO: Shooting!
+[12:43:56] INFO: Bullets mag can hold: 10
+[12:43:56] INFO: Bullets mag can hold: 32759
+[12:43:56] INFO: Whole ammunition: 22
+[12:43:56] INFO: Shooting!
+[12:43:56] INFO: Bullets mag can hold: 10
+[12:43:56] INFO: Bullets mag can hold: 32758
+[12:43:56] INFO: Whole ammunition: 21
+[12:43:56] INFO: Player Received DMG!
+[12:43:56] INFO: HP Before subtraction: 70
+[12:43:56] INFO: HP After subtraction: 55
+[12:43:56] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[12:43:56] INFO: Player Received DMG!
+[12:43:56] INFO: HP Before subtraction: 55
+[12:43:56] INFO: HP After subtraction: 40
+[12:43:57] INFO: Shooting!
+[12:43:57] INFO: Bullets mag can hold: 10
+[12:43:57] INFO: Bullets mag can hold: 32757
+[12:43:57] INFO: Whole ammunition: 20
+[12:43:57] INFO: Shooting!
+[12:43:57] INFO: Bullets mag can hold: 10
+[12:43:57] INFO: Bullets mag can hold: 32756
+[12:43:57] INFO: Whole ammunition: 19
+[12:43:57] INFO: Player Received DMG!
+[12:43:57] INFO: HP Before subtraction: 40
+[12:43:57] INFO: HP After subtraction: 25
+[12:43:58] \/ ======= START ======= \ 
+: :: STRAIGHT JUMP ::
+[12:43:58] INFO: Player Received DMG!
+[12:43:58] INFO: HP Before subtraction: 25
+[12:43:58] INFO: HP After subtraction: 10
+[12:44:16] INFO: Bullets mag can hold: 30
+[12:44:16] INFO: Bullets in mag: 25
+[12:44:16] INFO: Whole ammunition: 115
+[12:44:16] INFO: Deleting bullet as it weint outside of the border...
+[12:44:24] INFO: Bullets mag can hold: 30
+[12:44:24] INFO: Bullets in mag: 24
+[12:44:24] INFO: Whole ammunition: 114

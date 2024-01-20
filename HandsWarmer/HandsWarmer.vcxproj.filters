@@ -16,9 +16,6 @@
     <ClCompile Include="TextureManager.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
-    <ClCompile Include="IWeapon.cpp">
-      <Filter>Classes</Filter>
-    </ClCompile>
     <ClCompile Include="MechTrooper.cpp">
       <Filter>GameObjects\Enemies</Filter>
     </ClCompile>
@@ -45,6 +42,12 @@
     </ClCompile>
     <ClCompile Include="GameProperties.cpp">
       <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="IWeapon.cpp">
+      <Filter>Interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="Spawner.cpp">
+      <Filter>Classes</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -89,6 +92,9 @@
     </ClInclude>
     <ClInclude Include="GameProperties.h">
       <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Spawner.h">
+      <Filter>Headers</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

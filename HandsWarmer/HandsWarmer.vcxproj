@@ -144,6 +144,7 @@
     <ClCompile Include="Movement.cpp" />
     <ClCompile Include="GameProperties.cpp" />
     <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Spawner.cpp" />
     <ClCompile Include="TextureManager.cpp" />
     <ClCompile Include="IWeapon.cpp" />
   </ItemGroup>
@@ -161,6 +162,7 @@
     <ClInclude Include="Movement.h" />
     <ClInclude Include="GameProperties.h" />
     <ClInclude Include="Player.h" />
+    <ClInclude Include="Spawner.h" />
     <ClInclude Include="TextureManager.h" />
   </ItemGroup>
   <ItemGroup>

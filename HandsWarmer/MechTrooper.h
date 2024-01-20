@@ -13,13 +13,12 @@ private:
     Magazine magazine;
     EnemyShooting enemyShooting;
     Movement movement;
-    sf::Sprite sprite;
+    
     sf::Vector2f hitBox;
     float distance_p;
 
-    float speed;
-    int dmg;
-    int hp;
+    float& speed;
+    int& dmg;
 
     // HitBox TODO::Make it more advance to reflect actual shape of texture and to make head
     //               as separete hitbox in order to multiply dmg once it's been hit.
@@ -27,13 +26,20 @@ private:
     sf::Vector2f playerHitbox;
 
 public:
+    sf::Sprite sprite;
+    int& hp;
+    bool isAlive;
+
     sf::Texture bulletTexture;
 
-    MechTrooper(float speed_c, int dmg_c, int hp_c);
+    MechTrooper(float& speed_c, int& dmg_c, int& hp_c);
+
+    // Other not voids
+    sf::Vector2f returnEnemyHitBox();
 
     // Override methods
     void attack(const sf::Sprite& player) override;
-    void update(sf::Time deltaTime, const sf::Sprite& player, int& playerHp);
+    void update(sf::Time deltaTime, const sf::Sprite& player, int& playerHp, const bool& shouldMechTrooperBeAlive);
     void render(sf::RenderWindow& window);
     void setTexture(const sf::Texture& texture);
     void getPlayerHitBox(const sf::Vector2f Player_HitBox);

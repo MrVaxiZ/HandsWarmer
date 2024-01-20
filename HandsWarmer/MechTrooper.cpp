@@ -1,11 +1,13 @@
 #include "MechTrooper.h"
 
 // Constructor
-MechTrooper::MechTrooper(float speed_c, int dmg_c, int hp_c)
+MechTrooper::MechTrooper(float& speed_c, int& dmg_c, int& hp_c)
     : speed(speed_c), dmg(dmg_c), hp(hp_c), Enemy(100, 0, 5),
     enemyShooting(magazine, bullet, 0.15f, 10.0f, hp_c, dmg_c),
-    movement(sprite)
+    movement(sprite, distance_p)
 {
+    isAlive = true;
+
     name = "MechTrooper";
     distance_p = 200.f;
     sprite.setPosition(100.f, 400.f);
@@ -19,18 +21,36 @@ MechTrooper::MechTrooper(float speed_c, int dmg_c, int hp_c)
 
 void MechTrooper::attack(const sf::Sprite& player) {
     enemyShooting.attack(player, sprite, distance_p, false, true);
-    movement.debug();
 }
 
-void MechTrooper::update(sf::Time deltaTime, const sf::Sprite& player, int& playerHp) {
+void MechTrooper::update(sf::Time deltaTime, const sf::Sprite& player, int& playerHp, const bool& shouldMechTrooperBeAlive_p) {
+    log.infoLog("shouldMechTrooperBeAlive_p: ", shouldMechTrooperBeAlive_p);
+    if (!shouldMechTrooperBeAlive_p) { isAlive = false; }
+
+    sf::Vector2f direction = player.getPosition() - sprite.getPosition();
+    float distance = sqrt(pow(direction.x, 2) + pow(direction.y, 2));
+    if (distance > distance_p) {
+        movement.followPlayer(player, deltaTime);
+    }
+    else {
+        movement.maintainDistance(player, deltaTime);
+    }
+
     attack(player);
     enemyShooting.bulletsUpdate(deltaTime, player, sprite);
     enemyShooting.bulletCollision(playerHitbox, enemyHitbox, playerHp);
 }
 
 void MechTrooper::render(sf::RenderWindow& window) {
-    window.draw(sprite);
-    enemyShooting.bulletsRender(window);
+    log.infoLog("Is ALIVE: ", isAlive);
+    if(isAlive){
+        window.draw(sprite);
+        enemyShooting.bulletsRender(window);
+    }
+    else
+    {
+        //MechTrooper::~MechTrooper(); <- this should be done this way but currently it's not becasue it breaks the app
+    }
 }
 
 void MechTrooper::setTexture(const sf::Texture& texture) {
@@ -47,4 +67,8 @@ void MechTrooper::getPropertiesOneTime()
 void MechTrooper::getPropertiesConstantly(const sf::Vector2f Player_HitBox) 
 {
     playerHitbox = Player_HitBox;
+}
+
+sf::Vector2f MechTrooper::returnEnemyHitBox() {
+    return enemyHitbox;
 }
