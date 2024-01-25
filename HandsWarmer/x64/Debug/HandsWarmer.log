@@ -1,23 +1,21 @@
 ﻿  MechTrooper.cpp
-C:\Users\vaxiz\Desktop\CodeBase\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(31,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\vaxiz\Desktop\CodeBase\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(59,38): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
-          with
-          [
-              T=unsigned int
-          ]
-          and
-          [
-              T=float
-          ]
-C:\Users\vaxiz\Desktop\CodeBase\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(60,38): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
-          with
-          [
-              T=unsigned int
-          ]
-          and
-          [
-              T=float
-          ]
-  HandsWarmer.vcxproj -> C:\Users\vaxiz\Desktop\CodeBase\git\HandsWarmer\x64\Debug\HandsWarmer.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(31,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(63,38): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(63,38): warning C4244:         with
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(63,38): warning C4244:         [
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(63,38): warning C4244:             T=unsigned int
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(63,38): warning C4244:         ]
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(63,38): warning C4244:         and
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(63,38): warning C4244:         [
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(63,38): warning C4244:             T=float
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(63,38): warning C4244:         ]
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(64,38): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(64,38): warning C4244:         with
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(64,38): warning C4244:         [
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(64,38): warning C4244:             T=unsigned int
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(64,38): warning C4244:         ]
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(64,38): warning C4244:         and
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(64,38): warning C4244:         [
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(64,38): warning C4244:             T=float
+C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\HandsWarmer\MechTrooper.cpp(64,38): warning C4244:         ]
+  HandsWarmer.vcxproj -> C:\Users\Wiktor\Desktop\Coding\git\HandsWarmer\x64\Debug\HandsWarmer.exe

@@ -153,6 +153,7 @@
     <ClInclude Include="Enemy.h" />
     <ClInclude Include="EnemyShooting.h" />
     <ClInclude Include="Game.h" />
+    <ClInclude Include="GameObjectsProperties.h" />
     <ClInclude Include="IEnemy.h" />
     <ClInclude Include="Level.h" />
     <ClInclude Include="Log.h" />

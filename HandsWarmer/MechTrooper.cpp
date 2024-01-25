@@ -24,32 +24,36 @@ void MechTrooper::attack(const sf::Sprite& player) {
 }
 
 void MechTrooper::update(sf::Time deltaTime, const sf::Sprite& player, int& playerHp, const bool& shouldMechTrooperBeAlive_p) {
-    log.infoLog("shouldMechTrooperBeAlive_p: ", shouldMechTrooperBeAlive_p);
     if (!shouldMechTrooperBeAlive_p) { isAlive = false; }
 
-    sf::Vector2f direction = player.getPosition() - sprite.getPosition();
-    float distance = sqrt(pow(direction.x, 2) + pow(direction.y, 2));
-    if (distance > distance_p) {
-        movement.followPlayer(player, deltaTime);
-    }
-    else {
-        movement.maintainDistance(player, deltaTime);
-    }
+    if (isAlive) { // TBR:: Made in order to save memory
+        sf::Vector2f direction = player.getPosition() - sprite.getPosition();
+        float distance = sqrt(pow(direction.x, 2) + pow(direction.y, 2));
 
-    attack(player);
-    enemyShooting.bulletsUpdate(deltaTime, player, sprite);
-    enemyShooting.bulletCollision(playerHitbox, enemyHitbox, playerHp);
+        if (distance > distance_p) {
+            movement.followPlayer(player, deltaTime);
+        }
+        else {
+            movement.maintainDistance(player, deltaTime);
+        }
+
+        attack(player);
+        enemyShooting.bulletsUpdate(deltaTime, player, sprite);
+        enemyShooting.bulletCollision(playerHitbox, enemyHitbox, playerHp);
+    }
 }
 
 void MechTrooper::render(sf::RenderWindow& window) {
-    log.infoLog("Is ALIVE: ", isAlive);
     if(isAlive){
         window.draw(sprite);
         enemyShooting.bulletsRender(window);
     }
     else
     {
-        //MechTrooper::~MechTrooper(); <- this should be done this way but currently it's not becasue it breaks the app
+        //MechTrooper::~MechTrooper(); <- 
+        // this should be done this way but currently it's not becasue it breaks the app
+        // MV:: The issue is with texture manager it keeps trying to load txt after object gets deleted
+        //  probably will have to remake this thing.
     }
 }
 

@@ -86,6 +86,10 @@ void Game::processEvents() {
     player.handleInput();
 }
 
+// MV:: A lot of wrong concepts here like it should first check the spawner if there is object
+//  of that class on board and if it's alive then and only then do somethifng in it <- but in order
+//  to do that Spawner has to work first so deal witn it.
+
 void Game::update(sf::Time deltaTime) {
     mousePosWindow = sf::Vector2f(sf::Mouse::getPosition(window));
 

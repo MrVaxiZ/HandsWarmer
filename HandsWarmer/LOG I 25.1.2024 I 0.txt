@@ -1,0 +1,3307 @@
+[08:57:06] INFO: shootMechTrooper texture loaded! OK
+[08:57:06] INFO: playerTexture texture loaded! OK
+[08:57:06] INFO: mechTrooper texture loaded! OK
+[08:57:06] INFO: Background texture loaded! OK
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:06] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:06] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:07] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:07] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:08] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:08] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Shooting!
+[08:57:09] INFO: Bullets mag can hold: 10
+[08:57:09] INFO: Bullets mag can hold: 32766
+[08:57:09] INFO: Whole ammunition: 29
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:09] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:09] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Shooting!
+[08:57:10] INFO: Bullets mag can hold: 10
+[08:57:10] INFO: Bullets mag can hold: 32765
+[08:57:10] INFO: Whole ammunition: 28
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Player Received DMG!
+[08:57:10] INFO: HP Before subtraction: 100
+[08:57:10] INFO: HP After subtraction: 90
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Shooting!
+[08:57:10] INFO: Bullets mag can hold: 10
+[08:57:10] INFO: Bullets mag can hold: 32764
+[08:57:10] INFO: Whole ammunition: 27
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Player Received DMG!
+[08:57:10] INFO: HP Before subtraction: 90
+[08:57:10] INFO: HP After subtraction: 80
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Shooting!
+[08:57:10] INFO: Bullets mag can hold: 10
+[08:57:10] INFO: Bullets mag can hold: 32763
+[08:57:10] INFO: Whole ammunition: 26
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Player Received DMG!
+[08:57:10] INFO: HP Before subtraction: 80
+[08:57:10] INFO: HP After subtraction: 70
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Shooting!
+[08:57:10] INFO: Bullets mag can hold: 10
+[08:57:10] INFO: Bullets mag can hold: 32762
+[08:57:10] INFO: Whole ammunition: 25
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Player Received DMG!
+[08:57:10] INFO: HP Before subtraction: 70
+[08:57:10] INFO: HP After subtraction: 60
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:10] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:10] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Player Received DMG!
+[08:57:11] INFO: HP Before subtraction: 60
+[08:57:11] INFO: HP After subtraction: 50
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Shooting!
+[08:57:11] INFO: Bullets mag can hold: 10
+[08:57:11] INFO: Bullets mag can hold: 32761
+[08:57:11] INFO: Whole ammunition: 24
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:11] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:11] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] \/ ======= START ======= \ 
+: :: LEFT JUMP ::
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Shooting!
+[08:57:12] INFO: Bullets mag can hold: 10
+[08:57:12] INFO: Bullets mag can hold: 32760
+[08:57:12] INFO: Whole ammunition: 23
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Player Received DMG!
+[08:57:12] INFO: HP Before subtraction: 50
+[08:57:12] INFO: HP After subtraction: 40
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Shooting!
+[08:57:12] INFO: Bullets mag can hold: 10
+[08:57:12] INFO: Bullets mag can hold: 32759
+[08:57:12] INFO: Whole ammunition: 22
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Shooting!
+[08:57:12] INFO: Bullets mag can hold: 10
+[08:57:12] INFO: Bullets mag can hold: 32758
+[08:57:12] INFO: Whole ammunition: 21
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Player Received DMG!
+[08:57:12] INFO: HP Before subtraction: 40
+[08:57:12] INFO: HP After subtraction: 30
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Player Received DMG!
+[08:57:12] INFO: HP Before subtraction: 30
+[08:57:12] INFO: HP After subtraction: 20
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Shooting!
+[08:57:12] INFO: Bullets mag can hold: 10
+[08:57:12] INFO: Bullets mag can hold: 32757
+[08:57:12] INFO: Whole ammunition: 20
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Player Received DMG!
+[08:57:12] INFO: HP Before subtraction: 20
+[08:57:12] INFO: HP After subtraction: 10
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Shooting!
+[08:57:12] INFO: Bullets mag can hold: 10
+[08:57:12] INFO: Bullets mag can hold: 32756
+[08:57:12] INFO: Whole ammunition: 19
+[08:57:12] INFO: Player Received DMG!
+[08:57:12] INFO: HP Before subtraction: 10
+[08:57:12] INFO: HP After subtraction: 0
+[08:57:12] INFO: Player died :<
+[08:57:12] INFO: Player died!
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Shooting!
+[08:57:12] INFO: Bullets mag can hold: 10
+[08:57:12] INFO: Bullets mag can hold: 32755
+[08:57:12] INFO: Whole ammunition: 18
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:12] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:12] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Shooting!
+[08:57:13] INFO: Bullets mag can hold: 10
+[08:57:13] INFO: Bullets mag can hold: 32754
+[08:57:13] INFO: Whole ammunition: 17
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Player Received DMG!
+[08:57:13] INFO: HP Before subtraction: 0
+[08:57:13] INFO: HP After subtraction: -10
+[08:57:13] INFO: Player died :<
+[08:57:13] INFO: Player died!
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Player Received DMG!
+[08:57:13] INFO: HP Before subtraction: -10
+[08:57:13] INFO: HP After subtraction: -20
+[08:57:13] INFO: Player died :<
+[08:57:13] INFO: Player died!
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:13] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:13] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:14] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:14] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: Bullets mag can hold: 30
+[08:57:15] INFO: Bullets in mag: 29
+[08:57:15] INFO: Whole ammunition: 119
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: Bullets mag can hold: 30
+[08:57:15] INFO: Bullets in mag: 28
+[08:57:15] INFO: Whole ammunition: 118
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: Bullets mag can hold: 30
+[08:57:15] INFO: Bullets in mag: 27
+[08:57:15] INFO: Whole ammunition: 117
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: Bullets mag can hold: 30
+[08:57:15] INFO: Bullets in mag: 26
+[08:57:15] INFO: Whole ammunition: 116
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:15] INFO: Is ALIVE: 1
+[08:57:15] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: Deleting bullet as it weint outside of the border...
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Shooting!
+[08:57:16] INFO: Bullets mag can hold: 10
+[08:57:16] INFO: Bullets mag can hold: 32753
+[08:57:16] INFO: Whole ammunition: 16
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Player Received DMG!
+[08:57:16] INFO: HP Before subtraction: -20
+[08:57:16] INFO: HP After subtraction: -30
+[08:57:16] INFO: Player died :<
+[08:57:16] INFO: Player died!
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Shooting!
+[08:57:16] INFO: Bullets mag can hold: 10
+[08:57:16] INFO: Bullets mag can hold: 32752
+[08:57:16] INFO: Whole ammunition: 15
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Player Received DMG!
+[08:57:16] INFO: HP Before subtraction: -30
+[08:57:16] INFO: HP After subtraction: -40
+[08:57:16] INFO: Player died :<
+[08:57:16] INFO: Player died!
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] \/ ======= START ======= \ 
+: :: RIGHT JUMP ::
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: Deleting bullet as it weint outside of the border...
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Shooting!
+[08:57:16] INFO: Bullets mag can hold: 10
+[08:57:16] INFO: Bullets mag can hold: 32751
+[08:57:16] INFO: Whole ammunition: 14
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: Deleting bullet as it weint outside of the border...
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Shooting!
+[08:57:16] INFO: Bullets mag can hold: 10
+[08:57:16] INFO: Bullets mag can hold: 32750
+[08:57:16] INFO: Whole ammunition: 13
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Shooting!
+[08:57:16] INFO: Bullets mag can hold: 10
+[08:57:16] INFO: Bullets mag can hold: 32749
+[08:57:16] INFO: Whole ammunition: 12
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: Deleting bullet as it weint outside of the border...
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Shooting!
+[08:57:16] INFO: Bullets mag can hold: 10
+[08:57:16] INFO: Bullets mag can hold: 32748
+[08:57:16] INFO: Whole ammunition: 11
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:16] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:16] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Shooting!
+[08:57:17] INFO: Bullets mag can hold: 10
+[08:57:17] INFO: Bullets mag can hold: 32747
+[08:57:17] INFO: Whole ammunition: 10
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Shooting!
+[08:57:17] INFO: Bullets mag can hold: 10
+[08:57:17] INFO: Bullets mag can hold: 32746
+[08:57:17] INFO: Whole ammunition: 9
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:17] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:17] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Player Received DMG!
+[08:57:18] INFO: HP Before subtraction: -40
+[08:57:18] INFO: HP After subtraction: -50
+[08:57:18] INFO: Player died :<
+[08:57:18] INFO: Player died!
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: Bullets mag can hold: 30
+[08:57:18] INFO: Bullets in mag: 25
+[08:57:18] INFO: Whole ammunition: 115
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:18] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:18] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: Bullets mag can hold: 30
+[08:57:19] INFO: Bullets in mag: 24
+[08:57:19] INFO: Whole ammunition: 114
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: Enemy Received DMG!
+[08:57:19] INFO: HP Before subtraction: 50
+[08:57:19] INFO: HP After subtraction: 35
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: Bullets mag can hold: 30
+[08:57:19] INFO: Bullets in mag: 23
+[08:57:19] INFO: Whole ammunition: 113
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: Enemy Received DMG!
+[08:57:19] INFO: HP Before subtraction: 35
+[08:57:19] INFO: HP After subtraction: 20
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: Bullets mag can hold: 30
+[08:57:19] INFO: Bullets in mag: 22
+[08:57:19] INFO: Whole ammunition: 112
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: Enemy Received DMG!
+[08:57:19] INFO: HP Before subtraction: 20
+[08:57:19] INFO: HP After subtraction: 5
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: Bullets mag can hold: 30
+[08:57:19] INFO: Bullets in mag: 21
+[08:57:19] INFO: Whole ammunition: 111
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 1
+[08:57:19] INFO: Is ALIVE: 1
+[08:57:19] INFO: Enemy Received DMG!
+[08:57:19] INFO: HP Before subtraction: 5
+[08:57:19] INFO: HP After subtraction: -10
+[08:57:19] INFO: Enemy died!
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:19] INFO: Is ALIVE: 0
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:19] INFO: Is ALIVE: 0
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:19] INFO: Is ALIVE: 0
+[08:57:19] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:19] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: Bullets mag can hold: 30
+[08:57:20] INFO: Bullets in mag: 20
+[08:57:20] INFO: Whole ammunition: 110
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: Enemy Received DMG!
+[08:57:20] INFO: HP Before subtraction: -10
+[08:57:20] INFO: HP After subtraction: -25
+[08:57:20] INFO: Enemy died!
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: Enemy Received DMG!
+[08:57:20] INFO: HP Before subtraction: -25
+[08:57:20] INFO: HP After subtraction: -40
+[08:57:20] INFO: Enemy died!
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Shooting!
+[08:57:20] INFO: Bullets mag can hold: 10
+[08:57:20] INFO: Bullets mag can hold: 32745
+[08:57:20] INFO: Whole ammunition: 8
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Shooting!
+[08:57:20] INFO: Bullets mag can hold: 10
+[08:57:20] INFO: Bullets mag can hold: 32744
+[08:57:20] INFO: Whole ammunition: 7
+[08:57:20] INFO: Player Received DMG!
+[08:57:20] INFO: HP Before subtraction: -50
+[08:57:20] INFO: HP After subtraction: -60
+[08:57:20] INFO: Player died :<
+[08:57:20] INFO: Player died!
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Player Received DMG!
+[08:57:20] INFO: HP Before subtraction: -60
+[08:57:20] INFO: HP After subtraction: -70
+[08:57:20] INFO: Player died :<
+[08:57:20] INFO: Player died!
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Shooting!
+[08:57:20] INFO: Bullets mag can hold: 10
+[08:57:20] INFO: Bullets mag can hold: 32743
+[08:57:20] INFO: Whole ammunition: 6
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Player Received DMG!
+[08:57:20] INFO: HP Before subtraction: -70
+[08:57:20] INFO: HP After subtraction: -80
+[08:57:20] INFO: Player died :<
+[08:57:20] INFO: Player died!
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Is ALIVE: 0
+[08:57:20] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:20] INFO: Shooting!
+[08:57:20] INFO: Bullets mag can hold: 10
+[08:57:20] INFO: Bullets mag can hold: 32742
+[08:57:20] INFO: Whole ammunition: 5
+[08:57:20] INFO: Player Received DMG!
+[08:57:21] INFO: HP Before subtraction: -80
+[08:57:21] INFO: HP After subtraction: -90
+[08:57:21] INFO: Player died :<
+[08:57:21] INFO: Player died!
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Shooting!
+[08:57:21] INFO: Bullets mag can hold: 10
+[08:57:21] INFO: Bullets mag can hold: 32741
+[08:57:21] INFO: Whole ammunition: 4
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Player Received DMG!
+[08:57:21] INFO: HP Before subtraction: -90
+[08:57:21] INFO: HP After subtraction: -100
+[08:57:21] INFO: Player died :<
+[08:57:21] INFO: Player died!
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:21] INFO: Is ALIVE: 0
+[08:57:21] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Shooting!
+[08:57:22] INFO: Bullets mag can hold: 10
+[08:57:22] INFO: Bullets mag can hold: 32740
+[08:57:22] INFO: Whole ammunition: 3
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Shooting!
+[08:57:22] INFO: Bullets mag can hold: 10
+[08:57:22] INFO: Bullets mag can hold: 32739
+[08:57:22] INFO: Whole ammunition: 2
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Player Received DMG!
+[08:57:22] INFO: HP Before subtraction: -100
+[08:57:22] INFO: HP After subtraction: -110
+[08:57:22] INFO: Player died :<
+[08:57:22] INFO: Player died!
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Shooting!
+[08:57:22] INFO: Bullets mag can hold: 10
+[08:57:22] INFO: Bullets mag can hold: 32738
+[08:57:22] INFO: Whole ammunition: 1
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Player Received DMG!
+[08:57:22] INFO: HP Before subtraction: -110
+[08:57:22] INFO: HP After subtraction: -120
+[08:57:22] INFO: Player died :<
+[08:57:22] INFO: Player died!
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:22] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:22] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Shooting!
+[08:57:23] INFO: Bullets mag can hold: 10
+[08:57:23] INFO: Bullets mag can hold: 32737
+[08:57:23] INFO: Whole ammunition: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Player Received DMG!
+[08:57:23] INFO: HP Before subtraction: -120
+[08:57:23] INFO: HP After subtraction: -130
+[08:57:23] INFO: Player died :<
+[08:57:23] INFO: Player died!
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Shooting!
+[08:57:23] INFO: Bullets mag can hold: 10
+[08:57:23] INFO: Bullets mag can hold: 32736
+[08:57:23] INFO: Whole ammunition: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Player Received DMG!
+[08:57:23] INFO: HP Before subtraction: -130
+[08:57:23] INFO: HP After subtraction: -140
+[08:57:23] INFO: Player died :<
+[08:57:23] INFO: Player died!
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Shooting!
+[08:57:23] INFO: Bullets mag can hold: 10
+[08:57:23] INFO: Bullets mag can hold: 32735
+[08:57:23] INFO: Whole ammunition: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Player Received DMG!
+[08:57:23] INFO: HP Before subtraction: -140
+[08:57:23] INFO: HP After subtraction: -150
+[08:57:23] INFO: Player died :<
+[08:57:23] INFO: Player died!
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Shooting!
+[08:57:23] INFO: Bullets mag can hold: 10
+[08:57:23] INFO: Bullets mag can hold: 32734
+[08:57:23] INFO: Whole ammunition: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Player Received DMG!
+[08:57:23] INFO: HP Before subtraction: -150
+[08:57:23] INFO: HP After subtraction: -160
+[08:57:23] INFO: Player died :<
+[08:57:23] INFO: Player died!
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Shooting!
+[08:57:23] INFO: Bullets mag can hold: 10
+[08:57:23] INFO: Bullets mag can hold: 32733
+[08:57:23] INFO: Whole ammunition: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Player Received DMG!
+[08:57:23] INFO: HP Before subtraction: -160
+[08:57:23] INFO: HP After subtraction: -170
+[08:57:23] INFO: Player died :<
+[08:57:23] INFO: Player died!
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Shooting!
+[08:57:23] INFO: Bullets mag can hold: 10
+[08:57:23] INFO: Bullets mag can hold: 32732
+[08:57:23] INFO: Whole ammunition: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Player Received DMG!
+[08:57:23] INFO: HP Before subtraction: -170
+[08:57:23] INFO: HP After subtraction: -180
+[08:57:23] INFO: Player died :<
+[08:57:23] INFO: Player died!
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:23] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:23] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Shooting!
+[08:57:24] INFO: Bullets mag can hold: 10
+[08:57:24] INFO: Bullets mag can hold: 32731
+[08:57:24] INFO: Whole ammunition: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Player Received DMG!
+[08:57:24] INFO: HP Before subtraction: -180
+[08:57:24] INFO: HP After subtraction: -190
+[08:57:24] INFO: Player died :<
+[08:57:24] INFO: Player died!
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Shooting!
+[08:57:24] INFO: Bullets mag can hold: 10
+[08:57:24] INFO: Bullets mag can hold: 32730
+[08:57:24] INFO: Whole ammunition: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Player Received DMG!
+[08:57:24] INFO: HP Before subtraction: -190
+[08:57:24] INFO: HP After subtraction: -200
+[08:57:24] INFO: Player died :<
+[08:57:24] INFO: Player died!
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Shooting!
+[08:57:24] INFO: Bullets mag can hold: 10
+[08:57:24] INFO: Bullets mag can hold: 32729
+[08:57:24] INFO: Whole ammunition: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Player Received DMG!
+[08:57:24] INFO: HP Before subtraction: -200
+[08:57:24] INFO: HP After subtraction: -210
+[08:57:24] INFO: Player died :<
+[08:57:24] INFO: Player died!
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Shooting!
+[08:57:24] INFO: Bullets mag can hold: 10
+[08:57:24] INFO: Bullets mag can hold: 32728
+[08:57:24] INFO: Whole ammunition: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Player Received DMG!
+[08:57:24] INFO: HP Before subtraction: -210
+[08:57:24] INFO: HP After subtraction: -220
+[08:57:24] INFO: Player died :<
+[08:57:24] INFO: Player died!
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Shooting!
+[08:57:24] INFO: Bullets mag can hold: 10
+[08:57:24] INFO: Bullets mag can hold: 32727
+[08:57:24] INFO: Whole ammunition: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Player Received DMG!
+[08:57:24] INFO: HP Before subtraction: -220
+[08:57:24] INFO: HP After subtraction: -230
+[08:57:24] INFO: Player died :<
+[08:57:24] INFO: Player died!
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Shooting!
+[08:57:24] INFO: Bullets mag can hold: 10
+[08:57:24] INFO: Bullets mag can hold: 32726
+[08:57:24] INFO: Whole ammunition: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Player Received DMG!
+[08:57:24] INFO: HP Before subtraction: -230
+[08:57:24] INFO: HP After subtraction: -240
+[08:57:24] INFO: Player died :<
+[08:57:24] INFO: Player died!
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:24] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:24] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Shooting!
+[08:57:25] INFO: Bullets mag can hold: 10
+[08:57:25] INFO: Bullets mag can hold: 32725
+[08:57:25] INFO: Whole ammunition: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Player Received DMG!
+[08:57:25] INFO: HP Before subtraction: -240
+[08:57:25] INFO: HP After subtraction: -250
+[08:57:25] INFO: Player died :<
+[08:57:25] INFO: Player died!
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Shooting!
+[08:57:25] INFO: Bullets mag can hold: 10
+[08:57:25] INFO: Bullets mag can hold: 32724
+[08:57:25] INFO: Whole ammunition: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Player Received DMG!
+[08:57:25] INFO: HP Before subtraction: -250
+[08:57:25] INFO: HP After subtraction: -260
+[08:57:25] INFO: Player died :<
+[08:57:25] INFO: Player died!
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Shooting!
+[08:57:25] INFO: Bullets mag can hold: 10
+[08:57:25] INFO: Bullets mag can hold: 32723
+[08:57:25] INFO: Whole ammunition: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Player Received DMG!
+[08:57:25] INFO: HP Before subtraction: -260
+[08:57:25] INFO: HP After subtraction: -270
+[08:57:25] INFO: Player died :<
+[08:57:25] INFO: Player died!
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Shooting!
+[08:57:25] INFO: Bullets mag can hold: 10
+[08:57:25] INFO: Bullets mag can hold: 32722
+[08:57:25] INFO: Whole ammunition: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Player Received DMG!
+[08:57:25] INFO: HP Before subtraction: -270
+[08:57:25] INFO: HP After subtraction: -280
+[08:57:25] INFO: Player died :<
+[08:57:25] INFO: Player died!
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Player Received DMG!
+[08:57:25] INFO: HP Before subtraction: -280
+[08:57:25] INFO: HP After subtraction: -290
+[08:57:25] INFO: Player died :<
+[08:57:25] INFO: Player died!
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Shooting!
+[08:57:25] INFO: Bullets mag can hold: 10
+[08:57:25] INFO: Bullets mag can hold: 32721
+[08:57:25] INFO: Whole ammunition: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Player Received DMG!
+[08:57:25] INFO: HP Before subtraction: -290
+[08:57:25] INFO: HP After subtraction: -300
+[08:57:25] INFO: Player died :<
+[08:57:25] INFO: Player died!
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Shooting!
+[08:57:25] INFO: Bullets mag can hold: 10
+[08:57:25] INFO: Bullets mag can hold: 32720
+[08:57:25] INFO: Whole ammunition: 0
+[08:57:25] INFO: Player Received DMG!
+[08:57:25] INFO: HP Before subtraction: -300
+[08:57:25] INFO: HP After subtraction: -310
+[08:57:25] INFO: Player died :<
+[08:57:25] INFO: Player died!
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:25] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:25] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Shooting!
+[08:57:26] INFO: Bullets mag can hold: 10
+[08:57:26] INFO: Bullets mag can hold: 32719
+[08:57:26] INFO: Whole ammunition: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Shooting!
+[08:57:26] INFO: Bullets mag can hold: 10
+[08:57:26] INFO: Bullets mag can hold: 32718
+[08:57:26] INFO: Whole ammunition: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Player Received DMG!
+[08:57:26] INFO: HP Before subtraction: -310
+[08:57:26] INFO: HP After subtraction: -320
+[08:57:26] INFO: Player died :<
+[08:57:26] INFO: Player died!
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Player Received DMG!
+[08:57:26] INFO: HP Before subtraction: -320
+[08:57:26] INFO: HP After subtraction: -330
+[08:57:26] INFO: Player died :<
+[08:57:26] INFO: Player died!
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:26] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:26] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Shooting!
+[08:57:27] INFO: Bullets mag can hold: 10
+[08:57:27] INFO: Bullets mag can hold: 32717
+[08:57:27] INFO: Whole ammunition: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Shooting!
+[08:57:27] INFO: Bullets mag can hold: 10
+[08:57:27] INFO: Bullets mag can hold: 32716
+[08:57:27] INFO: Whole ammunition: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Player Received DMG!
+[08:57:27] INFO: HP Before subtraction: -330
+[08:57:27] INFO: HP After subtraction: -340
+[08:57:27] INFO: Player died :<
+[08:57:27] INFO: Player died!
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Shooting!
+[08:57:27] INFO: Bullets mag can hold: 10
+[08:57:27] INFO: Bullets mag can hold: 32715
+[08:57:27] INFO: Whole ammunition: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Player Received DMG!
+[08:57:27] INFO: HP Before subtraction: -340
+[08:57:27] INFO: HP After subtraction: -350
+[08:57:27] INFO: Player died :<
+[08:57:27] INFO: Player died!
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Shooting!
+[08:57:27] INFO: Bullets mag can hold: 10
+[08:57:27] INFO: Bullets mag can hold: 32714
+[08:57:27] INFO: Whole ammunition: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:27] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:27] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Player Received DMG!
+[08:57:28] INFO: HP Before subtraction: -350
+[08:57:28] INFO: HP After subtraction: -360
+[08:57:28] INFO: Player died :<
+[08:57:28] INFO: Player died!
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Shooting!
+[08:57:28] INFO: Bullets mag can hold: 10
+[08:57:28] INFO: Bullets mag can hold: 32713
+[08:57:28] INFO: Whole ammunition: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Player Received DMG!
+[08:57:28] INFO: HP Before subtraction: -360
+[08:57:28] INFO: HP After subtraction: -370
+[08:57:28] INFO: Player died :<
+[08:57:28] INFO: Player died!
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Shooting!
+[08:57:28] INFO: Bullets mag can hold: 10
+[08:57:28] INFO: Bullets mag can hold: 32712
+[08:57:28] INFO: Whole ammunition: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Player Received DMG!
+[08:57:28] INFO: HP Before subtraction: -370
+[08:57:28] INFO: HP After subtraction: -380
+[08:57:28] INFO: Player died :<
+[08:57:28] INFO: Player died!
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Shooting!
+[08:57:28] INFO: Bullets mag can hold: 10
+[08:57:28] INFO: Bullets mag can hold: 32711
+[08:57:28] INFO: Whole ammunition: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Player Received DMG!
+[08:57:28] INFO: HP Before subtraction: -380
+[08:57:28] INFO: HP After subtraction: -390
+[08:57:28] INFO: Player died :<
+[08:57:28] INFO: Player died!
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Shooting!
+[08:57:28] INFO: Bullets mag can hold: 10
+[08:57:28] INFO: Bullets mag can hold: 32710
+[08:57:28] INFO: Whole ammunition: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Player Received DMG!
+[08:57:28] INFO: HP Before subtraction: -390
+[08:57:28] INFO: HP After subtraction: -400
+[08:57:28] INFO: Player died :<
+[08:57:28] INFO: Player died!
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:28] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:28] INFO: Shooting!
+[08:57:28] INFO: Bullets mag can hold: 10
+[08:57:28] INFO: Bullets mag can hold: 32709
+[08:57:28] INFO: Whole ammunition: 0
+[08:57:28] INFO: Is ALIVE: 0
+[08:57:29] INFO: shouldMechTrooperBeAlive_p: 0
+[08:57:29] INFO: Is ALIVE: 0
+[09:00:50] INFO: mechTrooper texture loaded! OK
+[09:00:50] INFO: shootMechTrooper texture loaded! OK
+[09:00:50] INFO: playerTexture texture loaded! OK
+[09:00:51] INFO: Background texture loaded! OK
+[09:00:52] INFO: Shooting!
+[09:00:52] INFO: Bullets mag can hold: 10
+[09:00:52] INFO: Bullets mag can hold: 32766
+[09:00:52] INFO: Whole ammunition: 29
+[09:00:53] INFO: Shooting!
+[09:00:53] INFO: Bullets mag can hold: 10
+[09:00:53] INFO: Bullets mag can hold: 32765
+[09:00:53] INFO: Whole ammunition: 28
+[09:00:53] INFO: Player Received DMG!
+[09:00:53] INFO: HP Before subtraction: 100
+[09:00:53] INFO: HP After subtraction: 90
+[09:00:53] INFO: Shooting!
+[09:00:53] INFO: Bullets mag can hold: 10
+[09:00:53] INFO: Bullets mag can hold: 32764
+[09:00:53] INFO: Whole ammunition: 27
+[09:00:53] INFO: Player Received DMG!
+[09:00:53] INFO: HP Before subtraction: 90
+[09:00:53] INFO: HP After subtraction: 80
+[09:00:53] INFO: Shooting!
+[09:00:53] INFO: Bullets mag can hold: 10
+[09:00:53] INFO: Bullets mag can hold: 32763
+[09:00:53] INFO: Whole ammunition: 26
+[09:00:53] INFO: Player Received DMG!
+[09:00:53] INFO: HP Before subtraction: 80
+[09:00:53] INFO: HP After subtraction: 70
+[09:00:53] INFO: Shooting!
+[09:00:53] INFO: Bullets mag can hold: 10
+[09:00:53] INFO: Bullets mag can hold: 32762
+[09:00:53] INFO: Whole ammunition: 25
+[09:00:53] INFO: Player Received DMG!
+[09:00:53] INFO: HP Before subtraction: 70
+[09:00:53] INFO: HP After subtraction: 60
+[09:00:54] INFO: Player Received DMG!
+[09:00:54] INFO: HP Before subtraction: 60
+[09:00:54] INFO: HP After subtraction: 50
+[09:00:54] INFO: Shooting!
+[09:00:54] INFO: Bullets mag can hold: 10
+[09:00:54] INFO: Bullets mag can hold: 32761
+[09:00:54] INFO: Whole ammunition: 24
+[09:00:54] INFO: Shooting!
+[09:00:54] INFO: Bullets mag can hold: 10
+[09:00:54] INFO: Bullets mag can hold: 32760
+[09:00:54] INFO: Whole ammunition: 23
+[09:00:54] INFO: Player Received DMG!
+[09:00:54] INFO: HP Before subtraction: 50
+[09:00:54] INFO: HP After subtraction: 40
+[09:00:54] INFO: Shooting!
+[09:00:54] INFO: Bullets mag can hold: 10
+[09:00:54] INFO: Bullets mag can hold: 32759
+[09:00:54] INFO: Whole ammunition: 22
+[09:00:55] INFO: Player Received DMG!
+[09:00:55] INFO: HP Before subtraction: 40
+[09:00:55] INFO: HP After subtraction: 30
+[09:00:55] INFO: Player Received DMG!
+[09:00:55] INFO: HP Before subtraction: 30
+[09:00:55] INFO: HP After subtraction: 20
+[09:00:56] INFO: Bullets mag can hold: 30
+[09:00:56] INFO: Bullets in mag: 29
+[09:00:56] INFO: Whole ammunition: 119
+[09:00:56] INFO: Enemy Received DMG!
+[09:00:56] INFO: HP Before subtraction: 50
+[09:00:56] INFO: HP After subtraction: 35
+[09:00:56] INFO: Bullets mag can hold: 30
+[09:00:56] INFO: Bullets in mag: 28
+[09:00:56] INFO: Whole ammunition: 118
+[09:00:56] INFO: Enemy Received DMG!
+[09:00:56] INFO: HP Before subtraction: 35
+[09:00:56] INFO: HP After subtraction: 20
+[09:00:56] INFO: Bullets mag can hold: 30
+[09:00:56] INFO: Bullets in mag: 27
+[09:00:56] INFO: Whole ammunition: 117
+[09:00:56] INFO: Enemy Received DMG!
+[09:00:56] INFO: HP Before subtraction: 20
+[09:00:56] INFO: HP After subtraction: 5
+[09:00:56] INFO: Bullets mag can hold: 30
+[09:00:56] INFO: Bullets in mag: 26
+[09:00:56] INFO: Whole ammunition: 116
+[09:00:57] INFO: Enemy Received DMG!
+[09:00:57] INFO: HP Before subtraction: 5
+[09:00:57] INFO: HP After subtraction: -10
+[09:00:57] INFO: Enemy died!
+[09:00:57] INFO: Bullets mag can hold: 30
+[09:00:57] INFO: Bullets in mag: 25
+[09:00:57] INFO: Whole ammunition: 115
+[09:00:57] INFO: Enemy Received DMG!
+[09:00:57] INFO: HP Before subtraction: -10
+[09:00:57] INFO: HP After subtraction: -25
+[09:00:57] INFO: Enemy died!
+[09:01:04] INFO: Bullets mag can hold: 30
+[09:01:04] INFO: Bullets in mag: 24
+[09:01:04] INFO: Whole ammunition: 114
